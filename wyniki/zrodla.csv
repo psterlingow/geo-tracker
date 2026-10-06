@@ -1,0 +1,212 @@
+silnik,domena,typ,liczba_cytowan,udzial_w_silniku
+gemini,orlenpaczka.pl,strona marki,55,0.1173
+gemini,inpost.pl,strona marki,28,0.0597
+gemini,allekurier.pl,pośrednik kurierski,25,0.0533
+gemini,sendit.pl,pośrednik kurierski,21,0.0448
+gemini,furgonetka.pl,pośrednik kurierski,20,0.0426
+gemini,shipcenter.pl,pośrednik kurierski,17,0.0362
+gemini,globkurier.pl,pośrednik kurierski,14,0.0299
+gemini,kurierem.pl,pośrednik kurierski,14,0.0299
+gemini,polkurier.pl,inne,14,0.0299
+gemini,znajdzkuriera.pl,pośrednik kurierski,14,0.0299
+gemini,apaczka.pl,pośrednik kurierski,12,0.0256
+gemini,epaka.pl,pośrednik kurierski,11,0.0235
+gemini,patronservice.pl,inne,11,0.0235
+gemini,pocztex.pl,strona marki,11,0.0235
+gemini,clipinwlosy.pl,inne,10,0.0213
+gemini,dpd.com,strona marki,10,0.0213
+gemini,reddit.com,forum,10,0.0213
+gemini,allegro.pl,marketplace,9,0.0192
+gemini,kb.pl,inne,8,0.0171
+gemini,youtube.com,wideo,8,0.0171
+gemini,dhl.com,strona marki,7,0.0149
+gemini,eprzedsiebiorca.com,inne,7,0.0149
+gemini,packeta.pl,inne,7,0.0149
+gemini,poczta-polska.pl,strona marki,7,0.0149
+gemini,firmykurierskie.com,inne,6,0.0128
+gemini,przesylarka.pl,inne,6,0.0128
+gemini,soluma.pl,inne,6,0.0128
+gemini,jakimkurierem.pl,inne,4,0.0085
+gemini,kurjerzy.pl,inne,4,0.0085
+gemini,trustpilot.com,opinie,4,0.0085
+gemini,uke.gov.pl,urząd,4,0.0085
+gemini,cashless.pl,inne,3,0.0064
+gemini,dobre-rady.eu,inne,3,0.0064
+gemini,dpd.com.pl,inne,3,0.0064
+gemini,gigaprint.pl,inne,3,0.0064
+gemini,idealnysklepik.pl,inne,3,0.0064
+gemini,interaktywnie.com,inne,3,0.0064
+gemini,kuriero.pl,inne,3,0.0064
+gemini,orlen.pl,inne,3,0.0064
+gemini,wykop.pl,forum,3,0.0064
+gemini,bezprawnik.pl,inne,2,0.0043
+gemini,ceo.com.pl,inne,2,0.0043
+gemini,dhlexpress.pl,inne,2,0.0043
+gemini,gowork.pl,inne,2,0.0043
+gemini,hiro.pl,inne,2,0.0043
+gemini,kcmobile.pl,inne,2,0.0043
+gemini,kurierhub.pl,inne,2,0.0043
+gemini,mykurier.pl,inne,2,0.0043
+gemini,niepoddawajsie.pl,inne,2,0.0043
+gemini,pafit.pl,inne,2,0.0043
+gemini,rajapack.pl,inne,2,0.0043
+gemini,wiadomoscihandlowe.pl,media,2,0.0043
+gemini,wysylajtaniej.pl,inne,2,0.0043
+gemini,biurobot.pl,inne,1,0.0021
+gemini,businessinsider.com.pl,media,1,0.0021
+gemini,cartoncraft.pl,inne,1,0.0021
+gemini,ceneo.pl,porównywarka cen,1,0.0021
+gemini,colliers.pl,inne,1,0.0021
+gemini,donati24.pl,inne,1,0.0021
+gemini,drukomat.pl,inne,1,0.0021
+gemini,epakowacz.pl,inne,1,0.0021
+gemini,espedycja.com,inne,1,0.0021
+gemini,euro-paka.pl,inne,1,0.0021
+gemini,facebook.com,media społecznościowe,1,0.0021
+gemini,fakt.pl,inne,1,0.0021
+gemini,fashionbiznes.pl,inne,1,0.0021
+gemini,gazetalogistyka.pl,inne,1,0.0021
+gemini,google.com,inne,1,0.0021
+gemini,interia.pl,media,1,0.0021
+gemini,itreseller.pl,inne,1,0.0021
+gemini,kartony24.eu,inne,1,0.0021
+gemini,kodyrabatowy.pl,inne,1,0.0021
+gemini,logistyczny.net,inne,1,0.0021
+gemini,mybox24.pl,inne,1,0.0021
+gemini,newseria.pl,inne,1,0.0021
+gemini,openprint.pl,inne,1,0.0021
+gemini,opineo.pl,opinie,1,0.0021
+gemini,pakujto.pl,inne,1,0.0021
+gemini,pap.pl,inne,1,0.0021
+gemini,paqnek.pl,inne,1,0.0021
+gemini,profitshop.pl,inne,1,0.0021
+gemini,rp.pl,media,1,0.0021
+gemini,shoper.pl,inne,1,0.0021
+gemini,telepolis.pl,inne,1,0.0021
+gemini,wadowice24.pl,inne,1,0.0021
+openai,orlenpaczka.pl,strona marki,62,0.2394
+openai,inpost.pl,strona marki,59,0.2278
+openai,dhl.com,strona marki,31,0.1197
+openai,dpd.com,strona marki,26,0.1004
+openai,poczta-polska.pl,strona marki,13,0.0502
+openai,pl.trustpilot.com,opinie,9,0.0347
+openai,ceneo.pl,porównywarka cen,7,0.027
+openai,ups.com,strona marki,7,0.027
+openai,uokik.gov.pl,urząd,5,0.0193
+openai,cennik.poczta-polska.pl,strona marki,4,0.0154
+openai,vinted.pl,marketplace,4,0.0154
+openai,opineo.pl,opinie,3,0.0116
+openai,allegro.pl,marketplace,2,0.0077
+openai,archiwum.uokik.gov.pl,urząd,2,0.0077
+openai,fedex.com,inne,2,0.0077
+openai,spolecznosc.allegro.pl,marketplace,2,0.0077
+openai,trustpilot.com,opinie,2,0.0077
+openai,assets.dhl24.com.pl,inne,1,0.0039
+openai,assets.ups.com,strona marki,1,0.0039
+openai,bip.uke.gov.pl,urząd,1,0.0039
+openai,blisko.dpd.com.pl,inne,1,0.0039
+openai,businessinsider.com.pl,media,1,0.0039
+openai,designcart.pl,inne,1,0.0039
+openai,developer.gls-poland.com,inne,1,0.0039
+openai,dhlexpress.pl,inne,1,0.0039
+openai,dhlparcel.pl,strona marki,1,0.0039
+openai,gls-group.com,strona marki,1,0.0039
+openai,gowork.pl,inne,1,0.0039
+openai,itcs.dpd.com.pl,inne,1,0.0039
+openai,kariera.dpd.com.pl,inne,1,0.0039
+openai,nadaj.dpd.com.pl,inne,1,0.0039
+openai,pomoc.olx.pl,marketplace,1,0.0039
+openai,sendit.pl,pośrednik kurierski,1,0.0039
+openai,trustedshops.pl,inne,1,0.0039
+openai,zabka.pl,inne,1,0.0039
+openai,zgloszenia.dpd.com.pl,inne,1,0.0039
+perplexity,inpost.pl,strona marki,54,0.1134
+perplexity,orlenpaczka.pl,strona marki,53,0.1113
+perplexity,dpd.com,strona marki,50,0.105
+perplexity,znajdzkuriera.pl,pośrednik kurierski,44,0.0924
+perplexity,poczta-polska.pl,strona marki,15,0.0315
+perplexity,dhl.com,strona marki,13,0.0273
+perplexity,vinted.pl,marketplace,13,0.0273
+perplexity,pl.trustpilot.com,opinie,12,0.0252
+perplexity,globkurier.pl,pośrednik kurierski,11,0.0231
+perplexity,gls-group.com,strona marki,9,0.0189
+perplexity,prawakonsumenta.uokik.gov.pl,urząd,8,0.0168
+perplexity,apaczka.pl,pośrednik kurierski,7,0.0147
+perplexity,fakt.pl,inne,7,0.0147
+perplexity,furgonetka.pl,pośrednik kurierski,7,0.0147
+perplexity,kb.pl,inne,6,0.0126
+perplexity,packeta.pl,inne,6,0.0126
+perplexity,wszczecinie.pl,inne,6,0.0126
+perplexity,cashless.pl,inne,5,0.0105
+perplexity,cennik.poczta-polska.pl,strona marki,5,0.0105
+perplexity,cik.uke.gov.pl,urząd,5,0.0105
+perplexity,dhlpoland.pl,inne,5,0.0105
+perplexity,dziennikwschodni.pl,inne,5,0.0105
+perplexity,godzinypoczty.pl,inne,5,0.0105
+perplexity,jakoscobslugi.pl,inne,5,0.0105
+perplexity,pomoc.olx.pl,marketplace,5,0.0105
+perplexity,przesylarka.pl,inne,5,0.0105
+perplexity,sendit.pl,pośrednik kurierski,5,0.0105
+perplexity,bankier.pl,media,4,0.0084
+perplexity,dhlbiznes.pl,inne,4,0.0084
+perplexity,ereklamacje.poczta-polska.pl,strona marki,4,0.0084
+perplexity,jakimkurierem.pl,inne,4,0.0084
+perplexity,uokik.gov.pl,urząd,4,0.0084
+perplexity,antyweb.pl,media,3,0.0063
+perplexity,bip.poczta-polska.pl,strona marki,3,0.0063
+perplexity,mydhl.express.dhl,inne,3,0.0063
+perplexity,opineo.pl,opinie,3,0.0063
+perplexity,orlen.pl,inne,3,0.0063
+perplexity,apps.apple.com,inne,2,0.0042
+perplexity,assets.ups.com,strona marki,2,0.0042
+perplexity,base.com,inne,2,0.0042
+perplexity,ceneo.pl,porównywarka cen,2,0.0042
+perplexity,fedex.com,inne,2,0.0042
+perplexity,kcmobile.pl,inne,2,0.0042
+perplexity,kurierem.pl,pośrednik kurierski,2,0.0042
+perplexity,nadaj.dpd.com.pl,inne,2,0.0042
+perplexity,natemat.pl,inne,2,0.0042
+perplexity,odbiorwpunkcie.poczta-polska.pl,strona marki,2,0.0042
+perplexity,pocztex.pl,strona marki,2,0.0042
+perplexity,shoper.pl,inne,2,0.0042
+perplexity,spark.mwm.ai,inne,2,0.0042
+perplexity,spidersweb.pl,media,2,0.0042
+perplexity,tania-paczka.net,inne,2,0.0042
+perplexity,trustpilot.com,opinie,2,0.0042
+perplexity,uke.gov.pl,urząd,2,0.0042
+perplexity,24hshop.pl,inne,1,0.0021
+perplexity,bezprawnik.pl,inne,1,0.0021
+perplexity,bip.uke.gov.pl,urząd,1,0.0021
+perplexity,blisko.dpd.com.pl,inne,1,0.0021
+perplexity,businessinsider.com.pl,media,1,0.0021
+perplexity,ca.trustpilot.com,opinie,1,0.0021
+perplexity,cargoson.com,inne,1,0.0021
+perplexity,chip.pl,inne,1,0.0021
+perplexity,chrome-stats.com,inne,1,0.0021
+perplexity,contelizer.pl,inne,1,0.0021
+perplexity,dealmo.pl,inne,1,0.0021
+perplexity,developer.ups.com,strona marki,1,0.0021
+perplexity,dhl.de,inne,1,0.0021
+perplexity,dhlexpress.pl,inne,1,0.0021
+perplexity,digitalvantage.pl,inne,1,0.0021
+perplexity,eurosender.com,inne,1,0.0021
+perplexity,facet.onet.pl,media,1,0.0021
+perplexity,harbingers.io,inne,1,0.0021
+perplexity,logistyka.rp.pl,media,1,0.0021
+perplexity,managementpapers.polsl.pl,inne,1,0.0021
+perplexity,media.poczta-polska.pl,strona marki,1,0.0021
+perplexity,meestpost.com,inne,1,0.0021
+perplexity,mycompanypolska.pl,inne,1,0.0021
+perplexity,opiniuj.pl,inne,1,0.0021
+perplexity,patronservice.pl,inne,1,0.0021
+perplexity,polkurier.pl,inne,1,0.0021
+perplexity,rp.pl,media,1,0.0021
+perplexity,shop.furgonetka.pl,pośrednik kurierski,1,0.0021
+perplexity,sip.lex.pl,inne,1,0.0021
+perplexity,sklep.poczta-polska.pl,strona marki,1,0.0021
+perplexity,spolecznosc.allegro.pl,marketplace,1,0.0021
+perplexity,strefabiznesu.pl,inne,1,0.0021
+perplexity,subiektywnieofinansach.pl,inne,1,0.0021
+perplexity,telepolis.pl,inne,1,0.0021
+perplexity,zabka.pl,inne,1,0.0021
+perplexity,zunapro.com,inne,1,0.0021

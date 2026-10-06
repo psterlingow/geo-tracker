@@ -1,0 +1,106 @@
+silnik,grupa,marka,klient,liczba_odpowiedzi,liczba_wzmianek,wskaznik_wzmianek,wilson_dol,wilson_gora,udzial_glosu,srednia_pozycja
+gemini,informacyjne,ORLEN Paczka,1,50,23,0.46,0.3297,0.596,0.108,2.48
+gemini,informacyjne,InPost,0,50,39,0.78,0.6476,0.8725,0.1831,1.33
+gemini,informacyjne,DPD,0,50,45,0.9,0.7864,0.9565,0.2113,2.31
+gemini,informacyjne,DHL,0,50,39,0.78,0.6476,0.8725,0.1831,3.33
+gemini,informacyjne,GLS,0,50,27,0.54,0.404,0.6703,0.1268,4.3
+gemini,informacyjne,Poczta Polska,0,50,32,0.64,0.5014,0.7586,0.1502,4.25
+gemini,informacyjne,UPS,0,50,8,0.16,0.0834,0.2851,0.0376,4.62
+gemini,markowe,ORLEN Paczka,1,50,50,1.0,0.9286,1.0,0.5556,1.0
+gemini,markowe,InPost,0,50,16,0.32,0.2076,0.4581,0.1778,2.25
+gemini,markowe,DPD,0,50,9,0.18,0.0977,0.308,0.1,2.67
+gemini,markowe,DHL,0,50,5,0.1,0.0435,0.2136,0.0556,3.6
+gemini,markowe,GLS,0,50,3,0.06,0.0206,0.1622,0.0333,4.0
+gemini,markowe,Poczta Polska,0,50,6,0.12,0.0562,0.2381,0.0667,4.67
+gemini,markowe,UPS,0,50,1,0.02,0.0035,0.105,0.0111,5.0
+gemini,porownawcze,ORLEN Paczka,1,50,21,0.42,0.2937,0.5577,0.1721,1.57
+gemini,porownawcze,InPost,0,50,33,0.66,0.5215,0.7756,0.2705,1.88
+gemini,porownawcze,DPD,0,50,28,0.56,0.4231,0.6884,0.2295,2.0
+gemini,porownawcze,DHL,0,50,15,0.3,0.191,0.4375,0.123,2.07
+gemini,porownawcze,GLS,0,50,10,0.2,0.1124,0.3304,0.082,2.0
+gemini,porownawcze,Poczta Polska,0,50,10,0.2,0.1124,0.3304,0.082,1.5
+gemini,porownawcze,UPS,0,50,5,0.1,0.0435,0.2136,0.041,1.0
+gemini,rekomendacyjne,ORLEN Paczka,1,50,25,0.5,0.3664,0.6336,0.1025,2.4
+gemini,rekomendacyjne,InPost,0,50,50,1.0,0.9286,1.0,0.2049,1.86
+gemini,rekomendacyjne,DPD,0,50,50,1.0,0.9286,1.0,0.2049,2.4
+gemini,rekomendacyjne,DHL,0,50,44,0.88,0.7619,0.9438,0.1803,3.16
+gemini,rekomendacyjne,GLS,0,50,23,0.46,0.3297,0.596,0.0943,3.87
+gemini,rekomendacyjne,Poczta Polska,0,50,32,0.64,0.5014,0.7586,0.1311,4.91
+gemini,rekomendacyjne,UPS,0,50,20,0.4,0.2761,0.5382,0.082,3.95
+openai,informacyjne,ORLEN Paczka,1,50,8,0.16,0.0834,0.2851,0.0684,4.0
+openai,informacyjne,InPost,0,50,31,0.62,0.4815,0.7414,0.265,1.32
+openai,informacyjne,DPD,0,50,23,0.46,0.3297,0.596,0.1966,2.26
+openai,informacyjne,DHL,0,50,24,0.48,0.348,0.6149,0.2051,2.88
+openai,informacyjne,GLS,0,50,9,0.18,0.0977,0.308,0.0769,4.22
+openai,informacyjne,Poczta Polska,0,50,20,0.4,0.2761,0.5382,0.1709,3.65
+openai,informacyjne,UPS,0,50,2,0.04,0.011,0.1346,0.0171,4.0
+openai,markowe,ORLEN Paczka,1,50,50,1.0,0.9286,1.0,0.6667,1.02
+openai,markowe,InPost,0,50,14,0.28,0.1747,0.4167,0.1867,1.93
+openai,markowe,DPD,0,50,9,0.18,0.0977,0.308,0.12,3.0
+openai,markowe,DHL,0,50,2,0.04,0.011,0.1346,0.0267,4.0
+openai,markowe,GLS,0,50,0,0.0,0.0,0.0714,0.0,
+openai,markowe,Poczta Polska,0,50,0,0.0,0.0,0.0714,0.0,
+openai,markowe,UPS,0,50,0,0.0,0.0,0.0714,0.0,
+openai,porownawcze,ORLEN Paczka,1,50,20,0.4,0.2761,0.5382,0.177,1.75
+openai,porownawcze,InPost,0,50,26,0.52,0.3851,0.652,0.2301,1.42
+openai,porownawcze,DPD,0,50,26,0.52,0.3851,0.652,0.2301,1.69
+openai,porownawcze,DHL,0,50,16,0.32,0.2076,0.4581,0.1416,1.81
+openai,porownawcze,GLS,0,50,10,0.2,0.1124,0.3304,0.0885,1.8
+openai,porownawcze,Poczta Polska,0,50,10,0.2,0.1124,0.3304,0.0885,2.0
+openai,porownawcze,UPS,0,50,5,0.1,0.0435,0.2136,0.0442,2.0
+openai,rekomendacyjne,ORLEN Paczka,1,50,18,0.36,0.2414,0.4986,0.1023,2.28
+openai,rekomendacyjne,InPost,0,50,47,0.94,0.8378,0.9794,0.267,1.55
+openai,rekomendacyjne,DPD,0,50,44,0.88,0.7619,0.9438,0.25,2.5
+openai,rekomendacyjne,DHL,0,50,42,0.84,0.7149,0.9166,0.2386,2.43
+openai,rekomendacyjne,GLS,0,50,10,0.2,0.1124,0.3304,0.0568,4.4
+openai,rekomendacyjne,Poczta Polska,0,50,4,0.08,0.0315,0.1884,0.0227,3.75
+openai,rekomendacyjne,UPS,0,50,11,0.22,0.1275,0.3524,0.0625,3.73
+perplexity,informacyjne,ORLEN Paczka,1,50,8,0.16,0.0834,0.2851,0.1039,1.75
+perplexity,informacyjne,InPost,0,50,25,0.5,0.3664,0.6336,0.3247,1.4
+perplexity,informacyjne,DPD,0,50,17,0.34,0.2244,0.4785,0.2208,2.35
+perplexity,informacyjne,DHL,0,50,4,0.08,0.0315,0.1884,0.0519,2.75
+perplexity,informacyjne,GLS,0,50,4,0.08,0.0315,0.1884,0.0519,1.0
+perplexity,informacyjne,Poczta Polska,0,50,19,0.38,0.2586,0.5185,0.2468,2.16
+perplexity,informacyjne,UPS,0,50,0,0.0,0.0,0.0714,0.0,
+perplexity,markowe,ORLEN Paczka,1,50,42,0.84,0.7149,0.9166,0.8936,1.0
+perplexity,markowe,InPost,0,50,5,0.1,0.0435,0.2136,0.1064,2.0
+perplexity,markowe,DPD,0,50,0,0.0,0.0,0.0714,0.0,
+perplexity,markowe,DHL,0,50,0,0.0,0.0,0.0714,0.0,
+perplexity,markowe,GLS,0,50,0,0.0,0.0,0.0714,0.0,
+perplexity,markowe,Poczta Polska,0,50,0,0.0,0.0,0.0714,0.0,
+perplexity,markowe,UPS,0,50,0,0.0,0.0,0.0714,0.0,
+perplexity,porownawcze,ORLEN Paczka,1,50,21,0.42,0.2937,0.5577,0.1892,1.52
+perplexity,porownawcze,InPost,0,50,25,0.5,0.3664,0.6336,0.2252,1.52
+perplexity,porownawcze,DPD,0,50,25,0.5,0.3664,0.6336,0.2252,1.72
+perplexity,porownawcze,DHL,0,50,15,0.3,0.191,0.4375,0.1351,2.2
+perplexity,porownawcze,GLS,0,50,10,0.2,0.1124,0.3304,0.0901,1.8
+perplexity,porownawcze,Poczta Polska,0,50,10,0.2,0.1124,0.3304,0.0901,1.6
+perplexity,porownawcze,UPS,0,50,5,0.1,0.0435,0.2136,0.045,1.6
+perplexity,rekomendacyjne,ORLEN Paczka,1,50,17,0.34,0.2244,0.4785,0.136,2.12
+perplexity,rekomendacyjne,InPost,0,50,35,0.7,0.5625,0.809,0.28,1.26
+perplexity,rekomendacyjne,DPD,0,50,29,0.58,0.4423,0.7063,0.232,2.17
+perplexity,rekomendacyjne,DHL,0,50,22,0.44,0.3116,0.5769,0.176,2.14
+perplexity,rekomendacyjne,GLS,0,50,4,0.08,0.0315,0.1884,0.032,4.25
+perplexity,rekomendacyjne,Poczta Polska,0,50,7,0.14,0.0695,0.2619,0.056,3.29
+perplexity,rekomendacyjne,UPS,0,50,11,0.22,0.1275,0.3524,0.088,2.27
+gemini,wszystkie,ORLEN Paczka,1,200,119,0.595,0.5258,0.6606,0.1779,1.68
+gemini,wszystkie,InPost,0,200,138,0.69,0.6228,0.75,0.2063,1.76
+gemini,wszystkie,DPD,0,200,132,0.66,0.5919,0.7221,0.1973,2.3
+gemini,wszystkie,DHL,0,200,103,0.515,0.4461,0.5833,0.154,3.09
+gemini,wszystkie,GLS,0,200,63,0.315,0.2546,0.3824,0.0942,3.76
+gemini,wszystkie,Poczta Polska,0,200,80,0.4,0.3346,0.4692,0.1196,4.2
+gemini,wszystkie,UPS,0,200,34,0.17,0.1243,0.2282,0.0508,3.71
+openai,wszystkie,ORLEN Paczka,1,200,96,0.48,0.4118,0.549,0.1996,1.66
+openai,wszystkie,InPost,0,200,118,0.59,0.5208,0.6558,0.2453,1.51
+openai,wszystkie,DPD,0,200,102,0.51,0.4412,0.5784,0.2121,2.28
+openai,wszystkie,DHL,0,200,84,0.42,0.3537,0.4893,0.1746,2.48
+openai,wszystkie,GLS,0,200,29,0.145,0.1029,0.2005,0.0603,3.45
+openai,wszystkie,Poczta Polska,0,200,34,0.17,0.1243,0.2282,0.0707,3.18
+openai,wszystkie,UPS,0,200,18,0.09,0.0577,0.1378,0.0374,3.28
+perplexity,wszystkie,ORLEN Paczka,1,200,88,0.44,0.373,0.5093,0.2444,1.41
+perplexity,wszystkie,InPost,0,200,90,0.45,0.3826,0.5192,0.25,1.41
+perplexity,wszystkie,DPD,0,200,71,0.355,0.292,0.4235,0.1972,2.06
+perplexity,wszystkie,DHL,0,200,41,0.205,0.1549,0.2663,0.1139,2.22
+perplexity,wszystkie,GLS,0,200,18,0.09,0.0577,0.1378,0.05,2.17
+perplexity,wszystkie,Poczta Polska,0,200,36,0.18,0.1329,0.2391,0.1,2.22
+perplexity,wszystkie,UPS,0,200,16,0.08,0.0498,0.126,0.0444,2.06

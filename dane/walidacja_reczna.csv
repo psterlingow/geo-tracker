@@ -1,0 +1,31 @@
+id_zapytania,silnik,marki_recznie
+R01,openai,InPost|DPD|GLS|DHL|Poczta Polska
+R01,gemini,InPost|DPD|DHL|GLS|Poczta Polska|Orlen Paczka
+R01,perplexity,InPost|DPD|DHL|Orlen Paczka|UPS|FedEx
+R02,openai,InPost|DPD
+R02,gemini,DHL|Orlen Paczka|GLS|InPost
+R02,perplexity,InPosy|DHL|Orlen Paczka|GLS|DPD
+R03,openai,InPost|DPD|DHL
+R03,gemini,Furgonetka|Apaczka|AlleKurier|Sendit|Orlen Paczka|InPost|DPD|DHL
+R03,perplexity,InPost|DPD|DHL
+R04,openai,DPD|InPost
+R04,gemini,DPD|InPost
+R04,perplexity,DPD|UPS|InPost
+R05,openai,InPost|DPD|Orlen Paczka
+R05,gemini,InPost|Allegro
+R05,perplexity,Poczta Polska|Orlen Paczka|GLS|DHL
+R06,openai,DHL|DPD|InPost|UPS
+R06,gemini,DPD|GLS|UPS|DHL|Poczta Polska
+R06,perplexity,DPD|DLH|UPS|FedEX|
+R07,openai,InPost|DPD|DHL|GLS|UPS|FedEX
+R07,gemini,InPost|DHL|DPD|GLS
+R07,perplexity,DHL|InPost|UPS|DPD
+R08,openai,InPost|Poczta Polska|DHL|DPD|Orlen Paczka
+R08,gemini,InPost|DPD|GLS|Orlen Paczka|Poczta Polska
+R08,perplexity,InPost|Orlen Paczka|DPD|DHL
+R09,openai,GLS|DPD|DHL|FedEX
+R09,gemini,InPost|DPD|DHL|FedEx
+R09,perplexity,InPost|DPD|DHL|UPS
+R10,openai,InPost|Orlen Paczka|DPD
+R10,gemini,InPost|Orlen Paczka|Allegro One|DHL|DPD
+R10,perplexity,InPost|Orlen Paczka|DHL|GLS|Poczta Polska

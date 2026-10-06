@@ -1,0 +1,13 @@
+silnik,grupa,liczba_odpowiedzi,z_wyszukiwaniem,odsetek_z_wyszukiwaniem
+gemini,informacyjne,50,13,0.26
+gemini,markowe,50,39,0.78
+gemini,porownawcze,50,25,0.5
+gemini,rekomendacyjne,50,15,0.3
+openai,informacyjne,50,11,0.22
+openai,markowe,50,42,0.84
+openai,porownawcze,50,38,0.76
+openai,rekomendacyjne,50,45,0.9
+perplexity,informacyjne,50,50,1.0
+perplexity,markowe,50,50,1.0
+perplexity,porownawcze,50,50,1.0
+perplexity,rekomendacyjne,50,50,1.0

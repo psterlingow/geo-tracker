@@ -1,0 +1,41 @@
+id,grupa,zapytanie
+I01,informacyjne,Jak nadać paczkę bez drukarki?
+I02,informacyjne,Ile kosztuje wysłanie paczki do 5 kg w Polsce?
+I03,informacyjne,"Jak zapakować paczkę, żeby kurier jej nie uszkodził?"
+I04,informacyjne,"Co zrobić, gdy kurier zgubił paczkę? Jak złożyć reklamację?"
+I05,informacyjne,"Jak wysłać paczkę do Niemiec i ile to kosztuje?"
+I06,informacyjne,Czym się różni wysyłka przez automat paczkowy od wysyłki kurierem?
+I07,informacyjne,Jak długo idzie paczka kurierem w Polsce?
+I08,informacyjne,Jak wysłać paczkę za pobraniem?
+I09,informacyjne,Jakie są maksymalne wymiary i waga paczki do automatu paczkowego?
+I10,informacyjne,Jak najtaniej zwrócić zamówienie do sklepu internetowego?
+R01,rekomendacyjne,Jaką firmę kurierską polecasz do wysyłki paczek w Polsce?
+R02,rekomendacyjne,Który kurier jest najtańszy do wysyłki małej paczki?
+R03,rekomendacyjne,"Prowadzę mały sklep internetowy i wysyłam około 100 paczek miesięcznie. Z którą firmą kurierską podpisać umowę?"
+R04,rekomendacyjne,Który kurier najrzadziej gubi i niszczy paczki?
+R05,rekomendacyjne,"Mieszkam w małym mieście. Która sieć automatów paczkowych będzie miała punkt najbliżej mnie?"
+R06,rekomendacyjne,Jakiego kuriera polecasz do wysyłki paczki z Polski za granicę?
+R07,rekomendacyjne,Która firma kurierska w Polsce ma najlepszą obsługę klienta?
+R08,rekomendacyjne,"Sprzedaję rzeczy na OLX i Vinted. Jakim przewoźnikiem najlepiej je wysyłać?"
+R09,rekomendacyjne,"Który kurier dostarcza najszybciej, najlepiej następnego dnia?"
+R10,rekomendacyjne,"Szukam taniej i wygodnej sieci punktów odbioru paczek. Co polecasz?"
+P01,porownawcze,InPost czy DPD – kto lepiej dostarcza paczki?
+P02,porownawcze,ORLEN Paczka czy InPost – co lepsze do wysyłki rzeczy sprzedanych na Vinted?
+P03,porownawcze,DHL czy DPD – który kurier jest bardziej niezawodny?
+P04,porownawcze,Poczta Polska czy InPost – gdzie taniej wysłać paczkę?
+P05,porownawcze,GLS czy DPD dla sklepu internetowego – co wybrać?
+P06,porownawcze,ORLEN Paczka czy Poczta Polska – gdzie taniej nadać paczkę?
+P07,porownawcze,"Porównaj ceny wysyłki paczki 10 kg w InPost, DPD, DHL i ORLEN Paczka."
+P08,porownawcze,UPS czy DHL do wysyłki paczki do Wielkiej Brytanii?
+P09,porownawcze,Automaty InPost czy ORLEN Paczka – która sieć ma więcej punktów?
+P10,porownawcze,DPD czy GLS – który kurier częściej przychodzi na czas?
+M01,markowe,Czy ORLEN Paczka jest dobra? Jakie ma wady?
+M02,markowe,Ile kosztuje wysłanie paczki przez ORLEN Paczka?
+M03,markowe,Jak nadać paczkę w ORLEN Paczka krok po kroku?
+M04,markowe,"Czy ORLEN Paczka gubi paczki? Jakie są opinie klientów?"
+M05,markowe,Gdzie są punkty i automaty ORLEN Paczka?
+M06,markowe,Ile idzie paczka wysłana przez ORLEN Paczka?
+M07,markowe,Jak złożyć reklamację w ORLEN Paczka?
+M08,markowe,Czy ORLEN Paczka obsługuje wysyłkę za granicę?
+M09,markowe,Czy ORLEN Paczka jest tańsza niż Paczkomaty InPost?
+M10,markowe,Jak długo paczka czeka na odbiór w ORLEN Paczka?

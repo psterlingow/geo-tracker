@@ -1,0 +1,1511 @@
+silnik,grupa,id_zapytania,proba,marka,pozycja
+perplexity,rekomendacyjne,R02,1,DHL,1
+perplexity,rekomendacyjne,R02,1,ORLEN Paczka,2
+perplexity,rekomendacyjne,R02,1,DPD,3
+perplexity,rekomendacyjne,R02,1,Poczta Polska,4
+openai,informacyjne,I01,1,InPost,1
+openai,informacyjne,I01,1,DPD,2
+openai,informacyjne,I01,1,ORLEN Paczka,3
+openai,informacyjne,I01,1,DHL,4
+openai,informacyjne,I01,2,InPost,1
+openai,informacyjne,I01,2,DPD,2
+openai,informacyjne,I01,2,DHL,3
+openai,informacyjne,I01,2,ORLEN Paczka,4
+openai,informacyjne,I01,2,Poczta Polska,5
+openai,informacyjne,I01,3,InPost,1
+openai,informacyjne,I01,3,DPD,2
+openai,informacyjne,I01,3,DHL,3
+openai,informacyjne,I01,3,GLS,4
+openai,informacyjne,I01,3,ORLEN Paczka,5
+openai,informacyjne,I01,4,InPost,1
+openai,informacyjne,I01,4,DPD,2
+openai,informacyjne,I01,4,DHL,3
+openai,informacyjne,I01,4,ORLEN Paczka,4
+openai,informacyjne,I01,5,InPost,1
+openai,informacyjne,I01,5,DHL,2
+openai,informacyjne,I01,5,DPD,3
+openai,informacyjne,I01,5,ORLEN Paczka,4
+openai,informacyjne,I01,5,Poczta Polska,5
+gemini,informacyjne,I01,1,InPost,1
+gemini,informacyjne,I01,1,DPD,2
+gemini,informacyjne,I01,1,ORLEN Paczka,3
+gemini,informacyjne,I01,1,DHL,4
+gemini,informacyjne,I01,1,Poczta Polska,5
+gemini,informacyjne,I01,2,InPost,1
+gemini,informacyjne,I01,2,DPD,2
+gemini,informacyjne,I01,2,ORLEN Paczka,3
+gemini,informacyjne,I01,2,Poczta Polska,4
+gemini,informacyjne,I01,3,InPost,1
+gemini,informacyjne,I01,3,ORLEN Paczka,2
+gemini,informacyjne,I01,3,DHL,3
+gemini,informacyjne,I01,3,DPD,4
+gemini,informacyjne,I01,3,Poczta Polska,5
+gemini,informacyjne,I01,4,InPost,1
+gemini,informacyjne,I01,4,DPD,2
+gemini,informacyjne,I01,4,ORLEN Paczka,3
+gemini,informacyjne,I01,4,DHL,4
+gemini,informacyjne,I01,4,Poczta Polska,5
+gemini,informacyjne,I01,5,InPost,1
+gemini,informacyjne,I01,5,ORLEN Paczka,2
+gemini,informacyjne,I01,5,DPD,3
+gemini,informacyjne,I01,5,DHL,4
+gemini,informacyjne,I01,5,Poczta Polska,5
+perplexity,informacyjne,I01,1,InPost,1
+perplexity,informacyjne,I01,1,DHL,2
+perplexity,informacyjne,I01,2,InPost,1
+perplexity,informacyjne,I01,2,Poczta Polska,2
+perplexity,informacyjne,I01,3,InPost,1
+perplexity,informacyjne,I01,3,DPD,2
+perplexity,informacyjne,I01,3,DHL,3
+perplexity,informacyjne,I01,4,InPost,1
+perplexity,informacyjne,I01,4,Poczta Polska,2
+perplexity,informacyjne,I01,5,InPost,1
+perplexity,informacyjne,I01,5,Poczta Polska,2
+openai,informacyjne,I02,1,InPost,1
+openai,informacyjne,I02,1,Poczta Polska,2
+openai,informacyjne,I02,1,DPD,3
+openai,informacyjne,I02,2,InPost,1
+openai,informacyjne,I02,2,ORLEN Paczka,2
+openai,informacyjne,I02,3,Poczta Polska,1
+openai,informacyjne,I02,3,InPost,2
+openai,informacyjne,I02,3,DPD,3
+openai,informacyjne,I02,3,DHL,4
+openai,informacyjne,I02,3,GLS,5
+openai,informacyjne,I02,4,InPost,1
+openai,informacyjne,I02,4,DPD,2
+openai,informacyjne,I02,4,DHL,3
+openai,informacyjne,I02,4,ORLEN Paczka,4
+openai,informacyjne,I02,4,Poczta Polska,5
+openai,informacyjne,I02,5,InPost,1
+openai,informacyjne,I02,5,DPD,2
+openai,informacyjne,I02,5,DHL,3
+openai,informacyjne,I02,5,GLS,4
+openai,informacyjne,I02,5,Poczta Polska,5
+gemini,informacyjne,I02,1,ORLEN Paczka,1
+gemini,informacyjne,I02,1,InPost,2
+gemini,informacyjne,I02,1,Poczta Polska,3
+gemini,informacyjne,I02,1,DPD,4
+gemini,informacyjne,I02,1,DHL,5
+gemini,informacyjne,I02,1,GLS,6
+gemini,informacyjne,I02,2,ORLEN Paczka,1
+gemini,informacyjne,I02,2,InPost,2
+gemini,informacyjne,I02,2,DPD,3
+gemini,informacyjne,I02,2,Poczta Polska,4
+gemini,informacyjne,I02,2,DHL,5
+gemini,informacyjne,I02,2,GLS,6
+gemini,informacyjne,I02,3,ORLEN Paczka,1
+gemini,informacyjne,I02,3,InPost,2
+gemini,informacyjne,I02,3,Poczta Polska,3
+gemini,informacyjne,I02,3,DPD,4
+gemini,informacyjne,I02,3,DHL,5
+gemini,informacyjne,I02,3,GLS,6
+gemini,informacyjne,I02,4,ORLEN Paczka,1
+gemini,informacyjne,I02,4,InPost,2
+gemini,informacyjne,I02,4,Poczta Polska,3
+gemini,informacyjne,I02,4,DPD,4
+gemini,informacyjne,I02,4,DHL,5
+gemini,informacyjne,I02,4,GLS,6
+gemini,informacyjne,I02,5,ORLEN Paczka,1
+gemini,informacyjne,I02,5,InPost,2
+gemini,informacyjne,I02,5,Poczta Polska,3
+gemini,informacyjne,I02,5,DPD,4
+gemini,informacyjne,I02,5,DHL,5
+gemini,informacyjne,I02,5,GLS,6
+perplexity,informacyjne,I02,1,ORLEN Paczka,1
+perplexity,informacyjne,I02,1,InPost,2
+perplexity,informacyjne,I02,1,DPD,3
+perplexity,informacyjne,I02,1,Poczta Polska,4
+perplexity,informacyjne,I02,2,ORLEN Paczka,1
+perplexity,informacyjne,I02,2,InPost,2
+perplexity,informacyjne,I02,2,DPD,3
+perplexity,informacyjne,I02,3,ORLEN Paczka,1
+perplexity,informacyjne,I02,3,InPost,2
+perplexity,informacyjne,I02,3,DPD,3
+perplexity,informacyjne,I02,4,Poczta Polska,1
+perplexity,informacyjne,I02,4,InPost,2
+perplexity,informacyjne,I02,4,DPD,3
+perplexity,informacyjne,I02,5,ORLEN Paczka,1
+perplexity,informacyjne,I02,5,InPost,2
+perplexity,informacyjne,I02,5,DPD,3
+perplexity,informacyjne,I02,5,Poczta Polska,4
+openai,informacyjne,I04,1,InPost,1
+openai,informacyjne,I04,1,DPD,2
+openai,informacyjne,I04,1,DHL,3
+openai,informacyjne,I04,1,GLS,4
+openai,informacyjne,I04,1,Poczta Polska,5
+gemini,informacyjne,I04,1,InPost,1
+gemini,informacyjne,I04,1,DPD,2
+gemini,informacyjne,I04,1,DHL,3
+gemini,informacyjne,I04,1,GLS,4
+gemini,informacyjne,I04,1,Poczta Polska,5
+gemini,informacyjne,I04,2,InPost,1
+gemini,informacyjne,I04,2,DPD,2
+gemini,informacyjne,I04,2,DHL,3
+gemini,informacyjne,I04,2,GLS,4
+gemini,informacyjne,I04,2,Poczta Polska,5
+gemini,informacyjne,I04,3,InPost,1
+gemini,informacyjne,I04,3,DPD,2
+gemini,informacyjne,I04,3,DHL,3
+gemini,informacyjne,I04,3,GLS,4
+gemini,informacyjne,I04,3,Poczta Polska,5
+gemini,informacyjne,I04,4,InPost,1
+gemini,informacyjne,I04,4,DPD,2
+gemini,informacyjne,I04,4,DHL,3
+gemini,informacyjne,I04,4,GLS,4
+gemini,informacyjne,I04,4,Poczta Polska,5
+gemini,informacyjne,I04,5,InPost,1
+gemini,informacyjne,I04,5,DPD,2
+gemini,informacyjne,I04,5,DHL,3
+gemini,informacyjne,I04,5,GLS,4
+gemini,informacyjne,I04,5,Poczta Polska,5
+perplexity,informacyjne,I04,1,Poczta Polska,1
+perplexity,informacyjne,I04,3,Poczta Polska,1
+perplexity,informacyjne,I04,4,Poczta Polska,1
+perplexity,informacyjne,I04,5,Poczta Polska,1
+openai,informacyjne,I05,1,Poczta Polska,1
+openai,informacyjne,I05,1,DHL,2
+openai,informacyjne,I05,1,InPost,3
+openai,informacyjne,I05,2,Poczta Polska,1
+openai,informacyjne,I05,2,DPD,2
+openai,informacyjne,I05,2,DHL,3
+openai,informacyjne,I05,3,Poczta Polska,1
+openai,informacyjne,I05,3,DHL,2
+openai,informacyjne,I05,3,DPD,3
+openai,informacyjne,I05,3,UPS,4
+openai,informacyjne,I05,3,GLS,5
+openai,informacyjne,I05,3,InPost,6
+openai,informacyjne,I05,4,InPost,1
+openai,informacyjne,I05,4,DHL,2
+openai,informacyjne,I05,5,DHL,1
+openai,informacyjne,I05,5,InPost,2
+openai,informacyjne,I05,5,DPD,3
+openai,informacyjne,I05,5,Poczta Polska,4
+gemini,informacyjne,I05,1,DPD,1
+gemini,informacyjne,I05,1,GLS,2
+gemini,informacyjne,I05,1,DHL,3
+gemini,informacyjne,I05,1,Poczta Polska,4
+gemini,informacyjne,I05,1,UPS,5
+gemini,informacyjne,I05,2,DPD,1
+gemini,informacyjne,I05,2,GLS,2
+gemini,informacyjne,I05,2,DHL,3
+gemini,informacyjne,I05,2,UPS,4
+gemini,informacyjne,I05,2,Poczta Polska,5
+gemini,informacyjne,I05,3,DHL,1
+gemini,informacyjne,I05,3,DPD,2
+gemini,informacyjne,I05,3,GLS,3
+gemini,informacyjne,I05,3,UPS,4
+gemini,informacyjne,I05,4,DHL,1
+gemini,informacyjne,I05,4,DPD,2
+gemini,informacyjne,I05,4,GLS,3
+gemini,informacyjne,I05,4,UPS,4
+gemini,informacyjne,I05,4,Poczta Polska,5
+gemini,informacyjne,I05,5,DHL,1
+gemini,informacyjne,I05,5,UPS,2
+gemini,informacyjne,I05,5,DPD,3
+gemini,informacyjne,I05,5,GLS,4
+gemini,informacyjne,I05,5,Poczta Polska,5
+perplexity,informacyjne,I05,1,GLS,1
+perplexity,informacyjne,I05,1,Poczta Polska,2
+perplexity,informacyjne,I05,1,DPD,3
+perplexity,informacyjne,I05,2,Poczta Polska,1
+perplexity,informacyjne,I05,2,InPost,2
+perplexity,informacyjne,I05,3,GLS,1
+perplexity,informacyjne,I05,3,Poczta Polska,2
+perplexity,informacyjne,I05,3,InPost,3
+perplexity,informacyjne,I05,3,DPD,4
+perplexity,informacyjne,I05,4,GLS,1
+perplexity,informacyjne,I05,4,DPD,2
+perplexity,informacyjne,I05,4,Poczta Polska,3
+perplexity,informacyjne,I05,4,DHL,4
+perplexity,informacyjne,I05,5,GLS,1
+perplexity,informacyjne,I05,5,DHL,2
+perplexity,informacyjne,I05,5,Poczta Polska,3
+openai,informacyjne,I06,2,InPost,1
+openai,informacyjne,I06,4,InPost,1
+openai,informacyjne,I06,4,DPD,2
+openai,informacyjne,I06,4,DHL,3
+openai,informacyjne,I06,4,Poczta Polska,4
+gemini,informacyjne,I06,1,InPost,1
+gemini,informacyjne,I06,1,DPD,2
+gemini,informacyjne,I06,1,ORLEN Paczka,3
+gemini,informacyjne,I06,2,InPost,1
+gemini,informacyjne,I06,2,DPD,2
+gemini,informacyjne,I06,2,ORLEN Paczka,3
+gemini,informacyjne,I06,3,InPost,1
+gemini,informacyjne,I06,3,DPD,2
+gemini,informacyjne,I06,3,ORLEN Paczka,3
+gemini,informacyjne,I06,4,InPost,1
+gemini,informacyjne,I06,4,DPD,2
+gemini,informacyjne,I06,5,DPD,1
+gemini,informacyjne,I06,5,ORLEN Paczka,2
+perplexity,informacyjne,I06,1,InPost,1
+perplexity,informacyjne,I06,2,InPost,1
+perplexity,informacyjne,I06,2,Poczta Polska,2
+perplexity,informacyjne,I06,5,InPost,1
+openai,informacyjne,I07,1,InPost,1
+openai,informacyjne,I07,1,DPD,2
+openai,informacyjne,I07,1,DHL,3
+openai,informacyjne,I07,1,GLS,4
+openai,informacyjne,I07,1,Poczta Polska,5
+openai,informacyjne,I07,2,InPost,1
+openai,informacyjne,I07,2,DPD,2
+openai,informacyjne,I07,2,DHL,3
+openai,informacyjne,I07,3,InPost,1
+openai,informacyjne,I07,3,DPD,2
+openai,informacyjne,I07,3,DHL,3
+openai,informacyjne,I07,3,GLS,4
+openai,informacyjne,I07,3,Poczta Polska,5
+openai,informacyjne,I07,5,InPost,1
+openai,informacyjne,I07,5,DPD,2
+openai,informacyjne,I07,5,DHL,3
+openai,informacyjne,I07,5,GLS,4
+openai,informacyjne,I07,5,Poczta Polska,5
+gemini,informacyjne,I07,1,InPost,1
+gemini,informacyjne,I07,1,DPD,2
+gemini,informacyjne,I07,1,DHL,3
+gemini,informacyjne,I07,1,GLS,4
+gemini,informacyjne,I07,2,InPost,1
+gemini,informacyjne,I07,2,DPD,2
+gemini,informacyjne,I07,2,DHL,3
+gemini,informacyjne,I07,2,GLS,4
+gemini,informacyjne,I07,2,Poczta Polska,5
+gemini,informacyjne,I07,3,InPost,1
+gemini,informacyjne,I07,3,DPD,2
+gemini,informacyjne,I07,3,DHL,3
+gemini,informacyjne,I07,3,GLS,4
+gemini,informacyjne,I07,3,Poczta Polska,5
+gemini,informacyjne,I07,3,UPS,6
+gemini,informacyjne,I07,4,InPost,1
+gemini,informacyjne,I07,4,DPD,2
+gemini,informacyjne,I07,4,DHL,3
+gemini,informacyjne,I07,4,GLS,4
+gemini,informacyjne,I07,5,InPost,1
+gemini,informacyjne,I07,5,DPD,2
+gemini,informacyjne,I07,5,DHL,3
+gemini,informacyjne,I07,5,GLS,4
+gemini,informacyjne,I07,5,Poczta Polska,5
+perplexity,informacyjne,I07,2,DPD,1
+perplexity,informacyjne,I07,2,InPost,2
+openai,informacyjne,I08,1,Poczta Polska,1
+openai,informacyjne,I08,1,InPost,2
+openai,informacyjne,I08,1,DPD,3
+openai,informacyjne,I08,1,DHL,4
+openai,informacyjne,I08,2,InPost,1
+openai,informacyjne,I08,2,DPD,2
+openai,informacyjne,I08,2,DHL,3
+openai,informacyjne,I08,2,Poczta Polska,4
+openai,informacyjne,I08,3,InPost,1
+openai,informacyjne,I08,3,DPD,2
+openai,informacyjne,I08,3,DHL,3
+openai,informacyjne,I08,3,UPS,4
+openai,informacyjne,I08,3,Poczta Polska,5
+openai,informacyjne,I08,3,ORLEN Paczka,6
+openai,informacyjne,I08,4,InPost,1
+openai,informacyjne,I08,4,DPD,2
+openai,informacyjne,I08,4,DHL,3
+openai,informacyjne,I08,4,GLS,4
+openai,informacyjne,I08,4,Poczta Polska,5
+openai,informacyjne,I08,5,InPost,1
+openai,informacyjne,I08,5,DPD,2
+openai,informacyjne,I08,5,DHL,3
+openai,informacyjne,I08,5,Poczta Polska,4
+gemini,informacyjne,I08,1,InPost,1
+gemini,informacyjne,I08,1,Poczta Polska,2
+gemini,informacyjne,I08,1,DPD,3
+gemini,informacyjne,I08,1,DHL,4
+gemini,informacyjne,I08,1,GLS,5
+gemini,informacyjne,I08,1,UPS,6
+gemini,informacyjne,I08,2,InPost,1
+gemini,informacyjne,I08,2,Poczta Polska,2
+gemini,informacyjne,I08,2,DPD,3
+gemini,informacyjne,I08,2,DHL,4
+gemini,informacyjne,I08,2,GLS,5
+gemini,informacyjne,I08,3,InPost,1
+gemini,informacyjne,I08,3,Poczta Polska,2
+gemini,informacyjne,I08,3,DPD,3
+gemini,informacyjne,I08,3,DHL,4
+gemini,informacyjne,I08,3,GLS,5
+gemini,informacyjne,I08,3,UPS,6
+gemini,informacyjne,I08,4,InPost,1
+gemini,informacyjne,I08,4,DPD,2
+gemini,informacyjne,I08,4,DHL,3
+gemini,informacyjne,I08,4,GLS,4
+gemini,informacyjne,I08,4,Poczta Polska,5
+gemini,informacyjne,I08,5,DPD,1
+gemini,informacyjne,I08,5,DHL,2
+gemini,informacyjne,I08,5,InPost,3
+gemini,informacyjne,I08,5,Poczta Polska,4
+gemini,informacyjne,I08,5,GLS,5
+perplexity,informacyjne,I08,2,InPost,1
+perplexity,informacyjne,I08,2,DPD,2
+perplexity,informacyjne,I08,3,InPost,1
+perplexity,informacyjne,I08,3,DPD,2
+perplexity,informacyjne,I08,3,Poczta Polska,3
+perplexity,informacyjne,I08,4,DPD,1
+perplexity,informacyjne,I08,4,InPost,2
+perplexity,informacyjne,I08,5,InPost,1
+perplexity,informacyjne,I08,5,DPD,2
+openai,informacyjne,I09,1,InPost,1
+openai,informacyjne,I09,2,InPost,1
+openai,informacyjne,I09,3,InPost,1
+openai,informacyjne,I09,4,InPost,1
+openai,informacyjne,I09,5,InPost,1
+gemini,informacyjne,I09,1,InPost,1
+gemini,informacyjne,I09,1,ORLEN Paczka,2
+gemini,informacyjne,I09,1,DPD,3
+gemini,informacyjne,I09,1,DHL,4
+gemini,informacyjne,I09,2,InPost,1
+gemini,informacyjne,I09,2,ORLEN Paczka,2
+gemini,informacyjne,I09,2,DPD,3
+gemini,informacyjne,I09,2,DHL,4
+gemini,informacyjne,I09,3,InPost,1
+gemini,informacyjne,I09,3,DPD,2
+gemini,informacyjne,I09,3,ORLEN Paczka,3
+gemini,informacyjne,I09,3,DHL,4
+gemini,informacyjne,I09,3,Poczta Polska,5
+gemini,informacyjne,I09,4,InPost,1
+gemini,informacyjne,I09,4,DPD,2
+gemini,informacyjne,I09,4,ORLEN Paczka,3
+gemini,informacyjne,I09,4,DHL,4
+gemini,informacyjne,I09,4,Poczta Polska,5
+gemini,informacyjne,I09,5,InPost,1
+gemini,informacyjne,I09,5,ORLEN Paczka,2
+gemini,informacyjne,I09,5,DPD,3
+gemini,informacyjne,I09,5,DHL,4
+perplexity,informacyjne,I09,1,InPost,1
+perplexity,informacyjne,I09,1,DPD,2
+perplexity,informacyjne,I09,1,Poczta Polska,3
+perplexity,informacyjne,I09,2,InPost,1
+perplexity,informacyjne,I09,2,ORLEN Paczka,2
+perplexity,informacyjne,I09,2,Poczta Polska,3
+perplexity,informacyjne,I09,3,InPost,1
+perplexity,informacyjne,I09,3,DPD,2
+perplexity,informacyjne,I09,3,ORLEN Paczka,3
+perplexity,informacyjne,I09,4,InPost,1
+perplexity,informacyjne,I09,4,DPD,2
+perplexity,informacyjne,I09,4,ORLEN Paczka,3
+perplexity,informacyjne,I09,5,InPost,1
+perplexity,informacyjne,I09,5,ORLEN Paczka,2
+gemini,informacyjne,I10,1,InPost,1
+gemini,informacyjne,I10,1,ORLEN Paczka,2
+gemini,informacyjne,I10,1,DPD,3
+gemini,informacyjne,I10,1,DHL,4
+gemini,informacyjne,I10,2,InPost,1
+gemini,informacyjne,I10,2,DPD,2
+gemini,informacyjne,I10,2,DHL,3
+gemini,informacyjne,I10,2,Poczta Polska,4
+gemini,informacyjne,I10,2,ORLEN Paczka,5
+gemini,informacyjne,I10,3,InPost,1
+gemini,informacyjne,I10,3,DPD,2
+gemini,informacyjne,I10,3,DHL,3
+gemini,informacyjne,I10,3,GLS,4
+gemini,informacyjne,I10,3,Poczta Polska,5
+gemini,informacyjne,I10,4,DPD,1
+gemini,informacyjne,I10,4,DHL,2
+gemini,informacyjne,I10,4,Poczta Polska,3
+gemini,informacyjne,I10,4,ORLEN Paczka,4
+gemini,informacyjne,I10,4,InPost,5
+gemini,informacyjne,I10,5,DPD,1
+gemini,informacyjne,I10,5,DHL,2
+gemini,informacyjne,I10,5,InPost,3
+gemini,informacyjne,I10,5,GLS,4
+gemini,informacyjne,I10,5,ORLEN Paczka,5
+openai,rekomendacyjne,R01,1,InPost,1
+openai,rekomendacyjne,R01,1,DHL,2
+openai,rekomendacyjne,R01,1,DPD,3
+openai,rekomendacyjne,R01,1,UPS,4
+openai,rekomendacyjne,R01,1,GLS,5
+openai,rekomendacyjne,R01,2,InPost,1
+openai,rekomendacyjne,R01,2,DHL,2
+openai,rekomendacyjne,R01,2,DPD,3
+openai,rekomendacyjne,R01,2,Poczta Polska,4
+openai,rekomendacyjne,R01,3,InPost,1
+openai,rekomendacyjne,R01,3,DPD,2
+openai,rekomendacyjne,R01,3,DHL,3
+openai,rekomendacyjne,R01,3,ORLEN Paczka,4
+openai,rekomendacyjne,R01,4,InPost,1
+openai,rekomendacyjne,R01,4,ORLEN Paczka,2
+openai,rekomendacyjne,R01,4,DPD,3
+openai,rekomendacyjne,R01,4,DHL,4
+openai,rekomendacyjne,R01,5,InPost,1
+openai,rekomendacyjne,R01,5,DPD,2
+openai,rekomendacyjne,R01,5,DHL,3
+gemini,rekomendacyjne,R01,1,InPost,1
+gemini,rekomendacyjne,R01,1,DPD,2
+gemini,rekomendacyjne,R01,1,DHL,3
+gemini,rekomendacyjne,R01,1,Poczta Polska,4
+gemini,rekomendacyjne,R01,1,GLS,5
+gemini,rekomendacyjne,R01,2,InPost,1
+gemini,rekomendacyjne,R01,2,DPD,2
+gemini,rekomendacyjne,R01,2,DHL,3
+gemini,rekomendacyjne,R01,2,GLS,4
+gemini,rekomendacyjne,R01,2,Poczta Polska,5
+gemini,rekomendacyjne,R01,3,InPost,1
+gemini,rekomendacyjne,R01,3,DPD,2
+gemini,rekomendacyjne,R01,3,DHL,3
+gemini,rekomendacyjne,R01,3,ORLEN Paczka,4
+gemini,rekomendacyjne,R01,3,GLS,5
+gemini,rekomendacyjne,R01,3,UPS,6
+gemini,rekomendacyjne,R01,4,InPost,1
+gemini,rekomendacyjne,R01,4,DPD,2
+gemini,rekomendacyjne,R01,4,DHL,3
+gemini,rekomendacyjne,R01,4,GLS,4
+gemini,rekomendacyjne,R01,4,Poczta Polska,5
+gemini,rekomendacyjne,R01,5,InPost,1
+gemini,rekomendacyjne,R01,5,DPD,2
+gemini,rekomendacyjne,R01,5,DHL,3
+gemini,rekomendacyjne,R01,5,GLS,4
+gemini,rekomendacyjne,R01,5,UPS,5
+gemini,rekomendacyjne,R01,5,Poczta Polska,6
+perplexity,rekomendacyjne,R01,1,InPost,1
+perplexity,rekomendacyjne,R01,1,DPD,2
+perplexity,rekomendacyjne,R01,1,DHL,3
+perplexity,rekomendacyjne,R01,1,ORLEN Paczka,4
+perplexity,rekomendacyjne,R01,2,InPost,1
+perplexity,rekomendacyjne,R01,2,DPD,2
+perplexity,rekomendacyjne,R01,2,DHL,3
+perplexity,rekomendacyjne,R01,3,InPost,1
+perplexity,rekomendacyjne,R01,3,DPD,2
+perplexity,rekomendacyjne,R01,3,DHL,3
+perplexity,rekomendacyjne,R01,4,InPost,1
+perplexity,rekomendacyjne,R01,4,DPD,2
+perplexity,rekomendacyjne,R01,4,DHL,3
+perplexity,rekomendacyjne,R01,5,InPost,1
+perplexity,rekomendacyjne,R01,5,DPD,2
+perplexity,rekomendacyjne,R01,5,DHL,3
+perplexity,rekomendacyjne,R01,5,GLS,4
+perplexity,rekomendacyjne,R01,5,ORLEN Paczka,5
+openai,rekomendacyjne,R02,1,DPD,1
+openai,rekomendacyjne,R02,1,InPost,2
+openai,rekomendacyjne,R02,1,DHL,3
+openai,rekomendacyjne,R02,2,InPost,1
+openai,rekomendacyjne,R02,2,ORLEN Paczka,2
+openai,rekomendacyjne,R02,2,DPD,3
+openai,rekomendacyjne,R02,3,InPost,1
+openai,rekomendacyjne,R02,3,DHL,2
+openai,rekomendacyjne,R02,3,DPD,3
+openai,rekomendacyjne,R02,4,InPost,1
+openai,rekomendacyjne,R02,4,DHL,2
+openai,rekomendacyjne,R02,4,ORLEN Paczka,3
+openai,rekomendacyjne,R02,4,DPD,4
+openai,rekomendacyjne,R02,5,InPost,1
+gemini,rekomendacyjne,R02,1,ORLEN Paczka,1
+gemini,rekomendacyjne,R02,1,InPost,2
+gemini,rekomendacyjne,R02,1,DHL,3
+gemini,rekomendacyjne,R02,1,DPD,4
+gemini,rekomendacyjne,R02,1,Poczta Polska,5
+gemini,rekomendacyjne,R02,2,ORLEN Paczka,1
+gemini,rekomendacyjne,R02,2,DPD,2
+gemini,rekomendacyjne,R02,2,DHL,3
+gemini,rekomendacyjne,R02,2,Poczta Polska,4
+gemini,rekomendacyjne,R02,2,InPost,5
+gemini,rekomendacyjne,R02,3,ORLEN Paczka,1
+gemini,rekomendacyjne,R02,3,InPost,2
+gemini,rekomendacyjne,R02,3,DPD,3
+gemini,rekomendacyjne,R02,3,DHL,4
+gemini,rekomendacyjne,R02,3,Poczta Polska,5
+gemini,rekomendacyjne,R02,4,ORLEN Paczka,1
+gemini,rekomendacyjne,R02,4,Poczta Polska,2
+gemini,rekomendacyjne,R02,4,DPD,3
+gemini,rekomendacyjne,R02,4,InPost,4
+gemini,rekomendacyjne,R02,5,InPost,1
+gemini,rekomendacyjne,R02,5,ORLEN Paczka,2
+gemini,rekomendacyjne,R02,5,DHL,3
+gemini,rekomendacyjne,R02,5,Poczta Polska,4
+gemini,rekomendacyjne,R02,5,DPD,5
+perplexity,rekomendacyjne,R02,2,DHL,1
+perplexity,rekomendacyjne,R02,2,ORLEN Paczka,2
+perplexity,rekomendacyjne,R02,3,DHL,1
+perplexity,rekomendacyjne,R02,3,ORLEN Paczka,2
+perplexity,rekomendacyjne,R02,4,DHL,1
+perplexity,rekomendacyjne,R02,5,DHL,1
+perplexity,rekomendacyjne,R02,5,ORLEN Paczka,2
+openai,rekomendacyjne,R03,1,InPost,1
+openai,rekomendacyjne,R03,1,DPD,2
+openai,rekomendacyjne,R03,1,DHL,3
+openai,rekomendacyjne,R03,2,InPost,1
+openai,rekomendacyjne,R03,2,DHL,2
+openai,rekomendacyjne,R03,2,DPD,3
+openai,rekomendacyjne,R03,2,GLS,4
+openai,rekomendacyjne,R03,3,InPost,1
+openai,rekomendacyjne,R03,3,DPD,2
+openai,rekomendacyjne,R03,3,DHL,3
+openai,rekomendacyjne,R03,4,InPost,1
+openai,rekomendacyjne,R03,4,DPD,2
+openai,rekomendacyjne,R03,4,DHL,3
+openai,rekomendacyjne,R03,5,InPost,1
+openai,rekomendacyjne,R03,5,DHL,2
+openai,rekomendacyjne,R03,5,DPD,3
+openai,rekomendacyjne,R03,5,GLS,4
+gemini,rekomendacyjne,R03,1,DPD,1
+gemini,rekomendacyjne,R03,1,DHL,2
+gemini,rekomendacyjne,R03,1,GLS,3
+gemini,rekomendacyjne,R03,1,InPost,4
+gemini,rekomendacyjne,R03,2,DPD,1
+gemini,rekomendacyjne,R03,2,DHL,2
+gemini,rekomendacyjne,R03,2,GLS,3
+gemini,rekomendacyjne,R03,2,InPost,4
+gemini,rekomendacyjne,R03,2,ORLEN Paczka,5
+gemini,rekomendacyjne,R03,3,DPD,1
+gemini,rekomendacyjne,R03,3,DHL,2
+gemini,rekomendacyjne,R03,3,GLS,3
+gemini,rekomendacyjne,R03,3,InPost,4
+gemini,rekomendacyjne,R03,3,ORLEN Paczka,5
+gemini,rekomendacyjne,R03,3,Poczta Polska,6
+gemini,rekomendacyjne,R03,4,DPD,1
+gemini,rekomendacyjne,R03,4,DHL,2
+gemini,rekomendacyjne,R03,4,GLS,3
+gemini,rekomendacyjne,R03,4,InPost,4
+gemini,rekomendacyjne,R03,4,ORLEN Paczka,5
+gemini,rekomendacyjne,R03,4,Poczta Polska,6
+gemini,rekomendacyjne,R03,5,DPD,1
+gemini,rekomendacyjne,R03,5,DHL,2
+gemini,rekomendacyjne,R03,5,InPost,3
+gemini,rekomendacyjne,R03,5,ORLEN Paczka,4
+perplexity,rekomendacyjne,R03,1,InPost,1
+perplexity,rekomendacyjne,R03,1,DPD,2
+perplexity,rekomendacyjne,R03,2,InPost,1
+perplexity,rekomendacyjne,R03,2,DPD,2
+perplexity,rekomendacyjne,R03,3,InPost,1
+perplexity,rekomendacyjne,R03,3,DPD,2
+perplexity,rekomendacyjne,R03,4,InPost,1
+perplexity,rekomendacyjne,R03,4,DPD,2
+perplexity,rekomendacyjne,R03,5,InPost,1
+perplexity,rekomendacyjne,R03,5,DPD,2
+perplexity,rekomendacyjne,R03,5,DHL,3
+openai,rekomendacyjne,R04,1,DHL,1
+openai,rekomendacyjne,R04,1,DPD,2
+openai,rekomendacyjne,R04,1,InPost,3
+openai,rekomendacyjne,R04,2,DHL,1
+openai,rekomendacyjne,R04,2,DPD,2
+openai,rekomendacyjne,R04,2,InPost,3
+openai,rekomendacyjne,R04,4,InPost,1
+openai,rekomendacyjne,R04,4,DHL,2
+openai,rekomendacyjne,R04,4,DPD,3
+openai,rekomendacyjne,R04,4,GLS,4
+openai,rekomendacyjne,R04,4,UPS,5
+openai,rekomendacyjne,R04,5,InPost,1
+openai,rekomendacyjne,R04,5,DHL,2
+openai,rekomendacyjne,R04,5,DPD,3
+openai,rekomendacyjne,R04,5,GLS,4
+openai,rekomendacyjne,R04,5,Poczta Polska,5
+openai,rekomendacyjne,R04,5,UPS,6
+gemini,rekomendacyjne,R04,1,InPost,1
+gemini,rekomendacyjne,R04,1,DHL,2
+gemini,rekomendacyjne,R04,1,UPS,3
+gemini,rekomendacyjne,R04,1,Poczta Polska,4
+gemini,rekomendacyjne,R04,1,GLS,5
+gemini,rekomendacyjne,R04,1,DPD,6
+gemini,rekomendacyjne,R04,2,InPost,1
+gemini,rekomendacyjne,R04,2,UPS,2
+gemini,rekomendacyjne,R04,2,DHL,3
+gemini,rekomendacyjne,R04,2,DPD,4
+gemini,rekomendacyjne,R04,2,GLS,5
+gemini,rekomendacyjne,R04,2,Poczta Polska,6
+gemini,rekomendacyjne,R04,3,InPost,1
+gemini,rekomendacyjne,R04,3,UPS,2
+gemini,rekomendacyjne,R04,3,DHL,3
+gemini,rekomendacyjne,R04,3,DPD,4
+gemini,rekomendacyjne,R04,3,Poczta Polska,5
+gemini,rekomendacyjne,R04,3,GLS,6
+gemini,rekomendacyjne,R04,4,UPS,1
+gemini,rekomendacyjne,R04,4,DHL,2
+gemini,rekomendacyjne,R04,4,InPost,3
+gemini,rekomendacyjne,R04,4,DPD,4
+gemini,rekomendacyjne,R04,4,Poczta Polska,5
+gemini,rekomendacyjne,R04,4,GLS,6
+gemini,rekomendacyjne,R04,5,InPost,1
+gemini,rekomendacyjne,R04,5,DHL,2
+gemini,rekomendacyjne,R04,5,UPS,3
+gemini,rekomendacyjne,R04,5,DPD,4
+gemini,rekomendacyjne,R04,5,Poczta Polska,5
+perplexity,rekomendacyjne,R04,1,UPS,1
+perplexity,rekomendacyjne,R04,3,DPD,1
+perplexity,rekomendacyjne,R04,3,UPS,2
+perplexity,rekomendacyjne,R04,4,UPS,1
+perplexity,rekomendacyjne,R04,5,UPS,1
+perplexity,rekomendacyjne,R04,5,DHL,2
+perplexity,rekomendacyjne,R04,5,InPost,3
+openai,rekomendacyjne,R05,1,InPost,1
+openai,rekomendacyjne,R05,1,ORLEN Paczka,2
+openai,rekomendacyjne,R05,1,DHL,3
+openai,rekomendacyjne,R05,1,DPD,4
+openai,rekomendacyjne,R05,2,InPost,1
+openai,rekomendacyjne,R05,2,DPD,2
+openai,rekomendacyjne,R05,2,ORLEN Paczka,3
+openai,rekomendacyjne,R05,3,InPost,1
+openai,rekomendacyjne,R05,3,DHL,2
+openai,rekomendacyjne,R05,3,ORLEN Paczka,3
+openai,rekomendacyjne,R05,3,DPD,4
+openai,rekomendacyjne,R05,4,InPost,1
+openai,rekomendacyjne,R05,4,DPD,2
+openai,rekomendacyjne,R05,4,DHL,3
+openai,rekomendacyjne,R05,5,InPost,1
+openai,rekomendacyjne,R05,5,ORLEN Paczka,2
+openai,rekomendacyjne,R05,5,DPD,3
+openai,rekomendacyjne,R05,5,DHL,4
+gemini,rekomendacyjne,R05,1,InPost,1
+gemini,rekomendacyjne,R05,1,DPD,2
+gemini,rekomendacyjne,R05,1,ORLEN Paczka,3
+gemini,rekomendacyjne,R05,1,Poczta Polska,4
+gemini,rekomendacyjne,R05,1,DHL,5
+gemini,rekomendacyjne,R05,1,GLS,6
+gemini,rekomendacyjne,R05,2,InPost,1
+gemini,rekomendacyjne,R05,2,ORLEN Paczka,2
+gemini,rekomendacyjne,R05,2,DPD,3
+gemini,rekomendacyjne,R05,2,DHL,4
+gemini,rekomendacyjne,R05,2,Poczta Polska,5
+gemini,rekomendacyjne,R05,3,InPost,1
+gemini,rekomendacyjne,R05,3,ORLEN Paczka,2
+gemini,rekomendacyjne,R05,3,DPD,3
+gemini,rekomendacyjne,R05,3,DHL,4
+gemini,rekomendacyjne,R05,4,InPost,1
+gemini,rekomendacyjne,R05,4,ORLEN Paczka,2
+gemini,rekomendacyjne,R05,4,DPD,3
+gemini,rekomendacyjne,R05,4,DHL,4
+gemini,rekomendacyjne,R05,4,Poczta Polska,5
+gemini,rekomendacyjne,R05,5,InPost,1
+gemini,rekomendacyjne,R05,5,ORLEN Paczka,2
+gemini,rekomendacyjne,R05,5,DPD,3
+gemini,rekomendacyjne,R05,5,DHL,4
+gemini,rekomendacyjne,R05,5,Poczta Polska,5
+perplexity,rekomendacyjne,R05,1,InPost,1
+perplexity,rekomendacyjne,R05,2,InPost,1
+perplexity,rekomendacyjne,R05,2,DPD,2
+perplexity,rekomendacyjne,R05,2,ORLEN Paczka,3
+perplexity,rekomendacyjne,R05,3,InPost,1
+perplexity,rekomendacyjne,R05,4,InPost,1
+perplexity,rekomendacyjne,R05,5,InPost,1
+openai,rekomendacyjne,R06,1,DHL,1
+openai,rekomendacyjne,R06,1,DPD,2
+openai,rekomendacyjne,R06,1,InPost,3
+openai,rekomendacyjne,R06,2,DHL,1
+openai,rekomendacyjne,R06,2,UPS,2
+openai,rekomendacyjne,R06,2,InPost,3
+openai,rekomendacyjne,R06,3,DHL,1
+openai,rekomendacyjne,R06,3,UPS,2
+openai,rekomendacyjne,R06,3,DPD,3
+openai,rekomendacyjne,R06,4,DHL,1
+openai,rekomendacyjne,R06,4,Poczta Polska,2
+openai,rekomendacyjne,R06,5,InPost,1
+openai,rekomendacyjne,R06,5,DHL,2
+openai,rekomendacyjne,R06,5,DPD,3
+openai,rekomendacyjne,R06,5,UPS,4
+gemini,rekomendacyjne,R06,1,DPD,1
+gemini,rekomendacyjne,R06,1,GLS,2
+gemini,rekomendacyjne,R06,1,InPost,3
+gemini,rekomendacyjne,R06,1,DHL,4
+gemini,rekomendacyjne,R06,1,UPS,5
+gemini,rekomendacyjne,R06,1,Poczta Polska,6
+gemini,rekomendacyjne,R06,2,DPD,1
+gemini,rekomendacyjne,R06,2,GLS,2
+gemini,rekomendacyjne,R06,2,UPS,3
+gemini,rekomendacyjne,R06,2,DHL,4
+gemini,rekomendacyjne,R06,2,Poczta Polska,5
+gemini,rekomendacyjne,R06,2,InPost,6
+gemini,rekomendacyjne,R06,3,DPD,1
+gemini,rekomendacyjne,R06,3,GLS,2
+gemini,rekomendacyjne,R06,3,DHL,3
+gemini,rekomendacyjne,R06,3,InPost,4
+gemini,rekomendacyjne,R06,3,UPS,5
+gemini,rekomendacyjne,R06,3,Poczta Polska,6
+gemini,rekomendacyjne,R06,4,DPD,1
+gemini,rekomendacyjne,R06,4,GLS,2
+gemini,rekomendacyjne,R06,4,DHL,3
+gemini,rekomendacyjne,R06,4,InPost,4
+gemini,rekomendacyjne,R06,4,UPS,5
+gemini,rekomendacyjne,R06,4,Poczta Polska,6
+gemini,rekomendacyjne,R06,5,DPD,1
+gemini,rekomendacyjne,R06,5,GLS,2
+gemini,rekomendacyjne,R06,5,InPost,3
+gemini,rekomendacyjne,R06,5,DHL,4
+gemini,rekomendacyjne,R06,5,UPS,5
+gemini,rekomendacyjne,R06,5,Poczta Polska,6
+perplexity,rekomendacyjne,R06,1,InPost,1
+perplexity,rekomendacyjne,R06,1,DPD,2
+perplexity,rekomendacyjne,R06,1,DHL,3
+perplexity,rekomendacyjne,R06,1,UPS,4
+perplexity,rekomendacyjne,R06,2,DPD,1
+perplexity,rekomendacyjne,R06,2,DHL,2
+perplexity,rekomendacyjne,R06,2,UPS,3
+perplexity,rekomendacyjne,R06,3,DPD,1
+perplexity,rekomendacyjne,R06,3,InPost,2
+perplexity,rekomendacyjne,R06,3,DHL,3
+perplexity,rekomendacyjne,R06,3,UPS,4
+perplexity,rekomendacyjne,R06,4,DPD,1
+perplexity,rekomendacyjne,R06,4,DHL,2
+perplexity,rekomendacyjne,R06,4,UPS,3
+perplexity,rekomendacyjne,R06,5,DPD,1
+perplexity,rekomendacyjne,R06,5,Poczta Polska,2
+openai,rekomendacyjne,R07,1,InPost,1
+openai,rekomendacyjne,R07,1,DPD,2
+openai,rekomendacyjne,R07,1,DHL,3
+openai,rekomendacyjne,R07,1,GLS,4
+openai,rekomendacyjne,R07,1,UPS,5
+openai,rekomendacyjne,R07,2,InPost,1
+openai,rekomendacyjne,R07,2,DPD,2
+openai,rekomendacyjne,R07,2,DHL,3
+openai,rekomendacyjne,R07,2,GLS,4
+openai,rekomendacyjne,R07,2,UPS,5
+openai,rekomendacyjne,R07,3,InPost,1
+openai,rekomendacyjne,R07,3,DPD,2
+openai,rekomendacyjne,R07,3,DHL,3
+openai,rekomendacyjne,R07,4,InPost,1
+openai,rekomendacyjne,R07,4,DPD,2
+openai,rekomendacyjne,R07,4,DHL,3
+openai,rekomendacyjne,R07,4,GLS,4
+openai,rekomendacyjne,R07,5,InPost,1
+openai,rekomendacyjne,R07,5,DPD,2
+openai,rekomendacyjne,R07,5,DHL,3
+gemini,rekomendacyjne,R07,1,InPost,1
+gemini,rekomendacyjne,R07,1,DPD,2
+gemini,rekomendacyjne,R07,1,DHL,3
+gemini,rekomendacyjne,R07,2,InPost,1
+gemini,rekomendacyjne,R07,2,DPD,2
+gemini,rekomendacyjne,R07,2,DHL,3
+gemini,rekomendacyjne,R07,2,GLS,4
+gemini,rekomendacyjne,R07,2,UPS,5
+gemini,rekomendacyjne,R07,2,Poczta Polska,6
+gemini,rekomendacyjne,R07,3,InPost,1
+gemini,rekomendacyjne,R07,3,DPD,2
+gemini,rekomendacyjne,R07,3,DHL,3
+gemini,rekomendacyjne,R07,3,GLS,4
+gemini,rekomendacyjne,R07,3,UPS,5
+gemini,rekomendacyjne,R07,3,Poczta Polska,6
+gemini,rekomendacyjne,R07,4,InPost,1
+gemini,rekomendacyjne,R07,4,DPD,2
+gemini,rekomendacyjne,R07,4,DHL,3
+gemini,rekomendacyjne,R07,4,GLS,4
+gemini,rekomendacyjne,R07,5,InPost,1
+gemini,rekomendacyjne,R07,5,DPD,2
+gemini,rekomendacyjne,R07,5,DHL,3
+gemini,rekomendacyjne,R07,5,UPS,4
+gemini,rekomendacyjne,R07,5,GLS,5
+perplexity,rekomendacyjne,R07,1,InPost,1
+perplexity,rekomendacyjne,R07,2,InPost,1
+perplexity,rekomendacyjne,R07,2,UPS,2
+perplexity,rekomendacyjne,R07,2,DHL,3
+perplexity,rekomendacyjne,R07,2,DPD,4
+perplexity,rekomendacyjne,R07,3,InPost,1
+perplexity,rekomendacyjne,R07,3,DPD,2
+perplexity,rekomendacyjne,R07,4,InPost,1
+perplexity,rekomendacyjne,R07,4,UPS,2
+perplexity,rekomendacyjne,R07,5,InPost,1
+openai,rekomendacyjne,R08,1,InPost,1
+openai,rekomendacyjne,R08,1,ORLEN Paczka,2
+openai,rekomendacyjne,R08,1,DHL,3
+openai,rekomendacyjne,R08,1,DPD,4
+openai,rekomendacyjne,R08,2,InPost,1
+openai,rekomendacyjne,R08,2,DPD,2
+openai,rekomendacyjne,R08,2,ORLEN Paczka,3
+openai,rekomendacyjne,R08,3,InPost,1
+openai,rekomendacyjne,R08,3,ORLEN Paczka,2
+openai,rekomendacyjne,R08,3,DPD,3
+openai,rekomendacyjne,R08,4,InPost,1
+openai,rekomendacyjne,R08,4,ORLEN Paczka,2
+openai,rekomendacyjne,R08,5,InPost,1
+openai,rekomendacyjne,R08,5,DPD,2
+openai,rekomendacyjne,R08,5,ORLEN Paczka,3
+openai,rekomendacyjne,R08,5,Poczta Polska,4
+openai,rekomendacyjne,R08,5,DHL,5
+openai,rekomendacyjne,R08,5,GLS,6
+gemini,rekomendacyjne,R08,1,InPost,1
+gemini,rekomendacyjne,R08,1,DPD,2
+gemini,rekomendacyjne,R08,1,ORLEN Paczka,3
+gemini,rekomendacyjne,R08,1,Poczta Polska,4
+gemini,rekomendacyjne,R08,2,InPost,1
+gemini,rekomendacyjne,R08,2,ORLEN Paczka,2
+gemini,rekomendacyjne,R08,2,DPD,3
+gemini,rekomendacyjne,R08,2,Poczta Polska,4
+gemini,rekomendacyjne,R08,3,InPost,1
+gemini,rekomendacyjne,R08,3,ORLEN Paczka,2
+gemini,rekomendacyjne,R08,3,DPD,3
+gemini,rekomendacyjne,R08,3,Poczta Polska,4
+gemini,rekomendacyjne,R08,4,InPost,1
+gemini,rekomendacyjne,R08,4,DPD,2
+gemini,rekomendacyjne,R08,4,ORLEN Paczka,3
+gemini,rekomendacyjne,R08,4,Poczta Polska,4
+gemini,rekomendacyjne,R08,5,InPost,1
+gemini,rekomendacyjne,R08,5,DPD,2
+gemini,rekomendacyjne,R08,5,ORLEN Paczka,3
+gemini,rekomendacyjne,R08,5,Poczta Polska,4
+perplexity,rekomendacyjne,R08,1,InPost,1
+perplexity,rekomendacyjne,R08,1,ORLEN Paczka,2
+perplexity,rekomendacyjne,R08,1,DPD,3
+perplexity,rekomendacyjne,R08,1,Poczta Polska,4
+perplexity,rekomendacyjne,R08,2,InPost,1
+perplexity,rekomendacyjne,R08,2,ORLEN Paczka,2
+perplexity,rekomendacyjne,R08,2,DPD,3
+perplexity,rekomendacyjne,R08,3,InPost,1
+perplexity,rekomendacyjne,R08,3,ORLEN Paczka,2
+perplexity,rekomendacyjne,R08,3,DPD,3
+perplexity,rekomendacyjne,R08,3,Poczta Polska,4
+perplexity,rekomendacyjne,R08,3,DHL,5
+perplexity,rekomendacyjne,R08,3,GLS,6
+perplexity,rekomendacyjne,R08,4,InPost,1
+perplexity,rekomendacyjne,R08,4,DPD,2
+perplexity,rekomendacyjne,R08,4,ORLEN Paczka,3
+perplexity,rekomendacyjne,R08,4,Poczta Polska,4
+perplexity,rekomendacyjne,R08,5,InPost,1
+perplexity,rekomendacyjne,R08,5,ORLEN Paczka,2
+perplexity,rekomendacyjne,R08,5,Poczta Polska,3
+perplexity,rekomendacyjne,R08,5,DPD,4
+openai,rekomendacyjne,R09,1,DPD,1
+openai,rekomendacyjne,R09,1,DHL,2
+openai,rekomendacyjne,R09,1,InPost,3
+openai,rekomendacyjne,R09,1,UPS,4
+openai,rekomendacyjne,R09,1,GLS,5
+openai,rekomendacyjne,R09,2,DPD,1
+openai,rekomendacyjne,R09,2,DHL,2
+openai,rekomendacyjne,R09,2,InPost,3
+openai,rekomendacyjne,R09,3,UPS,1
+openai,rekomendacyjne,R09,3,DHL,2
+openai,rekomendacyjne,R09,3,DPD,3
+openai,rekomendacyjne,R09,3,InPost,4
+openai,rekomendacyjne,R09,4,DHL,1
+openai,rekomendacyjne,R09,4,DPD,2
+openai,rekomendacyjne,R09,4,InPost,3
+openai,rekomendacyjne,R09,5,DPD,1
+openai,rekomendacyjne,R09,5,DHL,2
+openai,rekomendacyjne,R09,5,UPS,3
+openai,rekomendacyjne,R09,5,InPost,4
+gemini,rekomendacyjne,R09,1,InPost,1
+gemini,rekomendacyjne,R09,1,DPD,2
+gemini,rekomendacyjne,R09,1,DHL,3
+gemini,rekomendacyjne,R09,1,UPS,4
+gemini,rekomendacyjne,R09,2,InPost,1
+gemini,rekomendacyjne,R09,2,DPD,2
+gemini,rekomendacyjne,R09,2,DHL,3
+gemini,rekomendacyjne,R09,2,UPS,4
+gemini,rekomendacyjne,R09,3,InPost,1
+gemini,rekomendacyjne,R09,3,DPD,2
+gemini,rekomendacyjne,R09,3,DHL,3
+gemini,rekomendacyjne,R09,3,UPS,4
+gemini,rekomendacyjne,R09,4,InPost,1
+gemini,rekomendacyjne,R09,4,DPD,2
+gemini,rekomendacyjne,R09,4,DHL,3
+gemini,rekomendacyjne,R09,4,UPS,4
+gemini,rekomendacyjne,R09,5,InPost,1
+gemini,rekomendacyjne,R09,5,DPD,2
+gemini,rekomendacyjne,R09,5,DHL,3
+gemini,rekomendacyjne,R09,5,UPS,4
+perplexity,rekomendacyjne,R09,1,DHL,1
+perplexity,rekomendacyjne,R09,1,InPost,2
+perplexity,rekomendacyjne,R09,2,InPost,1
+perplexity,rekomendacyjne,R09,2,Poczta Polska,2
+perplexity,rekomendacyjne,R09,3,DHL,1
+perplexity,rekomendacyjne,R09,3,InPost,2
+perplexity,rekomendacyjne,R09,4,DHL,1
+perplexity,rekomendacyjne,R09,4,InPost,2
+perplexity,rekomendacyjne,R09,4,GLS,3
+perplexity,rekomendacyjne,R09,5,DHL,1
+perplexity,rekomendacyjne,R09,5,UPS,2
+perplexity,rekomendacyjne,R09,5,DPD,3
+perplexity,rekomendacyjne,R09,5,GLS,4
+openai,rekomendacyjne,R10,1,ORLEN Paczka,1
+openai,rekomendacyjne,R10,1,DPD,2
+openai,rekomendacyjne,R10,1,DHL,3
+openai,rekomendacyjne,R10,1,InPost,4
+openai,rekomendacyjne,R10,2,InPost,1
+openai,rekomendacyjne,R10,2,ORLEN Paczka,2
+openai,rekomendacyjne,R10,2,DHL,3
+openai,rekomendacyjne,R10,3,InPost,1
+openai,rekomendacyjne,R10,3,ORLEN Paczka,2
+openai,rekomendacyjne,R10,3,DHL,3
+openai,rekomendacyjne,R10,3,DPD,4
+openai,rekomendacyjne,R10,4,InPost,1
+openai,rekomendacyjne,R10,4,ORLEN Paczka,2
+openai,rekomendacyjne,R10,4,DHL,3
+openai,rekomendacyjne,R10,4,DPD,4
+openai,rekomendacyjne,R10,5,ORLEN Paczka,1
+openai,rekomendacyjne,R10,5,DPD,2
+openai,rekomendacyjne,R10,5,InPost,3
+gemini,rekomendacyjne,R10,1,ORLEN Paczka,1
+gemini,rekomendacyjne,R10,1,InPost,2
+gemini,rekomendacyjne,R10,1,DPD,3
+gemini,rekomendacyjne,R10,1,DHL,4
+gemini,rekomendacyjne,R10,2,InPost,1
+gemini,rekomendacyjne,R10,2,ORLEN Paczka,2
+gemini,rekomendacyjne,R10,2,DPD,3
+gemini,rekomendacyjne,R10,2,DHL,4
+gemini,rekomendacyjne,R10,3,ORLEN Paczka,1
+gemini,rekomendacyjne,R10,3,InPost,2
+gemini,rekomendacyjne,R10,3,DPD,3
+gemini,rekomendacyjne,R10,3,DHL,4
+gemini,rekomendacyjne,R10,4,ORLEN Paczka,1
+gemini,rekomendacyjne,R10,4,InPost,2
+gemini,rekomendacyjne,R10,4,DPD,3
+gemini,rekomendacyjne,R10,4,DHL,4
+gemini,rekomendacyjne,R10,5,InPost,1
+gemini,rekomendacyjne,R10,5,ORLEN Paczka,2
+gemini,rekomendacyjne,R10,5,DPD,3
+gemini,rekomendacyjne,R10,5,DHL,4
+perplexity,rekomendacyjne,R10,1,ORLEN Paczka,1
+perplexity,rekomendacyjne,R10,1,DPD,2
+perplexity,rekomendacyjne,R10,2,ORLEN Paczka,1
+perplexity,rekomendacyjne,R10,2,InPost,2
+perplexity,rekomendacyjne,R10,3,ORLEN Paczka,1
+perplexity,rekomendacyjne,R10,3,InPost,2
+perplexity,rekomendacyjne,R10,3,DPD,3
+perplexity,rekomendacyjne,R10,4,ORLEN Paczka,1
+perplexity,rekomendacyjne,R10,4,InPost,2
+perplexity,rekomendacyjne,R10,5,ORLEN Paczka,1
+perplexity,rekomendacyjne,R10,5,DPD,2
+openai,porownawcze,P01,1,InPost,1
+openai,porownawcze,P01,1,DPD,2
+openai,porownawcze,P01,2,InPost,1
+openai,porownawcze,P01,2,DPD,2
+openai,porownawcze,P01,3,InPost,1
+openai,porownawcze,P01,3,DPD,2
+openai,porownawcze,P01,4,InPost,1
+openai,porownawcze,P01,4,DPD,2
+openai,porownawcze,P01,5,InPost,1
+openai,porownawcze,P01,5,DPD,2
+openai,porownawcze,P01,5,DHL,3
+gemini,porownawcze,P01,1,InPost,1
+gemini,porownawcze,P01,1,DPD,2
+gemini,porownawcze,P01,2,InPost,1
+gemini,porownawcze,P01,2,DPD,2
+gemini,porownawcze,P01,3,InPost,1
+gemini,porownawcze,P01,3,DPD,2
+gemini,porownawcze,P01,4,InPost,1
+gemini,porownawcze,P01,4,DPD,2
+gemini,porownawcze,P01,5,InPost,1
+gemini,porownawcze,P01,5,DPD,2
+perplexity,porownawcze,P01,1,InPost,1
+perplexity,porownawcze,P01,1,DPD,2
+perplexity,porownawcze,P01,2,InPost,1
+perplexity,porownawcze,P01,2,DPD,2
+perplexity,porownawcze,P01,3,InPost,1
+perplexity,porownawcze,P01,3,DPD,2
+perplexity,porownawcze,P01,4,InPost,1
+perplexity,porownawcze,P01,4,DPD,2
+perplexity,porownawcze,P01,5,InPost,1
+perplexity,porownawcze,P01,5,DPD,2
+openai,porownawcze,P02,1,InPost,1
+openai,porownawcze,P02,1,ORLEN Paczka,2
+openai,porownawcze,P02,2,InPost,1
+openai,porownawcze,P02,2,ORLEN Paczka,2
+openai,porownawcze,P02,3,InPost,1
+openai,porownawcze,P02,3,ORLEN Paczka,2
+openai,porownawcze,P02,4,InPost,1
+openai,porownawcze,P02,4,ORLEN Paczka,2
+openai,porownawcze,P02,5,InPost,1
+openai,porownawcze,P02,5,ORLEN Paczka,2
+gemini,porownawcze,P02,1,InPost,1
+gemini,porownawcze,P02,1,ORLEN Paczka,2
+gemini,porownawcze,P02,2,InPost,1
+gemini,porownawcze,P02,2,ORLEN Paczka,2
+gemini,porownawcze,P02,3,InPost,1
+gemini,porownawcze,P02,3,ORLEN Paczka,2
+gemini,porownawcze,P02,4,InPost,1
+gemini,porownawcze,P02,4,ORLEN Paczka,2
+gemini,porownawcze,P02,5,InPost,1
+gemini,porownawcze,P02,5,ORLEN Paczka,2
+gemini,porownawcze,P02,5,DPD,3
+perplexity,porownawcze,P02,1,ORLEN Paczka,1
+perplexity,porownawcze,P02,1,InPost,2
+perplexity,porownawcze,P02,2,ORLEN Paczka,1
+perplexity,porownawcze,P02,2,InPost,2
+perplexity,porownawcze,P02,3,ORLEN Paczka,1
+perplexity,porownawcze,P02,3,InPost,2
+perplexity,porownawcze,P02,4,ORLEN Paczka,1
+perplexity,porownawcze,P02,4,InPost,2
+perplexity,porownawcze,P02,5,ORLEN Paczka,1
+perplexity,porownawcze,P02,5,InPost,2
+openai,porownawcze,P03,1,DHL,1
+openai,porownawcze,P03,1,DPD,2
+openai,porownawcze,P03,1,InPost,3
+openai,porownawcze,P03,2,DHL,1
+openai,porownawcze,P03,2,DPD,2
+openai,porownawcze,P03,3,DHL,1
+openai,porownawcze,P03,3,DPD,2
+openai,porownawcze,P03,4,DHL,1
+openai,porownawcze,P03,4,DPD,2
+openai,porownawcze,P03,5,DHL,1
+openai,porownawcze,P03,5,DPD,2
+gemini,porownawcze,P03,1,DHL,1
+gemini,porownawcze,P03,1,DPD,2
+gemini,porownawcze,P03,2,DHL,1
+gemini,porownawcze,P03,2,DPD,2
+gemini,porownawcze,P03,3,DHL,1
+gemini,porownawcze,P03,3,DPD,2
+gemini,porownawcze,P03,4,DHL,1
+gemini,porownawcze,P03,4,DPD,2
+gemini,porownawcze,P03,5,DHL,1
+gemini,porownawcze,P03,5,DPD,2
+perplexity,porownawcze,P03,1,DPD,1
+perplexity,porownawcze,P03,1,DHL,2
+perplexity,porownawcze,P03,2,DHL,1
+perplexity,porownawcze,P03,2,DPD,2
+perplexity,porownawcze,P03,3,DPD,1
+perplexity,porownawcze,P03,3,DHL,2
+perplexity,porownawcze,P03,4,DPD,1
+perplexity,porownawcze,P03,4,DHL,2
+perplexity,porownawcze,P03,5,DPD,1
+perplexity,porownawcze,P03,5,DHL,2
+openai,porownawcze,P04,1,InPost,1
+openai,porownawcze,P04,1,Poczta Polska,2
+openai,porownawcze,P04,2,InPost,1
+openai,porownawcze,P04,2,Poczta Polska,2
+openai,porownawcze,P04,3,InPost,1
+openai,porownawcze,P04,3,Poczta Polska,2
+openai,porownawcze,P04,4,InPost,1
+openai,porownawcze,P04,4,Poczta Polska,2
+openai,porownawcze,P04,5,InPost,1
+openai,porownawcze,P04,5,Poczta Polska,2
+gemini,porownawcze,P04,1,Poczta Polska,1
+gemini,porownawcze,P04,1,InPost,2
+gemini,porownawcze,P04,2,Poczta Polska,1
+gemini,porownawcze,P04,2,InPost,2
+gemini,porownawcze,P04,2,DPD,3
+gemini,porownawcze,P04,3,Poczta Polska,1
+gemini,porownawcze,P04,3,InPost,2
+gemini,porownawcze,P04,4,Poczta Polska,1
+gemini,porownawcze,P04,4,InPost,2
+gemini,porownawcze,P04,5,Poczta Polska,1
+gemini,porownawcze,P04,5,InPost,2
+gemini,porownawcze,P04,5,ORLEN Paczka,3
+gemini,porownawcze,P04,5,DPD,4
+perplexity,porownawcze,P04,1,Poczta Polska,1
+perplexity,porownawcze,P04,1,InPost,2
+perplexity,porownawcze,P04,2,Poczta Polska,1
+perplexity,porownawcze,P04,2,InPost,2
+perplexity,porownawcze,P04,3,Poczta Polska,1
+perplexity,porownawcze,P04,3,InPost,2
+perplexity,porownawcze,P04,4,InPost,1
+perplexity,porownawcze,P04,4,Poczta Polska,2
+perplexity,porownawcze,P04,5,Poczta Polska,1
+perplexity,porownawcze,P04,5,InPost,2
+openai,porownawcze,P05,1,DPD,1
+openai,porownawcze,P05,1,GLS,2
+openai,porownawcze,P05,2,DPD,1
+openai,porownawcze,P05,2,GLS,2
+openai,porownawcze,P05,3,GLS,1
+openai,porownawcze,P05,3,DPD,2
+openai,porownawcze,P05,4,DPD,1
+openai,porownawcze,P05,4,GLS,2
+openai,porownawcze,P05,5,GLS,1
+openai,porownawcze,P05,5,DPD,2
+gemini,porownawcze,P05,1,DPD,1
+gemini,porownawcze,P05,1,GLS,2
+gemini,porownawcze,P05,1,InPost,3
+gemini,porownawcze,P05,2,DPD,1
+gemini,porownawcze,P05,2,GLS,2
+gemini,porownawcze,P05,2,InPost,3
+gemini,porownawcze,P05,3,DPD,1
+gemini,porownawcze,P05,3,GLS,2
+gemini,porownawcze,P05,3,InPost,3
+gemini,porownawcze,P05,4,DPD,1
+gemini,porownawcze,P05,4,GLS,2
+gemini,porownawcze,P05,4,InPost,3
+gemini,porownawcze,P05,5,DPD,1
+gemini,porownawcze,P05,5,GLS,2
+gemini,porownawcze,P05,5,InPost,3
+perplexity,porownawcze,P05,1,DPD,1
+perplexity,porownawcze,P05,1,GLS,2
+perplexity,porownawcze,P05,2,GLS,1
+perplexity,porownawcze,P05,2,DPD,2
+perplexity,porownawcze,P05,3,DPD,1
+perplexity,porownawcze,P05,3,GLS,2
+perplexity,porownawcze,P05,3,ORLEN Paczka,3
+perplexity,porownawcze,P05,4,DPD,1
+perplexity,porownawcze,P05,4,GLS,2
+perplexity,porownawcze,P05,5,GLS,1
+perplexity,porownawcze,P05,5,DPD,2
+openai,porownawcze,P06,1,ORLEN Paczka,1
+openai,porownawcze,P06,1,Poczta Polska,2
+openai,porownawcze,P06,2,ORLEN Paczka,1
+openai,porownawcze,P06,2,Poczta Polska,2
+openai,porownawcze,P06,3,ORLEN Paczka,1
+openai,porownawcze,P06,3,Poczta Polska,2
+openai,porownawcze,P06,4,ORLEN Paczka,1
+openai,porownawcze,P06,4,Poczta Polska,2
+openai,porownawcze,P06,5,ORLEN Paczka,1
+openai,porownawcze,P06,5,Poczta Polska,2
+gemini,porownawcze,P06,1,ORLEN Paczka,1
+gemini,porownawcze,P06,1,Poczta Polska,2
+gemini,porownawcze,P06,2,ORLEN Paczka,1
+gemini,porownawcze,P06,2,Poczta Polska,2
+gemini,porownawcze,P06,3,ORLEN Paczka,1
+gemini,porownawcze,P06,3,Poczta Polska,2
+gemini,porownawcze,P06,4,ORLEN Paczka,1
+gemini,porownawcze,P06,4,Poczta Polska,2
+gemini,porownawcze,P06,5,ORLEN Paczka,1
+gemini,porownawcze,P06,5,Poczta Polska,2
+perplexity,porownawcze,P06,1,ORLEN Paczka,1
+perplexity,porownawcze,P06,1,Poczta Polska,2
+perplexity,porownawcze,P06,2,ORLEN Paczka,1
+perplexity,porownawcze,P06,2,Poczta Polska,2
+perplexity,porownawcze,P06,3,ORLEN Paczka,1
+perplexity,porownawcze,P06,3,Poczta Polska,2
+perplexity,porownawcze,P06,4,ORLEN Paczka,1
+perplexity,porownawcze,P06,4,Poczta Polska,2
+perplexity,porownawcze,P06,5,ORLEN Paczka,1
+perplexity,porownawcze,P06,5,Poczta Polska,2
+openai,porownawcze,P07,1,ORLEN Paczka,1
+openai,porownawcze,P07,1,DPD,2
+openai,porownawcze,P07,1,DHL,3
+openai,porownawcze,P07,1,InPost,4
+openai,porownawcze,P07,2,ORLEN Paczka,1
+openai,porownawcze,P07,2,DPD,2
+openai,porownawcze,P07,2,InPost,3
+openai,porownawcze,P07,2,DHL,4
+openai,porownawcze,P07,3,DPD,1
+openai,porownawcze,P07,3,ORLEN Paczka,2
+openai,porownawcze,P07,3,DHL,3
+openai,porownawcze,P07,3,InPost,4
+openai,porownawcze,P07,4,DPD,1
+openai,porownawcze,P07,4,InPost,2
+openai,porownawcze,P07,4,DHL,3
+openai,porownawcze,P07,4,ORLEN Paczka,4
+openai,porownawcze,P07,5,InPost,1
+openai,porownawcze,P07,5,ORLEN Paczka,2
+openai,porownawcze,P07,5,DHL,3
+gemini,porownawcze,P07,1,ORLEN Paczka,1
+gemini,porownawcze,P07,1,InPost,2
+gemini,porownawcze,P07,1,DPD,3
+gemini,porownawcze,P07,1,DHL,4
+gemini,porownawcze,P07,2,ORLEN Paczka,1
+gemini,porownawcze,P07,2,DPD,2
+gemini,porownawcze,P07,2,DHL,3
+gemini,porownawcze,P07,2,InPost,4
+gemini,porownawcze,P07,3,ORLEN Paczka,1
+gemini,porownawcze,P07,3,DHL,2
+gemini,porownawcze,P07,3,InPost,3
+gemini,porownawcze,P07,3,DPD,4
+gemini,porownawcze,P07,4,ORLEN Paczka,1
+gemini,porownawcze,P07,4,InPost,2
+gemini,porownawcze,P07,4,DHL,3
+gemini,porownawcze,P07,4,DPD,4
+gemini,porownawcze,P07,5,ORLEN Paczka,1
+gemini,porownawcze,P07,5,InPost,2
+gemini,porownawcze,P07,5,DPD,3
+gemini,porownawcze,P07,5,DHL,4
+perplexity,porownawcze,P07,1,ORLEN Paczka,1
+perplexity,porownawcze,P07,1,InPost,2
+perplexity,porownawcze,P07,1,DHL,3
+perplexity,porownawcze,P07,1,DPD,4
+perplexity,porownawcze,P07,2,DPD,1
+perplexity,porownawcze,P07,2,InPost,2
+perplexity,porownawcze,P07,2,DHL,3
+perplexity,porownawcze,P07,2,ORLEN Paczka,4
+perplexity,porownawcze,P07,3,ORLEN Paczka,1
+perplexity,porownawcze,P07,3,InPost,2
+perplexity,porownawcze,P07,3,DPD,3
+perplexity,porownawcze,P07,3,DHL,4
+perplexity,porownawcze,P07,4,ORLEN Paczka,1
+perplexity,porownawcze,P07,4,InPost,2
+perplexity,porownawcze,P07,4,DPD,3
+perplexity,porownawcze,P07,4,DHL,4
+perplexity,porownawcze,P07,5,InPost,1
+perplexity,porownawcze,P07,5,ORLEN Paczka,2
+perplexity,porownawcze,P07,5,DHL,3
+perplexity,porownawcze,P07,5,DPD,4
+openai,porownawcze,P08,1,DHL,1
+openai,porownawcze,P08,1,UPS,2
+openai,porownawcze,P08,2,DHL,1
+openai,porownawcze,P08,2,UPS,2
+openai,porownawcze,P08,3,DHL,1
+openai,porownawcze,P08,3,UPS,2
+openai,porownawcze,P08,4,DHL,1
+openai,porownawcze,P08,4,UPS,2
+openai,porownawcze,P08,5,DHL,1
+openai,porownawcze,P08,5,UPS,2
+gemini,porownawcze,P08,1,UPS,1
+gemini,porownawcze,P08,1,DHL,2
+gemini,porownawcze,P08,2,UPS,1
+gemini,porownawcze,P08,2,DHL,2
+gemini,porownawcze,P08,3,UPS,1
+gemini,porownawcze,P08,3,DHL,2
+gemini,porownawcze,P08,4,UPS,1
+gemini,porownawcze,P08,4,DHL,2
+gemini,porownawcze,P08,5,UPS,1
+gemini,porownawcze,P08,5,DHL,2
+perplexity,porownawcze,P08,1,DHL,1
+perplexity,porownawcze,P08,1,UPS,2
+perplexity,porownawcze,P08,2,DHL,1
+perplexity,porownawcze,P08,2,UPS,2
+perplexity,porownawcze,P08,3,UPS,1
+perplexity,porownawcze,P08,3,DHL,2
+perplexity,porownawcze,P08,4,DHL,1
+perplexity,porownawcze,P08,4,UPS,2
+perplexity,porownawcze,P08,5,UPS,1
+perplexity,porownawcze,P08,5,DHL,2
+openai,porownawcze,P09,1,InPost,1
+openai,porownawcze,P09,1,ORLEN Paczka,2
+openai,porownawcze,P09,2,InPost,1
+openai,porownawcze,P09,2,ORLEN Paczka,2
+openai,porownawcze,P09,2,DPD,3
+openai,porownawcze,P09,3,InPost,1
+openai,porownawcze,P09,3,ORLEN Paczka,2
+openai,porownawcze,P09,4,InPost,1
+openai,porownawcze,P09,4,ORLEN Paczka,2
+openai,porownawcze,P09,4,DPD,3
+openai,porownawcze,P09,5,InPost,1
+openai,porownawcze,P09,5,ORLEN Paczka,2
+gemini,porownawcze,P09,1,InPost,1
+gemini,porownawcze,P09,1,ORLEN Paczka,2
+gemini,porownawcze,P09,2,InPost,1
+gemini,porownawcze,P09,2,ORLEN Paczka,2
+gemini,porownawcze,P09,3,InPost,1
+gemini,porownawcze,P09,3,ORLEN Paczka,2
+gemini,porownawcze,P09,4,InPost,1
+gemini,porownawcze,P09,4,ORLEN Paczka,2
+gemini,porownawcze,P09,5,InPost,1
+gemini,porownawcze,P09,5,ORLEN Paczka,2
+perplexity,porownawcze,P09,1,InPost,1
+perplexity,porownawcze,P09,1,ORLEN Paczka,2
+perplexity,porownawcze,P09,2,InPost,1
+perplexity,porownawcze,P09,2,ORLEN Paczka,2
+perplexity,porownawcze,P09,3,InPost,1
+perplexity,porownawcze,P09,3,ORLEN Paczka,2
+perplexity,porownawcze,P09,4,InPost,1
+perplexity,porownawcze,P09,4,ORLEN Paczka,2
+perplexity,porownawcze,P09,5,InPost,1
+perplexity,porownawcze,P09,5,ORLEN Paczka,2
+openai,porownawcze,P10,1,DPD,1
+openai,porownawcze,P10,1,GLS,2
+openai,porownawcze,P10,2,DPD,1
+openai,porownawcze,P10,2,GLS,2
+openai,porownawcze,P10,3,DPD,1
+openai,porownawcze,P10,3,GLS,2
+openai,porownawcze,P10,4,DPD,1
+openai,porownawcze,P10,4,GLS,2
+openai,porownawcze,P10,5,DPD,1
+openai,porownawcze,P10,5,GLS,2
+gemini,porownawcze,P10,1,DPD,1
+gemini,porownawcze,P10,1,GLS,2
+gemini,porownawcze,P10,2,DPD,1
+gemini,porownawcze,P10,2,GLS,2
+gemini,porownawcze,P10,3,DPD,1
+gemini,porownawcze,P10,3,GLS,2
+gemini,porownawcze,P10,3,InPost,3
+gemini,porownawcze,P10,4,DPD,1
+gemini,porownawcze,P10,4,GLS,2
+gemini,porownawcze,P10,4,InPost,3
+gemini,porownawcze,P10,5,DPD,1
+gemini,porownawcze,P10,5,GLS,2
+gemini,porownawcze,P10,5,InPost,3
+perplexity,porownawcze,P10,1,DPD,1
+perplexity,porownawcze,P10,1,GLS,2
+perplexity,porownawcze,P10,2,DPD,1
+perplexity,porownawcze,P10,2,GLS,2
+perplexity,porownawcze,P10,3,DPD,1
+perplexity,porownawcze,P10,3,GLS,2
+perplexity,porownawcze,P10,4,DPD,1
+perplexity,porownawcze,P10,4,GLS,2
+perplexity,porownawcze,P10,5,DPD,1
+perplexity,porownawcze,P10,5,GLS,2
+openai,markowe,M01,1,ORLEN Paczka,1
+openai,markowe,M01,1,InPost,2
+openai,markowe,M01,1,DPD,3
+openai,markowe,M01,2,ORLEN Paczka,1
+openai,markowe,M01,2,InPost,2
+openai,markowe,M01,2,DPD,3
+openai,markowe,M01,2,DHL,4
+openai,markowe,M01,3,ORLEN Paczka,1
+openai,markowe,M01,3,InPost,2
+openai,markowe,M01,3,DPD,3
+openai,markowe,M01,4,ORLEN Paczka,1
+openai,markowe,M01,4,InPost,2
+openai,markowe,M01,4,DPD,3
+openai,markowe,M01,5,ORLEN Paczka,1
+openai,markowe,M01,5,InPost,2
+openai,markowe,M01,5,DPD,3
+gemini,markowe,M01,1,ORLEN Paczka,1
+gemini,markowe,M01,1,InPost,2
+gemini,markowe,M01,1,DPD,3
+gemini,markowe,M01,2,ORLEN Paczka,1
+gemini,markowe,M01,2,InPost,2
+gemini,markowe,M01,2,DPD,3
+gemini,markowe,M01,3,ORLEN Paczka,1
+gemini,markowe,M01,3,InPost,2
+gemini,markowe,M01,4,ORLEN Paczka,1
+gemini,markowe,M01,4,InPost,2
+gemini,markowe,M01,5,ORLEN Paczka,1
+gemini,markowe,M01,5,InPost,2
+perplexity,markowe,M01,1,ORLEN Paczka,1
+perplexity,markowe,M01,2,ORLEN Paczka,1
+perplexity,markowe,M01,3,ORLEN Paczka,1
+perplexity,markowe,M01,4,ORLEN Paczka,1
+perplexity,markowe,M01,5,ORLEN Paczka,1
+openai,markowe,M02,1,ORLEN Paczka,1
+openai,markowe,M02,2,ORLEN Paczka,1
+openai,markowe,M02,3,ORLEN Paczka,1
+openai,markowe,M02,4,ORLEN Paczka,1
+openai,markowe,M02,5,ORLEN Paczka,1
+gemini,markowe,M02,1,ORLEN Paczka,1
+gemini,markowe,M02,2,ORLEN Paczka,1
+gemini,markowe,M02,3,ORLEN Paczka,1
+gemini,markowe,M02,4,ORLEN Paczka,1
+gemini,markowe,M02,5,ORLEN Paczka,1
+perplexity,markowe,M02,1,ORLEN Paczka,1
+openai,markowe,M03,1,ORLEN Paczka,1
+openai,markowe,M03,2,ORLEN Paczka,1
+openai,markowe,M03,3,ORLEN Paczka,1
+openai,markowe,M03,4,ORLEN Paczka,1
+openai,markowe,M03,5,ORLEN Paczka,1
+gemini,markowe,M03,1,ORLEN Paczka,1
+gemini,markowe,M03,2,ORLEN Paczka,1
+gemini,markowe,M03,3,ORLEN Paczka,1
+gemini,markowe,M03,4,ORLEN Paczka,1
+gemini,markowe,M03,5,ORLEN Paczka,1
+perplexity,markowe,M03,1,ORLEN Paczka,1
+perplexity,markowe,M03,2,ORLEN Paczka,1
+perplexity,markowe,M03,3,ORLEN Paczka,1
+perplexity,markowe,M03,4,ORLEN Paczka,1
+perplexity,markowe,M03,5,ORLEN Paczka,1
+openai,markowe,M04,1,ORLEN Paczka,1
+openai,markowe,M04,1,InPost,2
+openai,markowe,M04,1,DPD,3
+openai,markowe,M04,2,ORLEN Paczka,1
+openai,markowe,M04,3,ORLEN Paczka,1
+openai,markowe,M04,3,InPost,2
+openai,markowe,M04,3,DPD,3
+openai,markowe,M04,4,ORLEN Paczka,1
+openai,markowe,M04,4,InPost,2
+openai,markowe,M04,4,DPD,3
+openai,markowe,M04,4,DHL,4
+openai,markowe,M04,5,ORLEN Paczka,1
+openai,markowe,M04,5,InPost,2
+openai,markowe,M04,5,DPD,3
+gemini,markowe,M04,1,ORLEN Paczka,1
+gemini,markowe,M04,1,InPost,2
+gemini,markowe,M04,1,DPD,3
+gemini,markowe,M04,1,DHL,4
+gemini,markowe,M04,2,ORLEN Paczka,1
+gemini,markowe,M04,2,InPost,2
+gemini,markowe,M04,2,DPD,3
+gemini,markowe,M04,2,Poczta Polska,4
+gemini,markowe,M04,3,ORLEN Paczka,1
+gemini,markowe,M04,3,InPost,2
+gemini,markowe,M04,4,ORLEN Paczka,1
+gemini,markowe,M04,4,InPost,2
+gemini,markowe,M04,4,DPD,3
+gemini,markowe,M04,4,Poczta Polska,4
+gemini,markowe,M04,5,ORLEN Paczka,1
+gemini,markowe,M04,5,InPost,2
+gemini,markowe,M04,5,DPD,3
+gemini,markowe,M04,5,Poczta Polska,4
+gemini,markowe,M04,5,DHL,5
+perplexity,markowe,M04,1,ORLEN Paczka,1
+perplexity,markowe,M04,2,ORLEN Paczka,1
+perplexity,markowe,M04,3,ORLEN Paczka,1
+perplexity,markowe,M04,4,ORLEN Paczka,1
+perplexity,markowe,M04,5,ORLEN Paczka,1
+openai,markowe,M05,1,ORLEN Paczka,1
+openai,markowe,M05,2,ORLEN Paczka,1
+openai,markowe,M05,3,ORLEN Paczka,1
+openai,markowe,M05,4,ORLEN Paczka,1
+openai,markowe,M05,5,ORLEN Paczka,1
+gemini,markowe,M05,1,ORLEN Paczka,1
+gemini,markowe,M05,2,ORLEN Paczka,1
+gemini,markowe,M05,3,ORLEN Paczka,1
+gemini,markowe,M05,4,ORLEN Paczka,1
+gemini,markowe,M05,5,ORLEN Paczka,1
+perplexity,markowe,M05,1,ORLEN Paczka,1
+perplexity,markowe,M05,2,ORLEN Paczka,1
+perplexity,markowe,M05,3,ORLEN Paczka,1
+perplexity,markowe,M05,4,ORLEN Paczka,1
+perplexity,markowe,M05,5,ORLEN Paczka,1
+openai,markowe,M06,1,ORLEN Paczka,1
+openai,markowe,M06,2,ORLEN Paczka,1
+openai,markowe,M06,3,ORLEN Paczka,1
+openai,markowe,M06,4,ORLEN Paczka,1
+openai,markowe,M06,5,ORLEN Paczka,1
+gemini,markowe,M06,1,ORLEN Paczka,1
+gemini,markowe,M06,2,ORLEN Paczka,1
+gemini,markowe,M06,3,ORLEN Paczka,1
+gemini,markowe,M06,4,ORLEN Paczka,1
+gemini,markowe,M06,5,ORLEN Paczka,1
+perplexity,markowe,M06,4,ORLEN Paczka,1
+openai,markowe,M07,1,ORLEN Paczka,1
+openai,markowe,M07,2,ORLEN Paczka,1
+openai,markowe,M07,3,ORLEN Paczka,1
+openai,markowe,M07,4,ORLEN Paczka,1
+openai,markowe,M07,5,ORLEN Paczka,1
+gemini,markowe,M07,1,ORLEN Paczka,1
+gemini,markowe,M07,2,ORLEN Paczka,1
+gemini,markowe,M07,3,ORLEN Paczka,1
+gemini,markowe,M07,4,ORLEN Paczka,1
+gemini,markowe,M07,5,ORLEN Paczka,1
+perplexity,markowe,M07,1,ORLEN Paczka,1
+perplexity,markowe,M07,2,ORLEN Paczka,1
+perplexity,markowe,M07,3,ORLEN Paczka,1
+perplexity,markowe,M07,4,ORLEN Paczka,1
+perplexity,markowe,M07,5,ORLEN Paczka,1
+openai,markowe,M08,1,ORLEN Paczka,1
+openai,markowe,M08,2,ORLEN Paczka,1
+openai,markowe,M08,3,ORLEN Paczka,1
+openai,markowe,M08,4,ORLEN Paczka,1
+openai,markowe,M08,5,ORLEN Paczka,1
+gemini,markowe,M08,1,ORLEN Paczka,1
+gemini,markowe,M08,1,DPD,2
+gemini,markowe,M08,1,DHL,3
+gemini,markowe,M08,1,GLS,4
+gemini,markowe,M08,1,Poczta Polska,5
+gemini,markowe,M08,2,ORLEN Paczka,1
+gemini,markowe,M08,2,DPD,2
+gemini,markowe,M08,2,DHL,3
+gemini,markowe,M08,2,GLS,4
+gemini,markowe,M08,2,Poczta Polska,5
+gemini,markowe,M08,2,InPost,6
+gemini,markowe,M08,3,ORLEN Paczka,1
+gemini,markowe,M08,4,ORLEN Paczka,1
+gemini,markowe,M08,4,DPD,2
+gemini,markowe,M08,4,DHL,3
+gemini,markowe,M08,4,GLS,4
+gemini,markowe,M08,4,UPS,5
+gemini,markowe,M08,4,Poczta Polska,6
+gemini,markowe,M08,5,ORLEN Paczka,1
+perplexity,markowe,M08,1,ORLEN Paczka,1
+perplexity,markowe,M08,2,ORLEN Paczka,1
+perplexity,markowe,M08,3,ORLEN Paczka,1
+perplexity,markowe,M08,4,ORLEN Paczka,1
+perplexity,markowe,M08,5,ORLEN Paczka,1
+openai,markowe,M09,1,ORLEN Paczka,1
+openai,markowe,M09,1,InPost,2
+openai,markowe,M09,2,ORLEN Paczka,1
+openai,markowe,M09,2,InPost,2
+openai,markowe,M09,3,ORLEN Paczka,1
+openai,markowe,M09,3,InPost,2
+openai,markowe,M09,4,ORLEN Paczka,1
+openai,markowe,M09,4,InPost,2
+openai,markowe,M09,5,InPost,1
+openai,markowe,M09,5,ORLEN Paczka,2
+gemini,markowe,M09,1,ORLEN Paczka,1
+gemini,markowe,M09,1,InPost,2
+gemini,markowe,M09,2,ORLEN Paczka,1
+gemini,markowe,M09,2,InPost,2
+gemini,markowe,M09,3,ORLEN Paczka,1
+gemini,markowe,M09,3,InPost,2
+gemini,markowe,M09,4,ORLEN Paczka,1
+gemini,markowe,M09,4,InPost,2
+gemini,markowe,M09,5,ORLEN Paczka,1
+gemini,markowe,M09,5,InPost,2
+perplexity,markowe,M09,1,ORLEN Paczka,1
+perplexity,markowe,M09,1,InPost,2
+perplexity,markowe,M09,2,ORLEN Paczka,1
+perplexity,markowe,M09,2,InPost,2
+perplexity,markowe,M09,3,ORLEN Paczka,1
+perplexity,markowe,M09,3,InPost,2
+perplexity,markowe,M09,4,ORLEN Paczka,1
+perplexity,markowe,M09,4,InPost,2
+perplexity,markowe,M09,5,ORLEN Paczka,1
+perplexity,markowe,M09,5,InPost,2
+openai,markowe,M10,1,ORLEN Paczka,1
+openai,markowe,M10,2,ORLEN Paczka,1
+openai,markowe,M10,3,ORLEN Paczka,1
+openai,markowe,M10,4,ORLEN Paczka,1
+openai,markowe,M10,5,ORLEN Paczka,1
+gemini,markowe,M10,1,ORLEN Paczka,1
+gemini,markowe,M10,2,ORLEN Paczka,1
+gemini,markowe,M10,3,ORLEN Paczka,1
+gemini,markowe,M10,4,ORLEN Paczka,1
+gemini,markowe,M10,5,ORLEN Paczka,1
+perplexity,markowe,M10,1,ORLEN Paczka,1
+perplexity,markowe,M10,2,ORLEN Paczka,1
+perplexity,markowe,M10,3,ORLEN Paczka,1
+perplexity,markowe,M10,4,ORLEN Paczka,1
+perplexity,markowe,M10,5,ORLEN Paczka,1

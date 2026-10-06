@@ -1,0 +1,41 @@
+id_zapytania,pierwsza_marka_gemini,pierwsza_marka_openai,pierwsza_marka_perplexity,zgodne_wszystkie
+I01,InPost,InPost,InPost,1
+I02,ORLEN Paczka,InPost,ORLEN Paczka,0
+I03,,,,0
+I04,InPost,InPost,Poczta Polska,0
+I05,DHL,Poczta Polska,GLS,0
+I06,InPost,InPost,InPost,1
+I07,InPost,InPost,DPD,0
+I08,InPost,InPost,InPost,1
+I09,InPost,InPost,InPost,1
+I10,InPost,,,0
+M01,ORLEN Paczka,ORLEN Paczka,ORLEN Paczka,1
+M02,ORLEN Paczka,ORLEN Paczka,ORLEN Paczka,1
+M03,ORLEN Paczka,ORLEN Paczka,ORLEN Paczka,1
+M04,ORLEN Paczka,ORLEN Paczka,ORLEN Paczka,1
+M05,ORLEN Paczka,ORLEN Paczka,ORLEN Paczka,1
+M06,ORLEN Paczka,ORLEN Paczka,ORLEN Paczka,1
+M07,ORLEN Paczka,ORLEN Paczka,ORLEN Paczka,1
+M08,ORLEN Paczka,ORLEN Paczka,ORLEN Paczka,1
+M09,ORLEN Paczka,ORLEN Paczka,ORLEN Paczka,1
+M10,ORLEN Paczka,ORLEN Paczka,ORLEN Paczka,1
+P01,InPost,InPost,InPost,1
+P02,InPost,InPost,ORLEN Paczka,0
+P03,DHL,DHL,DPD,0
+P04,Poczta Polska,InPost,Poczta Polska,0
+P05,DPD,DPD,DPD,1
+P06,ORLEN Paczka,ORLEN Paczka,ORLEN Paczka,1
+P07,ORLEN Paczka,ORLEN Paczka,ORLEN Paczka,1
+P08,UPS,DHL,DHL,0
+P09,InPost,InPost,InPost,1
+P10,DPD,DPD,DPD,1
+R01,InPost,InPost,InPost,1
+R02,ORLEN Paczka,InPost,DHL,0
+R03,DPD,InPost,InPost,0
+R04,InPost,DHL,UPS,0
+R05,InPost,InPost,InPost,1
+R06,DPD,DHL,DPD,0
+R07,InPost,InPost,InPost,1
+R08,InPost,InPost,InPost,1
+R09,InPost,DPD,DHL,0
+R10,ORLEN Paczka,InPost,ORLEN Paczka,0

@@ -1,0 +1,8 @@
+marka,domena,wzorce,klient
+ORLEN Paczka,orlenpaczka.pl,orlen\s+paczk(?:a|i|ę|ą)|orlen\s+paczce|orlenpaczka,tak
+InPost,inpost.pl,inpost(?:u|em|owi)?|inpoście,nie
+DPD,dpd.com,dpd,nie
+DHL,dhl.com,dhl,nie
+GLS,gls-group.com,gls,nie
+Poczta Polska,poczta-polska.pl,poczt(?:a|y|ę|ą)\s+polsk(?:a|iej|ą)|poczcie\s+polskiej|pocztex(?:u|em|ie)?|envelo|poczta-polska,nie
+UPS,ups.com,ups,nie

@@ -1,0 +1,601 @@
+id_odpowiedzi,silnik,model,id_zapytania,grupa,proba,data,marki,liczba_marek,klient_wymieniony,pozycja_klienta,klient_cytowany,liczba_zrodel,domeny,wyszukiwanie
+1,perplexity,perplexity/sonar,R02,rekomendacyjne,1,2026-10-06,DHL|ORLEN Paczka|DPD|Poczta Polska,4,1,2,0,1,znajdzkuriera.pl,1
+2,openai,gpt-5.4-mini-2026-03-17,I01,informacyjne,1,2026-10-06,InPost|DPD|ORLEN Paczka|DHL,4,1,3,0,0,,0
+3,openai,gpt-5.4-mini-2026-03-17,I01,informacyjne,2,2026-10-06,InPost|DPD|DHL|ORLEN Paczka|Poczta Polska,5,1,4,0,0,,0
+4,openai,gpt-5.4-mini-2026-03-17,I01,informacyjne,3,2026-10-06,InPost|DPD|DHL|GLS|ORLEN Paczka,5,1,5,0,0,,0
+5,openai,gpt-5.4-mini-2026-03-17,I01,informacyjne,4,2026-10-06,InPost|DPD|DHL|ORLEN Paczka,4,1,4,0,0,,0
+6,openai,gpt-5.4-mini-2026-03-17,I01,informacyjne,5,2026-10-06,InPost|DHL|DPD|ORLEN Paczka|Poczta Polska,5,1,4,0,0,,0
+7,gemini,gemini-3.8-flash,I01,informacyjne,1,2026-10-06,InPost|DPD|ORLEN Paczka|DHL|Poczta Polska,5,1,3,0,0,,0
+8,gemini,gemini-3.8-flash,I01,informacyjne,2,2026-10-06,InPost|DPD|ORLEN Paczka|Poczta Polska,4,1,3,0,0,,0
+9,gemini,gemini-3.8-flash,I01,informacyjne,3,2026-10-06,InPost|ORLEN Paczka|DHL|DPD|Poczta Polska,5,1,2,0,0,,0
+10,gemini,gemini-3.8-flash,I01,informacyjne,4,2026-10-06,InPost|DPD|ORLEN Paczka|DHL|Poczta Polska,5,1,3,0,0,,0
+11,gemini,gemini-3.8-flash,I01,informacyjne,5,2026-10-06,InPost|ORLEN Paczka|DPD|DHL|Poczta Polska,5,1,2,0,0,,0
+12,perplexity,perplexity/sonar,I01,informacyjne,1,2026-10-06,InPost|DHL,2,0,,0,2,dhl.com|inpost.pl,1
+13,perplexity,perplexity/sonar,I01,informacyjne,2,2026-10-06,InPost|Poczta Polska,2,0,,0,2,inpost.pl|poczta-polska.pl,1
+14,perplexity,perplexity/sonar,I01,informacyjne,3,2026-10-06,InPost|DPD|DHL,3,0,,0,4,blisko.dpd.com.pl|dhl.com|dpd.com|inpost.pl,1
+15,perplexity,perplexity/sonar,I01,informacyjne,4,2026-10-06,InPost|Poczta Polska,2,0,,0,2,inpost.pl|poczta-polska.pl,1
+16,perplexity,perplexity/sonar,I01,informacyjne,5,2026-10-06,InPost|Poczta Polska,2,0,,0,2,inpost.pl|poczta-polska.pl,1
+17,openai,gpt-5.4-mini-2026-03-17,I02,informacyjne,1,2026-10-06,InPost|Poczta Polska|DPD,3,0,,0,2,inpost.pl|poczta-polska.pl,1
+18,openai,gpt-5.4-mini-2026-03-17,I02,informacyjne,2,2026-10-06,InPost|ORLEN Paczka,2,1,2,0,0,,0
+19,openai,gpt-5.4-mini-2026-03-17,I02,informacyjne,3,2026-10-06,Poczta Polska|InPost|DPD|DHL|GLS,5,0,,0,0,,0
+20,openai,gpt-5.4-mini-2026-03-17,I02,informacyjne,4,2026-10-06,InPost|DPD|DHL|ORLEN Paczka|Poczta Polska,5,1,4,0,0,,0
+21,openai,gpt-5.4-mini-2026-03-17,I02,informacyjne,5,2026-10-06,InPost|DPD|DHL|GLS|Poczta Polska,5,0,,0,0,,0
+22,gemini,gemini-3.8-flash,I02,informacyjne,1,2026-10-06,ORLEN Paczka|InPost|Poczta Polska|DPD|DHL|GLS,6,1,1,1,10,apaczka.pl|espedycja.com|euro-paka.pl|furgonetka.pl|inpost.pl|jakimkurierem.pl|orlenpaczka.pl|polkurier.pl|sendit.pl|shipcenter.pl,1
+23,gemini,gemini-3.8-flash,I02,informacyjne,2,2026-10-06,ORLEN Paczka|InPost|DPD|Poczta Polska|DHL|GLS,6,1,1,1,11,allekurier.pl|dpd.com|inpost.pl|orlenpaczka.pl|packeta.pl|paqnek.pl|poczta-polska.pl|polkurier.pl|sendit.pl|shipcenter.pl|wysylajtaniej.pl,1
+24,gemini,gemini-3.8-flash,I02,informacyjne,3,2026-10-06,ORLEN Paczka|InPost|Poczta Polska|DPD|DHL|GLS,6,1,1,1,4,allekurier.pl|orlenpaczka.pl|shipcenter.pl|wysylajtaniej.pl,1
+25,gemini,gemini-3.8-flash,I02,informacyjne,4,2026-10-06,ORLEN Paczka|InPost|Poczta Polska|DPD|DHL|GLS,6,1,1,1,3,orlenpaczka.pl|patronservice.pl|shipcenter.pl,1
+26,gemini,gemini-3.8-flash,I02,informacyjne,5,2026-10-06,ORLEN Paczka|InPost|Poczta Polska|DPD|DHL|GLS,6,1,1,1,6,allekurier.pl|inpost.pl|orlenpaczka.pl|patronservice.pl|pocztex.pl|sendit.pl,1
+27,perplexity,perplexity/sonar,I02,informacyjne,1,2026-10-06,ORLEN Paczka|InPost|DPD|Poczta Polska,4,1,1,0,2,bip.poczta-polska.pl|znajdzkuriera.pl,1
+28,perplexity,perplexity/sonar,I02,informacyjne,2,2026-10-06,ORLEN Paczka|InPost|DPD,3,1,1,0,2,dpd.com|znajdzkuriera.pl,1
+29,perplexity,perplexity/sonar,I02,informacyjne,3,2026-10-06,ORLEN Paczka|InPost|DPD,3,1,1,0,3,dpd.com|nadaj.dpd.com.pl|znajdzkuriera.pl,1
+30,perplexity,perplexity/sonar,I02,informacyjne,4,2026-10-06,Poczta Polska|InPost|DPD,3,0,,0,3,dpd.com|inpost.pl|poczta-polska.pl,1
+31,perplexity,perplexity/sonar,I02,informacyjne,5,2026-10-06,ORLEN Paczka|InPost|DPD|Poczta Polska,4,1,1,0,2,bip.poczta-polska.pl|znajdzkuriera.pl,1
+32,openai,gpt-5.4-mini-2026-03-17,I03,informacyjne,1,2026-10-06,,0,0,,0,0,,0
+33,openai,gpt-5.4-mini-2026-03-17,I03,informacyjne,2,2026-10-06,,0,0,,0,0,,0
+34,openai,gpt-5.4-mini-2026-03-17,I03,informacyjne,3,2026-10-06,,0,0,,0,0,,0
+35,openai,gpt-5.4-mini-2026-03-17,I03,informacyjne,4,2026-10-06,,0,0,,0,0,,0
+36,openai,gpt-5.4-mini-2026-03-17,I03,informacyjne,5,2026-10-06,,0,0,,0,0,,0
+37,gemini,gemini-3.8-flash,I03,informacyjne,1,2026-10-06,,0,0,,0,0,,0
+38,gemini,gemini-3.8-flash,I03,informacyjne,2,2026-10-06,,0,0,,0,0,,0
+39,gemini,gemini-3.8-flash,I03,informacyjne,3,2026-10-06,,0,0,,0,0,,0
+40,gemini,gemini-3.8-flash,I03,informacyjne,4,2026-10-06,,0,0,,0,0,,0
+41,gemini,gemini-3.8-flash,I03,informacyjne,5,2026-10-06,,0,0,,0,0,,0
+42,perplexity,perplexity/sonar,I03,informacyjne,1,2026-10-06,,0,0,,0,5,fedex.com|furgonetka.pl|inpost.pl|poczta-polska.pl|sklep.poczta-polska.pl,1
+43,perplexity,perplexity/sonar,I03,informacyjne,2,2026-10-06,,0,0,,0,4,dhl.com|dpd.com|fedex.com|mydhl.express.dhl,1
+44,perplexity,perplexity/sonar,I03,informacyjne,3,2026-10-06,,0,0,,0,4,dhl.com|dhl.de|inpost.pl|mydhl.express.dhl,1
+45,perplexity,perplexity/sonar,I03,informacyjne,4,2026-10-06,,0,0,,0,5,dhlexpress.pl|dpd.com|inpost.pl|mydhl.express.dhl|polkurier.pl,1
+46,perplexity,perplexity/sonar,I03,informacyjne,5,2026-10-06,,0,0,,0,2,dhl.com|inpost.pl,1
+47,openai,gpt-5.4-mini-2026-03-17,I04,informacyjne,1,2026-10-06,InPost|DPD|DHL|GLS|Poczta Polska,5,0,,0,0,,0
+48,openai,gpt-5.4-mini-2026-03-17,I04,informacyjne,2,2026-10-06,,0,0,,0,0,,0
+49,openai,gpt-5.4-mini-2026-03-17,I04,informacyjne,3,2026-10-06,,0,0,,0,0,,0
+50,openai,gpt-5.4-mini-2026-03-17,I04,informacyjne,4,2026-10-06,,0,0,,0,0,,0
+51,openai,gpt-5.4-mini-2026-03-17,I04,informacyjne,5,2026-10-06,,0,0,,0,0,,0
+52,gemini,gemini-3.8-flash,I04,informacyjne,1,2026-10-06,InPost|DPD|DHL|GLS|Poczta Polska,5,0,,0,0,,0
+53,gemini,gemini-3.8-flash,I04,informacyjne,2,2026-10-06,InPost|DPD|DHL|GLS|Poczta Polska,5,0,,0,0,,0
+54,gemini,gemini-3.8-flash,I04,informacyjne,3,2026-10-06,InPost|DPD|DHL|GLS|Poczta Polska,5,0,,0,0,,0
+55,gemini,gemini-3.8-flash,I04,informacyjne,4,2026-10-06,InPost|DPD|DHL|GLS|Poczta Polska,5,0,,0,0,,0
+56,gemini,gemini-3.8-flash,I04,informacyjne,5,2026-10-06,InPost|DPD|DHL|GLS|Poczta Polska,5,0,,0,0,,0
+57,perplexity,perplexity/sonar,I04,informacyjne,1,2026-10-06,Poczta Polska,1,0,,0,3,cik.uke.gov.pl|ereklamacje.poczta-polska.pl|sip.lex.pl,1
+58,perplexity,perplexity/sonar,I04,informacyjne,2,2026-10-06,,0,0,,0,3,bip.poczta-polska.pl|cik.uke.gov.pl|prawakonsumenta.uokik.gov.pl,1
+59,perplexity,perplexity/sonar,I04,informacyjne,3,2026-10-06,Poczta Polska,1,0,,0,3,cik.uke.gov.pl|ereklamacje.poczta-polska.pl|prawakonsumenta.uokik.gov.pl,1
+60,perplexity,perplexity/sonar,I04,informacyjne,4,2026-10-06,Poczta Polska,1,0,,0,2,cik.uke.gov.pl|ereklamacje.poczta-polska.pl,1
+61,perplexity,perplexity/sonar,I04,informacyjne,5,2026-10-06,Poczta Polska,1,0,,0,4,cik.uke.gov.pl|ereklamacje.poczta-polska.pl|prawakonsumenta.uokik.gov.pl|uke.gov.pl,1
+62,openai,gpt-5.4-mini-2026-03-17,I05,informacyjne,1,2026-10-06,Poczta Polska|DHL|InPost,3,0,,0,3,dhl.com|inpost.pl|poczta-polska.pl,1
+63,openai,gpt-5.4-mini-2026-03-17,I05,informacyjne,2,2026-10-06,Poczta Polska|DPD|DHL,3,0,,0,3,dhl.com|dpd.com|poczta-polska.pl,1
+64,openai,gpt-5.4-mini-2026-03-17,I05,informacyjne,3,2026-10-06,Poczta Polska|DHL|DPD|UPS|GLS|InPost,6,0,,0,2,inpost.pl|poczta-polska.pl,1
+65,openai,gpt-5.4-mini-2026-03-17,I05,informacyjne,4,2026-10-06,InPost|DHL,2,0,,0,2,dhl.com|inpost.pl,1
+66,openai,gpt-5.4-mini-2026-03-17,I05,informacyjne,5,2026-10-06,DHL|InPost|DPD|Poczta Polska,4,0,,0,2,dhl.com|poczta-polska.pl,1
+67,gemini,gemini-3.8-flash,I05,informacyjne,1,2026-10-06,DPD|GLS|DHL|Poczta Polska|UPS,5,0,,0,1,dpd.com,1
+68,gemini,gemini-3.8-flash,I05,informacyjne,2,2026-10-06,DPD|GLS|DHL|UPS|Poczta Polska,5,0,,0,8,allekurier.pl|dpd.com|epaka.pl|furgonetka.pl|packeta.pl|poczta-polska.pl|przesylarka.pl|sendit.pl,1
+69,gemini,gemini-3.8-flash,I05,informacyjne,3,2026-10-06,DHL|DPD|GLS|UPS,4,0,,0,8,allekurier.pl|dhl.com|dhlexpress.pl|dpd.com|epaka.pl|furgonetka.pl|inpost.pl|przesylarka.pl,1
+70,gemini,gemini-3.8-flash,I05,informacyjne,4,2026-10-06,DHL|DPD|GLS|UPS|Poczta Polska,5,0,,0,9,dhlexpress.pl|dpd.com|epaka.pl|furgonetka.pl|inpost.pl|kurierem.pl|poczta-polska.pl|przesylarka.pl|sendit.pl,1
+71,gemini,gemini-3.8-flash,I05,informacyjne,5,2026-10-06,DHL|UPS|DPD|GLS|Poczta Polska,5,0,,0,5,allekurier.pl|dhl.com|epaka.pl|furgonetka.pl|inpost.pl,1
+72,perplexity,perplexity/sonar,I05,informacyjne,1,2026-10-06,GLS|Poczta Polska|DPD,3,0,,0,3,dpd.com|kb.pl|znajdzkuriera.pl,1
+73,perplexity,perplexity/sonar,I05,informacyjne,2,2026-10-06,Poczta Polska|InPost,2,0,,0,3,apaczka.pl|inpost.pl|kb.pl,1
+74,perplexity,perplexity/sonar,I05,informacyjne,3,2026-10-06,GLS|Poczta Polska|InPost|DPD,4,0,,0,2,dpd.com|znajdzkuriera.pl,1
+75,perplexity,perplexity/sonar,I05,informacyjne,4,2026-10-06,GLS|DPD|Poczta Polska|DHL,4,0,,0,3,dpd.com|meestpost.com|znajdzkuriera.pl,1
+76,perplexity,perplexity/sonar,I05,informacyjne,5,2026-10-06,GLS|DHL|Poczta Polska,3,0,,0,3,dhl.com|kb.pl|znajdzkuriera.pl,1
+77,openai,gpt-5.4-mini-2026-03-17,I06,informacyjne,1,2026-10-06,,0,0,,0,0,,0
+78,openai,gpt-5.4-mini-2026-03-17,I06,informacyjne,2,2026-10-06,InPost,1,0,,0,0,,0
+79,openai,gpt-5.4-mini-2026-03-17,I06,informacyjne,3,2026-10-06,,0,0,,0,0,,0
+80,openai,gpt-5.4-mini-2026-03-17,I06,informacyjne,4,2026-10-06,InPost|DPD|DHL|Poczta Polska,4,0,,0,0,,0
+81,openai,gpt-5.4-mini-2026-03-17,I06,informacyjne,5,2026-10-06,,0,0,,0,0,,0
+82,gemini,gemini-3.8-flash,I06,informacyjne,1,2026-10-06,InPost|DPD|ORLEN Paczka,3,1,3,0,0,,0
+83,gemini,gemini-3.8-flash,I06,informacyjne,2,2026-10-06,InPost|DPD|ORLEN Paczka,3,1,3,0,0,,0
+84,gemini,gemini-3.8-flash,I06,informacyjne,3,2026-10-06,InPost|DPD|ORLEN Paczka,3,1,3,0,0,,0
+85,gemini,gemini-3.8-flash,I06,informacyjne,4,2026-10-06,InPost|DPD,2,0,,0,0,,0
+86,gemini,gemini-3.8-flash,I06,informacyjne,5,2026-10-06,DPD|ORLEN Paczka,2,1,2,0,0,,0
+87,perplexity,perplexity/sonar,I06,informacyjne,1,2026-10-06,InPost,1,0,,0,1,inpost.pl,1
+88,perplexity,perplexity/sonar,I06,informacyjne,2,2026-10-06,InPost|Poczta Polska,2,0,,0,3,inpost.pl|poczta-polska.pl|pocztex.pl,1
+89,perplexity,perplexity/sonar,I06,informacyjne,3,2026-10-06,,0,0,,0,2,dpd.com|inpost.pl,1
+90,perplexity,perplexity/sonar,I06,informacyjne,4,2026-10-06,,0,0,,0,2,dpd.com|inpost.pl,1
+91,perplexity,perplexity/sonar,I06,informacyjne,5,2026-10-06,InPost,1,0,,0,3,inpost.pl|odbiorwpunkcie.poczta-polska.pl|poczta-polska.pl,1
+92,openai,gpt-5.4-mini-2026-03-17,I07,informacyjne,1,2026-10-06,InPost|DPD|DHL|GLS|Poczta Polska,5,0,,0,0,,0
+93,openai,gpt-5.4-mini-2026-03-17,I07,informacyjne,2,2026-10-06,InPost|DPD|DHL,3,0,,0,0,,0
+94,openai,gpt-5.4-mini-2026-03-17,I07,informacyjne,3,2026-10-06,InPost|DPD|DHL|GLS|Poczta Polska,5,0,,0,0,,0
+95,openai,gpt-5.4-mini-2026-03-17,I07,informacyjne,4,2026-10-06,,0,0,,0,0,,0
+96,openai,gpt-5.4-mini-2026-03-17,I07,informacyjne,5,2026-10-06,InPost|DPD|DHL|GLS|Poczta Polska,5,0,,0,0,,0
+97,gemini,gemini-3.8-flash,I07,informacyjne,1,2026-10-06,InPost|DPD|DHL|GLS,4,0,,0,0,,0
+98,gemini,gemini-3.8-flash,I07,informacyjne,2,2026-10-06,InPost|DPD|DHL|GLS|Poczta Polska,5,0,,0,0,,0
+99,gemini,gemini-3.8-flash,I07,informacyjne,3,2026-10-06,InPost|DPD|DHL|GLS|Poczta Polska|UPS,6,0,,0,0,,0
+100,gemini,gemini-3.8-flash,I07,informacyjne,4,2026-10-06,InPost|DPD|DHL|GLS,4,0,,0,0,,0
+101,gemini,gemini-3.8-flash,I07,informacyjne,5,2026-10-06,InPost|DPD|DHL|GLS|Poczta Polska,5,0,,0,0,,0
+102,perplexity,perplexity/sonar,I07,informacyjne,1,2026-10-06,,0,0,,0,2,dhl.com|dpd.com,1
+103,perplexity,perplexity/sonar,I07,informacyjne,2,2026-10-06,DPD|InPost,2,0,,0,2,dpd.com|inpost.pl,1
+104,perplexity,perplexity/sonar,I07,informacyjne,3,2026-10-06,,0,0,,0,2,dhlbiznes.pl|inpost.pl,1
+105,perplexity,perplexity/sonar,I07,informacyjne,4,2026-10-06,,0,0,,0,3,dpd.com|furgonetka.pl|inpost.pl,1
+106,perplexity,perplexity/sonar,I07,informacyjne,5,2026-10-06,,0,0,,0,4,dpd.com|dziennikwschodni.pl|furgonetka.pl|sendit.pl,1
+107,openai,gpt-5.4-mini-2026-03-17,I08,informacyjne,1,2026-10-06,Poczta Polska|InPost|DPD|DHL,4,0,,0,0,,0
+108,openai,gpt-5.4-mini-2026-03-17,I08,informacyjne,2,2026-10-06,InPost|DPD|DHL|Poczta Polska,4,0,,0,0,,0
+109,openai,gpt-5.4-mini-2026-03-17,I08,informacyjne,3,2026-10-06,InPost|DPD|DHL|UPS|Poczta Polska|ORLEN Paczka,6,1,6,0,0,,0
+110,openai,gpt-5.4-mini-2026-03-17,I08,informacyjne,4,2026-10-06,InPost|DPD|DHL|GLS|Poczta Polska,5,0,,0,0,,0
+111,openai,gpt-5.4-mini-2026-03-17,I08,informacyjne,5,2026-10-06,InPost|DPD|DHL|Poczta Polska,4,0,,0,0,,0
+112,gemini,gemini-3.8-flash,I08,informacyjne,1,2026-10-06,InPost|Poczta Polska|DPD|DHL|GLS|UPS,6,0,,0,0,,0
+113,gemini,gemini-3.8-flash,I08,informacyjne,2,2026-10-06,InPost|Poczta Polska|DPD|DHL|GLS,5,0,,0,0,,0
+114,gemini,gemini-3.8-flash,I08,informacyjne,3,2026-10-06,InPost|Poczta Polska|DPD|DHL|GLS|UPS,6,0,,0,0,,0
+115,gemini,gemini-3.8-flash,I08,informacyjne,4,2026-10-06,InPost|DPD|DHL|GLS|Poczta Polska,5,0,,0,0,,0
+116,gemini,gemini-3.8-flash,I08,informacyjne,5,2026-10-06,DPD|DHL|InPost|Poczta Polska|GLS,5,0,,0,0,,0
+117,perplexity,perplexity/sonar,I08,informacyjne,1,2026-10-06,,0,0,,0,2,inpost.pl|poczta-polska.pl,1
+118,perplexity,perplexity/sonar,I08,informacyjne,2,2026-10-06,InPost|DPD,2,0,,0,2,dpd.com|inpost.pl,1
+119,perplexity,perplexity/sonar,I08,informacyjne,3,2026-10-06,InPost|DPD|Poczta Polska,3,0,,0,4,dpd.com|inpost.pl|poczta-polska.pl|sendit.pl,1
+120,perplexity,perplexity/sonar,I08,informacyjne,4,2026-10-06,DPD|InPost,2,0,,0,2,dpd.com|inpost.pl,1
+121,perplexity,perplexity/sonar,I08,informacyjne,5,2026-10-06,InPost|DPD,2,0,,0,2,dpd.com|inpost.pl,1
+122,openai,gpt-5.4-mini-2026-03-17,I09,informacyjne,1,2026-10-06,InPost,1,0,,0,1,inpost.pl,1
+123,openai,gpt-5.4-mini-2026-03-17,I09,informacyjne,2,2026-10-06,InPost,1,0,,0,1,inpost.pl,1
+124,openai,gpt-5.4-mini-2026-03-17,I09,informacyjne,3,2026-10-06,InPost,1,0,,0,1,inpost.pl,1
+125,openai,gpt-5.4-mini-2026-03-17,I09,informacyjne,4,2026-10-06,InPost,1,0,,0,1,inpost.pl,1
+126,openai,gpt-5.4-mini-2026-03-17,I09,informacyjne,5,2026-10-06,InPost,1,0,,0,1,inpost.pl,1
+127,gemini,gemini-3.8-flash,I09,informacyjne,1,2026-10-06,InPost|ORLEN Paczka|DPD|DHL,4,1,2,0,0,,0
+128,gemini,gemini-3.8-flash,I09,informacyjne,2,2026-10-06,InPost|ORLEN Paczka|DPD|DHL,4,1,2,1,8,allegro.pl|cartoncraft.pl|dpd.com|furgonetka.pl|gigaprint.pl|inpost.pl|openprint.pl|orlenpaczka.pl,1
+129,gemini,gemini-3.8-flash,I09,informacyjne,3,2026-10-06,InPost|DPD|ORLEN Paczka|DHL|Poczta Polska,5,1,3,0,5,drukomat.pl|gigaprint.pl|inpost.pl|pafit.pl|pakujto.pl,1
+130,gemini,gemini-3.8-flash,I09,informacyjne,4,2026-10-06,InPost|DPD|ORLEN Paczka|DHL|Poczta Polska,5,1,3,0,0,,0
+131,gemini,gemini-3.8-flash,I09,informacyjne,5,2026-10-06,InPost|ORLEN Paczka|DPD|DHL,4,1,2,0,5,allegro.pl|gigaprint.pl|inpost.pl|pafit.pl|rajapack.pl,1
+132,perplexity,perplexity/sonar,I09,informacyjne,1,2026-10-06,InPost|DPD|Poczta Polska,3,0,,0,3,dpd.com|inpost.pl|odbiorwpunkcie.poczta-polska.pl,1
+133,perplexity,perplexity/sonar,I09,informacyjne,2,2026-10-06,InPost|ORLEN Paczka|Poczta Polska,3,1,2,1,3,inpost.pl|orlenpaczka.pl|poczta-polska.pl,1
+134,perplexity,perplexity/sonar,I09,informacyjne,3,2026-10-06,InPost|DPD|ORLEN Paczka,3,1,3,1,3,dpd.com|inpost.pl|orlenpaczka.pl,1
+135,perplexity,perplexity/sonar,I09,informacyjne,4,2026-10-06,InPost|DPD|ORLEN Paczka,3,1,3,1,3,dpd.com|inpost.pl|orlenpaczka.pl,1
+136,perplexity,perplexity/sonar,I09,informacyjne,5,2026-10-06,InPost|ORLEN Paczka,2,1,2,1,2,inpost.pl|orlenpaczka.pl,1
+137,openai,gpt-5.4-mini-2026-03-17,I10,informacyjne,1,2026-10-06,,0,0,,0,0,,0
+138,openai,gpt-5.4-mini-2026-03-17,I10,informacyjne,2,2026-10-06,,0,0,,0,0,,0
+139,openai,gpt-5.4-mini-2026-03-17,I10,informacyjne,3,2026-10-06,,0,0,,0,0,,0
+140,openai,gpt-5.4-mini-2026-03-17,I10,informacyjne,4,2026-10-06,,0,0,,0,0,,0
+141,openai,gpt-5.4-mini-2026-03-17,I10,informacyjne,5,2026-10-06,,0,0,,0,0,,0
+142,gemini,gemini-3.8-flash,I10,informacyjne,1,2026-10-06,InPost|ORLEN Paczka|DPD|DHL,4,1,2,0,0,,0
+143,gemini,gemini-3.8-flash,I10,informacyjne,2,2026-10-06,InPost|DPD|DHL|Poczta Polska|ORLEN Paczka,5,1,5,0,0,,0
+144,gemini,gemini-3.8-flash,I10,informacyjne,3,2026-10-06,InPost|DPD|DHL|GLS|Poczta Polska,5,0,,0,0,,0
+145,gemini,gemini-3.8-flash,I10,informacyjne,4,2026-10-06,DPD|DHL|Poczta Polska|ORLEN Paczka|InPost,5,1,4,0,0,,0
+146,gemini,gemini-3.8-flash,I10,informacyjne,5,2026-10-06,DPD|DHL|InPost|GLS|ORLEN Paczka,5,1,5,0,0,,0
+147,perplexity,perplexity/sonar,I10,informacyjne,1,2026-10-06,,0,0,,0,1,prawakonsumenta.uokik.gov.pl,1
+148,perplexity,perplexity/sonar,I10,informacyjne,2,2026-10-06,,0,0,,0,2,prawakonsumenta.uokik.gov.pl|uokik.gov.pl,1
+149,perplexity,perplexity/sonar,I10,informacyjne,3,2026-10-06,,0,0,,0,2,prawakonsumenta.uokik.gov.pl|uokik.gov.pl,1
+150,perplexity,perplexity/sonar,I10,informacyjne,4,2026-10-06,,0,0,,0,2,prawakonsumenta.uokik.gov.pl|uokik.gov.pl,1
+151,perplexity,perplexity/sonar,I10,informacyjne,5,2026-10-06,,0,0,,0,2,prawakonsumenta.uokik.gov.pl|uokik.gov.pl,1
+152,openai,gpt-5.4-mini-2026-03-17,R01,rekomendacyjne,1,2026-10-06,InPost|DHL|DPD|UPS|GLS,5,0,,0,0,,0
+153,openai,gpt-5.4-mini-2026-03-17,R01,rekomendacyjne,2,2026-10-06,InPost|DHL|DPD|Poczta Polska,4,0,,0,3,dhl.com|inpost.pl|poczta-polska.pl,1
+154,openai,gpt-5.4-mini-2026-03-17,R01,rekomendacyjne,3,2026-10-06,InPost|DPD|DHL|ORLEN Paczka,4,1,4,1,3,dhl.com|inpost.pl|orlenpaczka.pl,1
+155,openai,gpt-5.4-mini-2026-03-17,R01,rekomendacyjne,4,2026-10-06,InPost|ORLEN Paczka|DPD|DHL,4,1,2,0,1,ceneo.pl,1
+156,openai,gpt-5.4-mini-2026-03-17,R01,rekomendacyjne,5,2026-10-06,InPost|DPD|DHL,3,0,,0,3,dhl.com|dpd.com|inpost.pl,1
+157,gemini,gemini-3.8-flash,R01,rekomendacyjne,1,2026-10-06,InPost|DPD|DHL|Poczta Polska|GLS,5,0,,0,0,,0
+158,gemini,gemini-3.8-flash,R01,rekomendacyjne,2,2026-10-06,InPost|DPD|DHL|GLS|Poczta Polska,5,0,,0,0,,0
+159,gemini,gemini-3.8-flash,R01,rekomendacyjne,3,2026-10-06,InPost|DPD|DHL|ORLEN Paczka|GLS|UPS,6,1,4,0,0,,0
+160,gemini,gemini-3.8-flash,R01,rekomendacyjne,4,2026-10-06,InPost|DPD|DHL|GLS|Poczta Polska,5,0,,0,0,,0
+161,gemini,gemini-3.8-flash,R01,rekomendacyjne,5,2026-10-06,InPost|DPD|DHL|GLS|UPS|Poczta Polska,6,0,,0,0,,0
+162,perplexity,perplexity/sonar,R01,rekomendacyjne,1,2026-10-06,InPost|DPD|DHL|ORLEN Paczka,4,1,4,0,3,inpost.pl|kcmobile.pl|znajdzkuriera.pl,1
+163,perplexity,perplexity/sonar,R01,rekomendacyjne,2,2026-10-06,InPost|DPD|DHL,3,0,,0,3,tania-paczka.net|wszczecinie.pl|znajdzkuriera.pl,1
+164,perplexity,perplexity/sonar,R01,rekomendacyjne,3,2026-10-06,InPost|DPD|DHL,3,0,,0,2,kcmobile.pl|znajdzkuriera.pl,1
+165,perplexity,perplexity/sonar,R01,rekomendacyjne,4,2026-10-06,InPost|DPD|DHL,3,0,,0,2,dpd.com|inpost.pl,1
+166,perplexity,perplexity/sonar,R01,rekomendacyjne,5,2026-10-06,InPost|DPD|DHL|GLS|ORLEN Paczka,5,1,5,0,1,znajdzkuriera.pl,1
+167,openai,gpt-5.4-mini-2026-03-17,R02,rekomendacyjne,1,2026-10-06,DPD|InPost|DHL,3,0,,0,3,dpd.com|inpost.pl|sendit.pl,1
+168,openai,gpt-5.4-mini-2026-03-17,R02,rekomendacyjne,2,2026-10-06,InPost|ORLEN Paczka|DPD,3,1,2,1,2,inpost.pl|orlenpaczka.pl,1
+169,openai,gpt-5.4-mini-2026-03-17,R02,rekomendacyjne,3,2026-10-06,InPost|DHL|DPD,3,0,,0,3,dhl.com|dpd.com|inpost.pl,1
+170,openai,gpt-5.4-mini-2026-03-17,R02,rekomendacyjne,4,2026-10-06,InPost|DHL|ORLEN Paczka|DPD,4,1,3,1,4,dhl.com|dpd.com|inpost.pl|orlenpaczka.pl,1
+171,openai,gpt-5.4-mini-2026-03-17,R02,rekomendacyjne,5,2026-10-06,InPost,1,0,,0,1,inpost.pl,1
+172,gemini,gemini-3.8-flash,R02,rekomendacyjne,1,2026-10-06,ORLEN Paczka|InPost|DHL|DPD|Poczta Polska,5,1,1,0,5,allekurier.pl|epaka.pl|firmykurierskie.com|furgonetka.pl|sendit.pl,1
+173,gemini,gemini-3.8-flash,R02,rekomendacyjne,2,2026-10-06,ORLEN Paczka|DPD|DHL|Poczta Polska|InPost,5,1,1,0,5,allekurier.pl|furgonetka.pl|sendit.pl|shipcenter.pl|znajdzkuriera.pl,1
+174,gemini,gemini-3.8-flash,R02,rekomendacyjne,3,2026-10-06,ORLEN Paczka|InPost|DPD|DHL|Poczta Polska,5,1,1,1,7,allekurier.pl|furgonetka.pl|inpost.pl|kb.pl|orlenpaczka.pl|sendit.pl|shipcenter.pl,1
+175,gemini,gemini-3.8-flash,R02,rekomendacyjne,4,2026-10-06,ORLEN Paczka|Poczta Polska|DPD|InPost,4,1,1,1,5,allekurier.pl|orlenpaczka.pl|packeta.pl|shipcenter.pl|znajdzkuriera.pl,1
+176,gemini,gemini-3.8-flash,R02,rekomendacyjne,5,2026-10-06,InPost|ORLEN Paczka|DHL|Poczta Polska|DPD,5,1,2,0,7,allekurier.pl|firmykurierskie.com|furgonetka.pl|kurierem.pl|poczta-polska.pl|sendit.pl|znajdzkuriera.pl,1
+177,perplexity,perplexity/sonar,R02,rekomendacyjne,2,2026-10-06,DHL|ORLEN Paczka,2,1,2,0,2,sendit.pl|znajdzkuriera.pl,1
+178,perplexity,perplexity/sonar,R02,rekomendacyjne,3,2026-10-06,DHL|ORLEN Paczka,2,1,2,0,2,kurierem.pl|znajdzkuriera.pl,1
+179,perplexity,perplexity/sonar,R02,rekomendacyjne,4,2026-10-06,DHL,1,0,,0,1,znajdzkuriera.pl,1
+180,perplexity,perplexity/sonar,R02,rekomendacyjne,5,2026-10-06,DHL|ORLEN Paczka,2,1,2,0,2,sendit.pl|znajdzkuriera.pl,1
+181,openai,gpt-5.4-mini-2026-03-17,R03,rekomendacyjne,1,2026-10-06,InPost|DPD|DHL,3,0,,0,3,assets.dhl24.com.pl|dpd.com|inpost.pl,1
+182,openai,gpt-5.4-mini-2026-03-17,R03,rekomendacyjne,2,2026-10-06,InPost|DHL|DPD|GLS,4,0,,0,2,dhl.com|inpost.pl,1
+183,openai,gpt-5.4-mini-2026-03-17,R03,rekomendacyjne,3,2026-10-06,InPost|DPD|DHL,3,0,,0,2,dpd.com|inpost.pl,1
+184,openai,gpt-5.4-mini-2026-03-17,R03,rekomendacyjne,4,2026-10-06,InPost|DPD|DHL,3,0,,0,2,dhl.com|inpost.pl,1
+185,openai,gpt-5.4-mini-2026-03-17,R03,rekomendacyjne,5,2026-10-06,InPost|DHL|DPD|GLS,4,0,,0,2,dhl.com|inpost.pl,1
+186,gemini,gemini-3.8-flash,R03,rekomendacyjne,1,2026-10-06,DPD|DHL|GLS|InPost,4,0,,0,0,,0
+187,gemini,gemini-3.8-flash,R03,rekomendacyjne,2,2026-10-06,DPD|DHL|GLS|InPost|ORLEN Paczka,5,1,5,0,0,,0
+188,gemini,gemini-3.8-flash,R03,rekomendacyjne,3,2026-10-06,DPD|DHL|GLS|InPost|ORLEN Paczka|Poczta Polska,6,1,5,0,0,,0
+189,gemini,gemini-3.8-flash,R03,rekomendacyjne,4,2026-10-06,DPD|DHL|GLS|InPost|ORLEN Paczka|Poczta Polska,6,1,5,0,0,,0
+190,gemini,gemini-3.8-flash,R03,rekomendacyjne,5,2026-10-06,DPD|DHL|InPost|ORLEN Paczka,4,1,4,0,0,,0
+191,perplexity,perplexity/sonar,R03,rekomendacyjne,1,2026-10-06,InPost|DPD,2,0,,0,2,dpd.com|inpost.pl,1
+192,perplexity,perplexity/sonar,R03,rekomendacyjne,2,2026-10-06,InPost|DPD,2,0,,0,2,dpd.com|inpost.pl,1
+193,perplexity,perplexity/sonar,R03,rekomendacyjne,3,2026-10-06,InPost|DPD,2,0,,0,2,dpd.com|inpost.pl,1
+194,perplexity,perplexity/sonar,R03,rekomendacyjne,4,2026-10-06,InPost|DPD,2,0,,0,3,apaczka.pl|dpd.com|inpost.pl,1
+195,perplexity,perplexity/sonar,R03,rekomendacyjne,5,2026-10-06,InPost|DPD|DHL,3,0,,0,4,contelizer.pl|dpd.com|inpost.pl|znajdzkuriera.pl,1
+196,openai,gpt-5.4-mini-2026-03-17,R04,rekomendacyjne,1,2026-10-06,DHL|DPD|InPost,3,0,,0,1,uokik.gov.pl,1
+197,openai,gpt-5.4-mini-2026-03-17,R04,rekomendacyjne,2,2026-10-06,DHL|DPD|InPost,3,0,,0,1,uokik.gov.pl,1
+198,openai,gpt-5.4-mini-2026-03-17,R04,rekomendacyjne,3,2026-10-06,,0,0,,0,1,bip.uke.gov.pl,1
+199,openai,gpt-5.4-mini-2026-03-17,R04,rekomendacyjne,4,2026-10-06,InPost|DHL|DPD|GLS|UPS,5,0,,0,2,archiwum.uokik.gov.pl|uokik.gov.pl,1
+200,openai,gpt-5.4-mini-2026-03-17,R04,rekomendacyjne,5,2026-10-06,InPost|DHL|DPD|GLS|Poczta Polska|UPS,6,0,,0,1,archiwum.uokik.gov.pl,1
+201,gemini,gemini-3.8-flash,R04,rekomendacyjne,1,2026-10-06,InPost|DHL|UPS|Poczta Polska|GLS|DPD,6,0,,0,5,biurobot.pl|gowork.pl|inpost.pl|kurierem.pl|uke.gov.pl,1
+202,gemini,gemini-3.8-flash,R04,rekomendacyjne,2,2026-10-06,InPost|UPS|DHL|DPD|GLS|Poczta Polska,6,0,,0,7,bezprawnik.pl|eprzedsiebiorca.com|kurierem.pl|przesylarka.pl|reddit.com|rp.pl|uke.gov.pl,1
+203,gemini,gemini-3.8-flash,R04,rekomendacyjne,3,2026-10-06,InPost|UPS|DHL|DPD|Poczta Polska|GLS,6,0,,0,6,eprzedsiebiorca.com|kurierem.pl|kuriero.pl|przesylarka.pl|rajapack.pl|uke.gov.pl,1
+204,gemini,gemini-3.8-flash,R04,rekomendacyjne,4,2026-10-06,UPS|DHL|InPost|DPD|Poczta Polska|GLS,6,0,,0,7,bezprawnik.pl|eprzedsiebiorca.com|inpost.pl|kurierem.pl|kuriero.pl|przesylarka.pl|reddit.com,1
+205,gemini,gemini-3.8-flash,R04,rekomendacyjne,5,2026-10-06,InPost|DHL|UPS|DPD|Poczta Polska,5,0,,0,3,globkurier.pl|kurierem.pl|uke.gov.pl,1
+206,perplexity,perplexity/sonar,R04,rekomendacyjne,1,2026-10-06,UPS,1,0,,0,2,fakt.pl|przesylarka.pl,1
+207,perplexity,perplexity/sonar,R04,rekomendacyjne,2,2026-10-06,,0,0,,0,2,bip.uke.gov.pl|uke.gov.pl,1
+208,perplexity,perplexity/sonar,R04,rekomendacyjne,3,2026-10-06,DPD|UPS,2,0,,0,2,fakt.pl|przesylarka.pl,1
+209,perplexity,perplexity/sonar,R04,rekomendacyjne,4,2026-10-06,UPS,1,0,,0,2,fakt.pl|przesylarka.pl,1
+210,perplexity,perplexity/sonar,R04,rekomendacyjne,5,2026-10-06,UPS|DHL|InPost,3,0,,0,1,fakt.pl,1
+211,openai,gpt-5.4-mini-2026-03-17,R05,rekomendacyjne,1,2026-10-06,InPost|ORLEN Paczka|DHL|DPD,4,1,2,0,1,inpost.pl,1
+212,openai,gpt-5.4-mini-2026-03-17,R05,rekomendacyjne,2,2026-10-06,InPost|DPD|ORLEN Paczka,3,1,3,0,1,inpost.pl,1
+213,openai,gpt-5.4-mini-2026-03-17,R05,rekomendacyjne,3,2026-10-06,InPost|DHL|ORLEN Paczka|DPD,4,1,3,0,2,dpd.com|inpost.pl,1
+214,openai,gpt-5.4-mini-2026-03-17,R05,rekomendacyjne,4,2026-10-06,InPost|DPD|DHL,3,0,,0,3,dhl.com|dpd.com|inpost.pl,1
+215,openai,gpt-5.4-mini-2026-03-17,R05,rekomendacyjne,5,2026-10-06,InPost|ORLEN Paczka|DPD|DHL,4,1,2,0,1,blisko.dpd.com.pl,1
+216,gemini,gemini-3.8-flash,R05,rekomendacyjne,1,2026-10-06,InPost|DPD|ORLEN Paczka|Poczta Polska|DHL|GLS,6,1,3,0,0,,0
+217,gemini,gemini-3.8-flash,R05,rekomendacyjne,2,2026-10-06,InPost|ORLEN Paczka|DPD|DHL|Poczta Polska,5,1,2,0,0,,0
+218,gemini,gemini-3.8-flash,R05,rekomendacyjne,3,2026-10-06,InPost|ORLEN Paczka|DPD|DHL,4,1,2,0,0,,0
+219,gemini,gemini-3.8-flash,R05,rekomendacyjne,4,2026-10-06,InPost|ORLEN Paczka|DPD|DHL|Poczta Polska,5,1,2,0,0,,0
+220,gemini,gemini-3.8-flash,R05,rekomendacyjne,5,2026-10-06,InPost|ORLEN Paczka|DPD|DHL|Poczta Polska,5,1,2,0,0,,0
+221,perplexity,perplexity/sonar,R05,rekomendacyjne,1,2026-10-06,InPost,1,0,,0,2,digitalvantage.pl|jakimkurierem.pl,1
+222,perplexity,perplexity/sonar,R05,rekomendacyjne,2,2026-10-06,InPost|DPD|ORLEN Paczka,3,1,3,0,1,jakimkurierem.pl,1
+223,perplexity,perplexity/sonar,R05,rekomendacyjne,3,2026-10-06,InPost,1,0,,0,2,inpost.pl|zunapro.com,1
+224,perplexity,perplexity/sonar,R05,rekomendacyjne,4,2026-10-06,InPost,1,0,,0,1,cashless.pl,1
+225,perplexity,perplexity/sonar,R05,rekomendacyjne,5,2026-10-06,InPost,1,0,,0,1,jakimkurierem.pl,1
+226,openai,gpt-5.4-mini-2026-03-17,R06,rekomendacyjne,1,2026-10-06,DHL|DPD|InPost,3,0,,0,3,dhl.com|dpd.com|inpost.pl,1
+227,openai,gpt-5.4-mini-2026-03-17,R06,rekomendacyjne,2,2026-10-06,DHL|UPS|InPost,3,0,,0,0,,0
+228,openai,gpt-5.4-mini-2026-03-17,R06,rekomendacyjne,3,2026-10-06,DHL|UPS|DPD,3,0,,0,3,dhlexpress.pl|dpd.com|ups.com,1
+229,openai,gpt-5.4-mini-2026-03-17,R06,rekomendacyjne,4,2026-10-06,DHL|Poczta Polska,2,0,,0,2,dhl.com|poczta-polska.pl,1
+230,openai,gpt-5.4-mini-2026-03-17,R06,rekomendacyjne,5,2026-10-06,InPost|DHL|DPD|UPS,4,0,,0,4,dhl.com|dpd.com|inpost.pl|ups.com,1
+231,gemini,gemini-3.8-flash,R06,rekomendacyjne,1,2026-10-06,DPD|GLS|InPost|DHL|UPS|Poczta Polska,6,0,,0,0,,0
+232,gemini,gemini-3.8-flash,R06,rekomendacyjne,2,2026-10-06,DPD|GLS|UPS|DHL|Poczta Polska|InPost,6,0,,0,0,,0
+233,gemini,gemini-3.8-flash,R06,rekomendacyjne,3,2026-10-06,DPD|GLS|DHL|InPost|UPS|Poczta Polska,6,0,,0,0,,0
+234,gemini,gemini-3.8-flash,R06,rekomendacyjne,4,2026-10-06,DPD|GLS|DHL|InPost|UPS|Poczta Polska,6,0,,0,0,,0
+235,gemini,gemini-3.8-flash,R06,rekomendacyjne,5,2026-10-06,DPD|GLS|InPost|DHL|UPS|Poczta Polska,6,0,,0,0,,0
+236,perplexity,perplexity/sonar,R06,rekomendacyjne,1,2026-10-06,InPost|DPD|DHL|UPS,4,0,,0,4,dpd.com|inpost.pl|rp.pl|znajdzkuriera.pl,1
+237,perplexity,perplexity/sonar,R06,rekomendacyjne,2,2026-10-06,DPD|DHL|UPS,3,0,,0,4,dpd.com|kurierem.pl|media.poczta-polska.pl|znajdzkuriera.pl,1
+238,perplexity,perplexity/sonar,R06,rekomendacyjne,3,2026-10-06,DPD|InPost|DHL|UPS,4,0,,0,4,apaczka.pl|dhl.com|dpd.com|inpost.pl,1
+239,perplexity,perplexity/sonar,R06,rekomendacyjne,4,2026-10-06,DPD|DHL|UPS,3,0,,0,1,poczta-polska.pl,1
+240,perplexity,perplexity/sonar,R06,rekomendacyjne,5,2026-10-06,DPD|Poczta Polska,2,0,,0,3,apaczka.pl|dpd.com|poczta-polska.pl,1
+241,openai,gpt-5.4-mini-2026-03-17,R07,rekomendacyjne,1,2026-10-06,InPost|DPD|DHL|GLS|UPS,5,0,,0,1,businessinsider.com.pl,1
+242,openai,gpt-5.4-mini-2026-03-17,R07,rekomendacyjne,2,2026-10-06,InPost|DPD|DHL|GLS|UPS,5,0,,0,2,pl.trustpilot.com|trustpilot.com,1
+243,openai,gpt-5.4-mini-2026-03-17,R07,rekomendacyjne,3,2026-10-06,InPost|DPD|DHL,3,0,,0,1,pl.trustpilot.com,1
+244,openai,gpt-5.4-mini-2026-03-17,R07,rekomendacyjne,4,2026-10-06,InPost|DPD|DHL|GLS,4,0,,0,1,opineo.pl,1
+245,openai,gpt-5.4-mini-2026-03-17,R07,rekomendacyjne,5,2026-10-06,InPost|DPD|DHL,3,0,,0,1,opineo.pl,1
+246,gemini,gemini-3.8-flash,R07,rekomendacyjne,1,2026-10-06,InPost|DPD|DHL,3,0,,0,4,ceo.com.pl|interaktywnie.com|kurierem.pl|niepoddawajsie.pl,1
+247,gemini,gemini-3.8-flash,R07,rekomendacyjne,2,2026-10-06,InPost|DPD|DHL|GLS|UPS|Poczta Polska,6,0,,0,4,eprzedsiebiorca.com|interaktywnie.com|kurierem.pl|reddit.com,1
+248,gemini,gemini-3.8-flash,R07,rekomendacyjne,3,2026-10-06,InPost|DPD|DHL|GLS|UPS|Poczta Polska,6,0,,0,3,eprzedsiebiorca.com|globkurier.pl|kurierem.pl,1
+249,gemini,gemini-3.8-flash,R07,rekomendacyjne,4,2026-10-06,InPost|DPD|DHL|GLS,4,0,,0,6,eprzedsiebiorca.com|interaktywnie.com|kurierem.pl|kurierhub.pl|newseria.pl|reddit.com,1
+250,gemini,gemini-3.8-flash,R07,rekomendacyjne,5,2026-10-06,InPost|DPD|DHL|UPS|GLS,5,0,,0,6,ceo.com.pl|eprzedsiebiorca.com|kurierem.pl|kuriero.pl|niepoddawajsie.pl|reddit.com,1
+251,perplexity,perplexity/sonar,R07,rekomendacyjne,1,2026-10-06,InPost,1,0,,0,2,bankier.pl|globkurier.pl,1
+252,perplexity,perplexity/sonar,R07,rekomendacyjne,2,2026-10-06,InPost|UPS|DHL|DPD,4,0,,0,1,fakt.pl,1
+253,perplexity,perplexity/sonar,R07,rekomendacyjne,3,2026-10-06,InPost|DPD,2,0,,0,2,globkurier.pl|subiektywnieofinansach.pl,1
+254,perplexity,perplexity/sonar,R07,rekomendacyjne,4,2026-10-06,InPost|UPS,2,0,,0,2,bezprawnik.pl|fakt.pl,1
+255,perplexity,perplexity/sonar,R07,rekomendacyjne,5,2026-10-06,InPost,1,0,,0,2,facet.onet.pl|jakoscobslugi.pl,1
+256,openai,gpt-5.4-mini-2026-03-17,R08,rekomendacyjne,1,2026-10-06,InPost|ORLEN Paczka|DHL|DPD,4,1,2,0,0,,0
+257,openai,gpt-5.4-mini-2026-03-17,R08,rekomendacyjne,2,2026-10-06,InPost|DPD|ORLEN Paczka,3,1,3,0,1,vinted.pl,1
+258,openai,gpt-5.4-mini-2026-03-17,R08,rekomendacyjne,3,2026-10-06,InPost|ORLEN Paczka|DPD,3,1,2,0,0,,0
+259,openai,gpt-5.4-mini-2026-03-17,R08,rekomendacyjne,4,2026-10-06,InPost|ORLEN Paczka,2,1,2,0,0,,0
+260,openai,gpt-5.4-mini-2026-03-17,R08,rekomendacyjne,5,2026-10-06,InPost|DPD|ORLEN Paczka|Poczta Polska|DHL|GLS,6,1,3,0,2,pomoc.olx.pl|vinted.pl,1
+261,gemini,gemini-3.8-flash,R08,rekomendacyjne,1,2026-10-06,InPost|DPD|ORLEN Paczka|Poczta Polska,4,1,3,0,0,,0
+262,gemini,gemini-3.8-flash,R08,rekomendacyjne,2,2026-10-06,InPost|ORLEN Paczka|DPD|Poczta Polska,4,1,2,0,0,,0
+263,gemini,gemini-3.8-flash,R08,rekomendacyjne,3,2026-10-06,InPost|ORLEN Paczka|DPD|Poczta Polska,4,1,2,0,0,,0
+264,gemini,gemini-3.8-flash,R08,rekomendacyjne,4,2026-10-06,InPost|DPD|ORLEN Paczka|Poczta Polska,4,1,3,0,0,,0
+265,gemini,gemini-3.8-flash,R08,rekomendacyjne,5,2026-10-06,InPost|DPD|ORLEN Paczka|Poczta Polska,4,1,3,0,0,,0
+266,perplexity,perplexity/sonar,R08,rekomendacyjne,1,2026-10-06,InPost|ORLEN Paczka|DPD|Poczta Polska,4,1,2,0,2,pomoc.olx.pl|vinted.pl,1
+267,perplexity,perplexity/sonar,R08,rekomendacyjne,2,2026-10-06,InPost|ORLEN Paczka|DPD,3,1,2,0,2,pomoc.olx.pl|vinted.pl,1
+268,perplexity,perplexity/sonar,R08,rekomendacyjne,3,2026-10-06,InPost|ORLEN Paczka|DPD|Poczta Polska|DHL|GLS,6,1,2,0,2,pomoc.olx.pl|vinted.pl,1
+269,perplexity,perplexity/sonar,R08,rekomendacyjne,4,2026-10-06,InPost|DPD|ORLEN Paczka|Poczta Polska,4,1,3,0,3,dealmo.pl|pomoc.olx.pl|vinted.pl,1
+270,perplexity,perplexity/sonar,R08,rekomendacyjne,5,2026-10-06,InPost|ORLEN Paczka|Poczta Polska|DPD,4,1,2,0,2,pomoc.olx.pl|vinted.pl,1
+271,openai,gpt-5.4-mini-2026-03-17,R09,rekomendacyjne,1,2026-10-06,DPD|DHL|InPost|UPS|GLS,5,0,,0,3,dhl.com|dpd.com|inpost.pl,1
+272,openai,gpt-5.4-mini-2026-03-17,R09,rekomendacyjne,2,2026-10-06,DPD|DHL|InPost,3,0,,0,3,dhl.com|dpd.com|inpost.pl,1
+273,openai,gpt-5.4-mini-2026-03-17,R09,rekomendacyjne,3,2026-10-06,UPS|DHL|DPD|InPost,4,0,,0,4,dhl.com|dpd.com|fedex.com|ups.com,1
+274,openai,gpt-5.4-mini-2026-03-17,R09,rekomendacyjne,4,2026-10-06,DHL|DPD|InPost,3,0,,0,4,dhl.com|dpd.com|fedex.com|inpost.pl,1
+275,openai,gpt-5.4-mini-2026-03-17,R09,rekomendacyjne,5,2026-10-06,DPD|DHL|UPS|InPost,4,0,,0,4,dhl.com|dpd.com|inpost.pl|ups.com,1
+276,gemini,gemini-3.8-flash,R09,rekomendacyjne,1,2026-10-06,InPost|DPD|DHL|UPS,4,0,,0,0,,0
+277,gemini,gemini-3.8-flash,R09,rekomendacyjne,2,2026-10-06,InPost|DPD|DHL|UPS,4,0,,0,0,,0
+278,gemini,gemini-3.8-flash,R09,rekomendacyjne,3,2026-10-06,InPost|DPD|DHL|UPS,4,0,,0,0,,0
+279,gemini,gemini-3.8-flash,R09,rekomendacyjne,4,2026-10-06,InPost|DPD|DHL|UPS,4,0,,0,0,,0
+280,gemini,gemini-3.8-flash,R09,rekomendacyjne,5,2026-10-06,InPost|DPD|DHL|UPS,4,0,,0,0,,0
+281,perplexity,perplexity/sonar,R09,rekomendacyjne,1,2026-10-06,DHL|InPost,2,0,,0,2,dhlbiznes.pl|inpost.pl,1
+282,perplexity,perplexity/sonar,R09,rekomendacyjne,2,2026-10-06,InPost|Poczta Polska,2,0,,0,2,inpost.pl|pocztex.pl,1
+283,perplexity,perplexity/sonar,R09,rekomendacyjne,3,2026-10-06,DHL|InPost,2,0,,0,2,dhlbiznes.pl|inpost.pl,1
+284,perplexity,perplexity/sonar,R09,rekomendacyjne,4,2026-10-06,DHL|InPost|GLS,3,0,,0,3,dhlbiznes.pl|gls-group.com|inpost.pl,1
+285,perplexity,perplexity/sonar,R09,rekomendacyjne,5,2026-10-06,DHL|UPS|DPD|GLS,4,0,,0,4,apaczka.pl|dpd.com|gls-group.com|znajdzkuriera.pl,1
+286,openai,gpt-5.4-mini-2026-03-17,R10,rekomendacyjne,1,2026-10-06,ORLEN Paczka|DPD|DHL|InPost,4,1,1,1,3,dhl.com|dpd.com|orlenpaczka.pl,1
+287,openai,gpt-5.4-mini-2026-03-17,R10,rekomendacyjne,2,2026-10-06,InPost|ORLEN Paczka|DHL,3,1,2,1,4,allegro.pl|dhl.com|inpost.pl|orlenpaczka.pl,1
+288,openai,gpt-5.4-mini-2026-03-17,R10,rekomendacyjne,3,2026-10-06,InPost|ORLEN Paczka|DHL|DPD,4,1,2,1,2,allegro.pl|orlenpaczka.pl,1
+289,openai,gpt-5.4-mini-2026-03-17,R10,rekomendacyjne,4,2026-10-06,InPost|ORLEN Paczka|DHL|DPD,4,1,2,1,3,dhl.com|dpd.com|orlenpaczka.pl,1
+290,openai,gpt-5.4-mini-2026-03-17,R10,rekomendacyjne,5,2026-10-06,ORLEN Paczka|DPD|InPost,3,1,1,1,3,dpd.com|orlenpaczka.pl|zabka.pl,1
+291,gemini,gemini-3.8-flash,R10,rekomendacyjne,1,2026-10-06,ORLEN Paczka|InPost|DPD|DHL,4,1,1,0,0,,0
+292,gemini,gemini-3.8-flash,R10,rekomendacyjne,2,2026-10-06,InPost|ORLEN Paczka|DPD|DHL,4,1,2,0,0,,0
+293,gemini,gemini-3.8-flash,R10,rekomendacyjne,3,2026-10-06,ORLEN Paczka|InPost|DPD|DHL,4,1,1,0,0,,0
+294,gemini,gemini-3.8-flash,R10,rekomendacyjne,4,2026-10-06,ORLEN Paczka|InPost|DPD|DHL,4,1,1,0,0,,0
+295,gemini,gemini-3.8-flash,R10,rekomendacyjne,5,2026-10-06,InPost|ORLEN Paczka|DPD|DHL,4,1,2,0,0,,0
+296,perplexity,perplexity/sonar,R10,rekomendacyjne,1,2026-10-06,ORLEN Paczka|DPD,2,1,1,0,4,businessinsider.com.pl|dpd.com|nadaj.dpd.com.pl|znajdzkuriera.pl,1
+297,perplexity,perplexity/sonar,R10,rekomendacyjne,2,2026-10-06,ORLEN Paczka|InPost,2,1,1,0,3,bankier.pl|packeta.pl|znajdzkuriera.pl,1
+298,perplexity,perplexity/sonar,R10,rekomendacyjne,3,2026-10-06,ORLEN Paczka|InPost|DPD,3,1,1,1,3,dpd.com|orlenpaczka.pl|znajdzkuriera.pl,1
+299,perplexity,perplexity/sonar,R10,rekomendacyjne,4,2026-10-06,ORLEN Paczka|InPost,2,1,1,1,3,inpost.pl|orlenpaczka.pl|shoper.pl,1
+300,perplexity,perplexity/sonar,R10,rekomendacyjne,5,2026-10-06,ORLEN Paczka|DPD,2,1,1,1,4,dpd.com|orlenpaczka.pl|zabka.pl|znajdzkuriera.pl,1
+301,openai,gpt-5.4-mini-2026-03-17,P01,porownawcze,1,2026-10-06,InPost|DPD,2,0,,0,2,dpd.com|inpost.pl,1
+302,openai,gpt-5.4-mini-2026-03-17,P01,porownawcze,2,2026-10-06,InPost|DPD,2,0,,0,2,ceneo.pl|inpost.pl,1
+303,openai,gpt-5.4-mini-2026-03-17,P01,porownawcze,3,2026-10-06,InPost|DPD,2,0,,0,2,dpd.com|inpost.pl,1
+304,openai,gpt-5.4-mini-2026-03-17,P01,porownawcze,4,2026-10-06,InPost|DPD,2,0,,0,2,inpost.pl|zgloszenia.dpd.com.pl,1
+305,openai,gpt-5.4-mini-2026-03-17,P01,porownawcze,5,2026-10-06,InPost|DPD|DHL,3,0,,0,2,inpost.pl|uokik.gov.pl,1
+306,gemini,gemini-3.8-flash,P01,porownawcze,1,2026-10-06,InPost|DPD,2,0,,0,0,,0
+307,gemini,gemini-3.8-flash,P01,porownawcze,2,2026-10-06,InPost|DPD,2,0,,0,0,,0
+308,gemini,gemini-3.8-flash,P01,porownawcze,3,2026-10-06,InPost|DPD,2,0,,0,0,,0
+309,gemini,gemini-3.8-flash,P01,porownawcze,4,2026-10-06,InPost|DPD,2,0,,0,0,,0
+310,gemini,gemini-3.8-flash,P01,porownawcze,5,2026-10-06,InPost|DPD,2,0,,0,0,,0
+311,perplexity,perplexity/sonar,P01,porownawcze,1,2026-10-06,InPost|DPD,2,0,,0,2,dpd.com|inpost.pl,1
+312,perplexity,perplexity/sonar,P01,porownawcze,2,2026-10-06,InPost|DPD,2,0,,0,3,ca.trustpilot.com|dhlpoland.pl|pl.trustpilot.com,1
+313,perplexity,perplexity/sonar,P01,porownawcze,3,2026-10-06,InPost|DPD,2,0,,0,4,24hshop.pl|dhlpoland.pl|pl.trustpilot.com|wszczecinie.pl,1
+314,perplexity,perplexity/sonar,P01,porownawcze,4,2026-10-06,InPost|DPD,2,0,,0,1,logistyka.rp.pl,1
+315,perplexity,perplexity/sonar,P01,porownawcze,5,2026-10-06,InPost|DPD,2,0,,0,2,bankier.pl|znajdzkuriera.pl,1
+316,openai,gpt-5.4-mini-2026-03-17,P02,porownawcze,1,2026-10-06,InPost|ORLEN Paczka,2,1,2,0,0,,0
+317,openai,gpt-5.4-mini-2026-03-17,P02,porownawcze,2,2026-10-06,InPost|ORLEN Paczka,2,1,2,0,0,,0
+318,openai,gpt-5.4-mini-2026-03-17,P02,porownawcze,3,2026-10-06,InPost|ORLEN Paczka,2,1,2,1,3,inpost.pl|orlenpaczka.pl|vinted.pl,1
+319,openai,gpt-5.4-mini-2026-03-17,P02,porownawcze,4,2026-10-06,InPost|ORLEN Paczka,2,1,2,1,3,inpost.pl|orlenpaczka.pl|vinted.pl,1
+320,openai,gpt-5.4-mini-2026-03-17,P02,porownawcze,5,2026-10-06,InPost|ORLEN Paczka,2,1,2,0,0,,0
+321,gemini,gemini-3.8-flash,P02,porownawcze,1,2026-10-06,InPost|ORLEN Paczka,2,1,2,0,0,,0
+322,gemini,gemini-3.8-flash,P02,porownawcze,2,2026-10-06,InPost|ORLEN Paczka,2,1,2,0,0,,0
+323,gemini,gemini-3.8-flash,P02,porownawcze,3,2026-10-06,InPost|ORLEN Paczka,2,1,2,0,0,,0
+324,gemini,gemini-3.8-flash,P02,porownawcze,4,2026-10-06,InPost|ORLEN Paczka,2,1,2,0,0,,0
+325,gemini,gemini-3.8-flash,P02,porownawcze,5,2026-10-06,InPost|ORLEN Paczka|DPD,3,1,2,0,0,,0
+326,perplexity,perplexity/sonar,P02,porownawcze,1,2026-10-06,ORLEN Paczka|InPost,2,1,1,1,2,orlenpaczka.pl|vinted.pl,1
+327,perplexity,perplexity/sonar,P02,porownawcze,2,2026-10-06,ORLEN Paczka|InPost,2,1,1,1,2,orlenpaczka.pl|vinted.pl,1
+328,perplexity,perplexity/sonar,P02,porownawcze,3,2026-10-06,ORLEN Paczka|InPost,2,1,1,0,1,vinted.pl,1
+329,perplexity,perplexity/sonar,P02,porownawcze,4,2026-10-06,ORLEN Paczka|InPost,2,1,1,1,4,antyweb.pl|inpost.pl|orlenpaczka.pl|vinted.pl,1
+330,perplexity,perplexity/sonar,P02,porownawcze,5,2026-10-06,ORLEN Paczka|InPost,2,1,1,0,2,inpost.pl|vinted.pl,1
+331,openai,gpt-5.4-mini-2026-03-17,P03,porownawcze,1,2026-10-06,DHL|DPD|InPost,3,0,,0,1,uokik.gov.pl,1
+332,openai,gpt-5.4-mini-2026-03-17,P03,porownawcze,2,2026-10-06,DHL|DPD,2,0,,0,2,pl.trustpilot.com|trustpilot.com,1
+333,openai,gpt-5.4-mini-2026-03-17,P03,porownawcze,3,2026-10-06,DHL|DPD,2,0,,0,0,,0
+334,openai,gpt-5.4-mini-2026-03-17,P03,porownawcze,4,2026-10-06,DHL|DPD,2,0,,0,2,dhl.com|kariera.dpd.com.pl,1
+335,openai,gpt-5.4-mini-2026-03-17,P03,porownawcze,5,2026-10-06,DHL|DPD,2,0,,0,0,,0
+336,gemini,gemini-3.8-flash,P03,porownawcze,1,2026-10-06,DHL|DPD,2,0,,0,0,,0
+337,gemini,gemini-3.8-flash,P03,porownawcze,2,2026-10-06,DHL|DPD,2,0,,0,0,,0
+338,gemini,gemini-3.8-flash,P03,porownawcze,3,2026-10-06,DHL|DPD,2,0,,0,0,,0
+339,gemini,gemini-3.8-flash,P03,porownawcze,4,2026-10-06,DHL|DPD,2,0,,0,0,,0
+340,gemini,gemini-3.8-flash,P03,porownawcze,5,2026-10-06,DHL|DPD,2,0,,0,0,,0
+341,perplexity,perplexity/sonar,P03,porownawcze,1,2026-10-06,DPD|DHL,2,0,,0,6,base.com|cargoson.com|dziennikwschodni.pl|opineo.pl|opiniuj.pl|wszczecinie.pl,1
+342,perplexity,perplexity/sonar,P03,porownawcze,2,2026-10-06,DHL|DPD,2,0,,0,1,managementpapers.polsl.pl,1
+343,perplexity,perplexity/sonar,P03,porownawcze,3,2026-10-06,DPD|DHL,2,0,,0,5,apaczka.pl|dpd.com|dziennikwschodni.pl|harbingers.io|wszczecinie.pl,1
+344,perplexity,perplexity/sonar,P03,porownawcze,4,2026-10-06,DPD|DHL,2,0,,0,4,base.com|dpd.com|dziennikwschodni.pl|wszczecinie.pl,1
+345,perplexity,perplexity/sonar,P03,porownawcze,5,2026-10-06,DPD|DHL,2,0,,0,4,dziennikwschodni.pl|strefabiznesu.pl|wszczecinie.pl|znajdzkuriera.pl,1
+346,openai,gpt-5.4-mini-2026-03-17,P04,porownawcze,1,2026-10-06,InPost|Poczta Polska,2,0,,0,2,inpost.pl|poczta-polska.pl,1
+347,openai,gpt-5.4-mini-2026-03-17,P04,porownawcze,2,2026-10-06,InPost|Poczta Polska,2,0,,0,2,inpost.pl|poczta-polska.pl,1
+348,openai,gpt-5.4-mini-2026-03-17,P04,porownawcze,3,2026-10-06,InPost|Poczta Polska,2,0,,0,2,inpost.pl|poczta-polska.pl,1
+349,openai,gpt-5.4-mini-2026-03-17,P04,porownawcze,4,2026-10-06,InPost|Poczta Polska,2,0,,0,2,inpost.pl|poczta-polska.pl,1
+350,openai,gpt-5.4-mini-2026-03-17,P04,porownawcze,5,2026-10-06,InPost|Poczta Polska,2,0,,0,2,inpost.pl|poczta-polska.pl,1
+351,gemini,gemini-3.8-flash,P04,porownawcze,1,2026-10-06,Poczta Polska|InPost,2,0,,0,7,inpost.pl|kb.pl|patronservice.pl|pocztex.pl|polkurier.pl|sendit.pl|shipcenter.pl,1
+352,gemini,gemini-3.8-flash,P04,porownawcze,2,2026-10-06,Poczta Polska|InPost|DPD,3,0,,0,2,inpost.pl|pocztex.pl,1
+353,gemini,gemini-3.8-flash,P04,porownawcze,3,2026-10-06,Poczta Polska|InPost,2,0,,0,3,apaczka.pl|inpost.pl|pocztex.pl,1
+354,gemini,gemini-3.8-flash,P04,porownawcze,4,2026-10-06,Poczta Polska|InPost,2,0,,0,5,firmykurierskie.com|idealnysklepik.pl|inpost.pl|logistyczny.net|pocztex.pl,1
+355,gemini,gemini-3.8-flash,P04,porownawcze,5,2026-10-06,Poczta Polska|InPost|ORLEN Paczka|DPD,4,1,3,0,4,idealnysklepik.pl|inpost.pl|kb.pl|pocztex.pl,1
+356,perplexity,perplexity/sonar,P04,porownawcze,1,2026-10-06,Poczta Polska|InPost,2,0,,0,3,cennik.poczta-polska.pl|inpost.pl|poczta-polska.pl,1
+357,perplexity,perplexity/sonar,P04,porownawcze,2,2026-10-06,Poczta Polska|InPost,2,0,,0,2,cennik.poczta-polska.pl|inpost.pl,1
+358,perplexity,perplexity/sonar,P04,porownawcze,3,2026-10-06,Poczta Polska|InPost,2,0,,0,2,godzinypoczty.pl|inpost.pl,1
+359,perplexity,perplexity/sonar,P04,porownawcze,4,2026-10-06,InPost|Poczta Polska,2,0,,0,3,godzinypoczty.pl|inpost.pl|kb.pl,1
+360,perplexity,perplexity/sonar,P04,porownawcze,5,2026-10-06,Poczta Polska|InPost,2,0,,0,3,cashless.pl|cennik.poczta-polska.pl|znajdzkuriera.pl,1
+361,openai,gpt-5.4-mini-2026-03-17,P05,porownawcze,1,2026-10-06,DPD|GLS,2,0,,0,0,,0
+362,openai,gpt-5.4-mini-2026-03-17,P05,porownawcze,2,2026-10-06,DPD|GLS,2,0,,0,0,,0
+363,openai,gpt-5.4-mini-2026-03-17,P05,porownawcze,3,2026-10-06,GLS|DPD,2,0,,0,2,developer.gls-poland.com|itcs.dpd.com.pl,1
+364,openai,gpt-5.4-mini-2026-03-17,P05,porownawcze,4,2026-10-06,DPD|GLS,2,0,,0,0,,0
+365,openai,gpt-5.4-mini-2026-03-17,P05,porownawcze,5,2026-10-06,GLS|DPD,2,0,,0,0,,0
+366,gemini,gemini-3.8-flash,P05,porownawcze,1,2026-10-06,DPD|GLS|InPost,3,0,,0,0,,0
+367,gemini,gemini-3.8-flash,P05,porownawcze,2,2026-10-06,DPD|GLS|InPost,3,0,,0,0,,0
+368,gemini,gemini-3.8-flash,P05,porownawcze,3,2026-10-06,DPD|GLS|InPost,3,0,,0,0,,0
+369,gemini,gemini-3.8-flash,P05,porownawcze,4,2026-10-06,DPD|GLS|InPost,3,0,,0,0,,0
+370,gemini,gemini-3.8-flash,P05,porownawcze,5,2026-10-06,DPD|GLS|InPost,3,0,,0,0,,0
+371,perplexity,perplexity/sonar,P05,porownawcze,1,2026-10-06,DPD|GLS,2,0,,0,2,dpd.com|gls-group.com,1
+372,perplexity,perplexity/sonar,P05,porownawcze,2,2026-10-06,GLS|DPD,2,0,,0,2,dpd.com|gls-group.com,1
+373,perplexity,perplexity/sonar,P05,porownawcze,3,2026-10-06,DPD|GLS|ORLEN Paczka,3,1,3,0,2,dpd.com|gls-group.com,1
+374,perplexity,perplexity/sonar,P05,porownawcze,4,2026-10-06,DPD|GLS,2,0,,0,2,dpd.com|gls-group.com,1
+375,perplexity,perplexity/sonar,P05,porownawcze,5,2026-10-06,GLS|DPD,2,0,,0,2,dpd.com|gls-group.com,1
+376,openai,gpt-5.4-mini-2026-03-17,P06,porownawcze,1,2026-10-06,ORLEN Paczka|Poczta Polska,2,1,1,1,2,cennik.poczta-polska.pl|orlenpaczka.pl,1
+377,openai,gpt-5.4-mini-2026-03-17,P06,porownawcze,2,2026-10-06,ORLEN Paczka|Poczta Polska,2,1,1,1,2,orlenpaczka.pl|poczta-polska.pl,1
+378,openai,gpt-5.4-mini-2026-03-17,P06,porownawcze,3,2026-10-06,ORLEN Paczka|Poczta Polska,2,1,1,1,2,cennik.poczta-polska.pl|orlenpaczka.pl,1
+379,openai,gpt-5.4-mini-2026-03-17,P06,porownawcze,4,2026-10-06,ORLEN Paczka|Poczta Polska,2,1,1,1,2,cennik.poczta-polska.pl|orlenpaczka.pl,1
+380,openai,gpt-5.4-mini-2026-03-17,P06,porownawcze,5,2026-10-06,ORLEN Paczka|Poczta Polska,2,1,1,1,2,cennik.poczta-polska.pl|orlenpaczka.pl,1
+381,gemini,gemini-3.8-flash,P06,porownawcze,1,2026-10-06,ORLEN Paczka|Poczta Polska,2,1,1,1,5,allekurier.pl|orlenpaczka.pl|pocztex.pl|sendit.pl|shipcenter.pl,1
+382,gemini,gemini-3.8-flash,P06,porownawcze,2,2026-10-06,ORLEN Paczka|Poczta Polska,2,1,1,1,6,allekurier.pl|orlenpaczka.pl|poczta-polska.pl|pocztex.pl|sendit.pl|shipcenter.pl,1
+383,gemini,gemini-3.8-flash,P06,porownawcze,3,2026-10-06,ORLEN Paczka|Poczta Polska,2,1,1,1,8,allekurier.pl|kb.pl|mybox24.pl|orlenpaczka.pl|poczta-polska.pl|pocztex.pl|sendit.pl|znajdzkuriera.pl,1
+384,gemini,gemini-3.8-flash,P06,porownawcze,4,2026-10-06,ORLEN Paczka|Poczta Polska,2,1,1,1,7,allekurier.pl|epaka.pl|firmykurierskie.com|orlenpaczka.pl|poczta-polska.pl|pocztex.pl|shipcenter.pl,1
+385,gemini,gemini-3.8-flash,P06,porownawcze,5,2026-10-06,ORLEN Paczka|Poczta Polska,2,1,1,1,4,allekurier.pl|orlenpaczka.pl|pocztex.pl|shipcenter.pl,1
+386,perplexity,perplexity/sonar,P06,porownawcze,1,2026-10-06,ORLEN Paczka|Poczta Polska,2,1,1,0,3,godzinypoczty.pl|kb.pl|znajdzkuriera.pl,1
+387,perplexity,perplexity/sonar,P06,porownawcze,2,2026-10-06,ORLEN Paczka|Poczta Polska,2,1,1,0,4,godzinypoczty.pl|poczta-polska.pl|shop.furgonetka.pl|znajdzkuriera.pl,1
+388,perplexity,perplexity/sonar,P06,porownawcze,3,2026-10-06,ORLEN Paczka|Poczta Polska,2,1,1,0,3,cennik.poczta-polska.pl|poczta-polska.pl|znajdzkuriera.pl,1
+389,perplexity,perplexity/sonar,P06,porownawcze,4,2026-10-06,ORLEN Paczka|Poczta Polska,2,1,1,0,3,cennik.poczta-polska.pl|kb.pl|znajdzkuriera.pl,1
+390,perplexity,perplexity/sonar,P06,porownawcze,5,2026-10-06,ORLEN Paczka|Poczta Polska,2,1,1,0,2,godzinypoczty.pl|znajdzkuriera.pl,1
+391,openai,gpt-5.4-mini-2026-03-17,P07,porownawcze,1,2026-10-06,ORLEN Paczka|DPD|DHL|InPost,4,1,1,1,4,dhl.com|inpost.pl|nadaj.dpd.com.pl|orlenpaczka.pl,1
+392,openai,gpt-5.4-mini-2026-03-17,P07,porownawcze,2,2026-10-06,ORLEN Paczka|DPD|InPost|DHL,4,1,1,1,4,dhl.com|dpd.com|inpost.pl|orlenpaczka.pl,1
+393,openai,gpt-5.4-mini-2026-03-17,P07,porownawcze,3,2026-10-06,DPD|ORLEN Paczka|DHL|InPost,4,1,2,1,4,dhl.com|dpd.com|inpost.pl|orlenpaczka.pl,1
+394,openai,gpt-5.4-mini-2026-03-17,P07,porownawcze,4,2026-10-06,DPD|InPost|DHL|ORLEN Paczka,4,1,4,1,4,dhlparcel.pl|dpd.com|inpost.pl|orlenpaczka.pl,1
+395,openai,gpt-5.4-mini-2026-03-17,P07,porownawcze,5,2026-10-06,InPost|ORLEN Paczka|DHL,3,1,2,1,2,inpost.pl|orlenpaczka.pl,1
+396,gemini,gemini-3.8-flash,P07,porownawcze,1,2026-10-06,ORLEN Paczka|InPost|DPD|DHL,4,1,1,0,7,allekurier.pl|dhl.com|dpd.com|kcmobile.pl|kurjerzy.pl|patronservice.pl|znajdzkuriera.pl,1
+397,gemini,gemini-3.8-flash,P07,porownawcze,2,2026-10-06,ORLEN Paczka|DPD|DHL|InPost,4,1,1,1,11,allekurier.pl|dhl.com|dpd.com|dpd.com.pl|globkurier.pl|kb.pl|kcmobile.pl|kurjerzy.pl|orlenpaczka.pl|patronservice.pl|znajdzkuriera.pl,1
+398,gemini,gemini-3.8-flash,P07,porownawcze,3,2026-10-06,ORLEN Paczka|DHL|InPost|DPD,4,1,1,1,4,dhl.com|dpd.com.pl|orlenpaczka.pl|packeta.pl,1
+399,gemini,gemini-3.8-flash,P07,porownawcze,4,2026-10-06,ORLEN Paczka|InPost|DHL|DPD,4,1,1,1,12,allekurier.pl|apaczka.pl|dhl.com|dpd.com|dpd.com.pl|inpost.pl|kb.pl|mykurier.pl|orlenpaczka.pl|patronservice.pl|sendit.pl|znajdzkuriera.pl,1
+400,gemini,gemini-3.8-flash,P07,porownawcze,5,2026-10-06,ORLEN Paczka|InPost|DPD|DHL,4,1,1,1,8,allekurier.pl|dhl.com|dpd.com|idealnysklepik.pl|inpost.pl|kurjerzy.pl|mykurier.pl|orlenpaczka.pl,1
+401,perplexity,perplexity/sonar,P07,porownawcze,1,2026-10-06,ORLEN Paczka|InPost|DHL|DPD,4,1,1,0,5,chip.pl|dpd.com|furgonetka.pl|packeta.pl|znajdzkuriera.pl,1
+402,perplexity,perplexity/sonar,P07,porownawcze,2,2026-10-06,DPD|InPost|DHL|ORLEN Paczka,4,1,4,0,1,inpost.pl,1
+403,perplexity,perplexity/sonar,P07,porownawcze,3,2026-10-06,ORLEN Paczka|InPost|DPD|DHL,4,1,1,0,3,dpd.com|packeta.pl|znajdzkuriera.pl,1
+404,perplexity,perplexity/sonar,P07,porownawcze,4,2026-10-06,ORLEN Paczka|InPost|DPD|DHL,4,1,1,0,3,dpd.com|packeta.pl|znajdzkuriera.pl,1
+405,perplexity,perplexity/sonar,P07,porownawcze,5,2026-10-06,InPost|ORLEN Paczka|DHL|DPD,4,1,2,0,4,dpd.com|furgonetka.pl|packeta.pl|znajdzkuriera.pl,1
+406,openai,gpt-5.4-mini-2026-03-17,P08,porownawcze,1,2026-10-06,DHL|UPS,2,0,,0,2,dhl.com|ups.com,1
+407,openai,gpt-5.4-mini-2026-03-17,P08,porownawcze,2,2026-10-06,DHL|UPS,2,0,,0,3,assets.ups.com|dhl.com|ups.com,1
+408,openai,gpt-5.4-mini-2026-03-17,P08,porownawcze,3,2026-10-06,DHL|UPS,2,0,,0,2,dhl.com|ups.com,1
+409,openai,gpt-5.4-mini-2026-03-17,P08,porownawcze,4,2026-10-06,DHL|UPS,2,0,,0,0,,0
+410,openai,gpt-5.4-mini-2026-03-17,P08,porownawcze,5,2026-10-06,DHL|UPS,2,0,,0,0,,0
+411,gemini,gemini-3.8-flash,P08,porownawcze,1,2026-10-06,UPS|DHL,2,0,,0,0,,0
+412,gemini,gemini-3.8-flash,P08,porownawcze,2,2026-10-06,UPS|DHL,2,0,,0,0,,0
+413,gemini,gemini-3.8-flash,P08,porownawcze,3,2026-10-06,UPS|DHL,2,0,,0,0,,0
+414,gemini,gemini-3.8-flash,P08,porownawcze,4,2026-10-06,UPS|DHL,2,0,,0,0,,0
+415,gemini,gemini-3.8-flash,P08,porownawcze,5,2026-10-06,UPS|DHL,2,0,,0,0,,0
+416,perplexity,perplexity/sonar,P08,porownawcze,1,2026-10-06,DHL|UPS,2,0,,0,3,assets.ups.com|developer.ups.com|dhl.com,1
+417,perplexity,perplexity/sonar,P08,porownawcze,2,2026-10-06,DHL|UPS,2,0,,0,1,dhl.com,1
+418,perplexity,perplexity/sonar,P08,porownawcze,3,2026-10-06,UPS|DHL,2,0,,0,2,dhl.com|przesylarka.pl,1
+419,perplexity,perplexity/sonar,P08,porownawcze,4,2026-10-06,DHL|UPS,2,0,,0,2,dhl.com|przesylarka.pl,1
+420,perplexity,perplexity/sonar,P08,porownawcze,5,2026-10-06,UPS|DHL,2,0,,0,2,assets.ups.com|dhl.com,1
+421,openai,gpt-5.4-mini-2026-03-17,P09,porownawcze,1,2026-10-06,InPost|ORLEN Paczka,2,1,2,0,1,inpost.pl,1
+422,openai,gpt-5.4-mini-2026-03-17,P09,porownawcze,2,2026-10-06,InPost|ORLEN Paczka|DPD,3,1,2,1,2,inpost.pl|orlenpaczka.pl,1
+423,openai,gpt-5.4-mini-2026-03-17,P09,porownawcze,3,2026-10-06,InPost|ORLEN Paczka,2,1,2,1,2,inpost.pl|orlenpaczka.pl,1
+424,openai,gpt-5.4-mini-2026-03-17,P09,porownawcze,4,2026-10-06,InPost|ORLEN Paczka|DPD,3,1,2,1,2,inpost.pl|orlenpaczka.pl,1
+425,openai,gpt-5.4-mini-2026-03-17,P09,porownawcze,5,2026-10-06,InPost|ORLEN Paczka,2,1,2,1,2,inpost.pl|orlenpaczka.pl,1
+426,gemini,gemini-3.8-flash,P09,porownawcze,1,2026-10-06,InPost|ORLEN Paczka,2,1,2,1,6,colliers.pl|hiro.pl|inpost.pl|jakimkurierem.pl|orlenpaczka.pl|telepolis.pl,1
+427,gemini,gemini-3.8-flash,P09,porownawcze,2,2026-10-06,InPost|ORLEN Paczka,2,1,2,1,6,cashless.pl|inpost.pl|itreseller.pl|orlenpaczka.pl|pap.pl|wiadomoscihandlowe.pl,1
+428,gemini,gemini-3.8-flash,P09,porownawcze,3,2026-10-06,InPost|ORLEN Paczka,2,1,2,1,3,hiro.pl|jakimkurierem.pl|orlenpaczka.pl,1
+429,gemini,gemini-3.8-flash,P09,porownawcze,4,2026-10-06,InPost|ORLEN Paczka,2,1,2,0,3,cashless.pl|inpost.pl|wiadomoscihandlowe.pl,1
+430,gemini,gemini-3.8-flash,P09,porownawcze,5,2026-10-06,InPost|ORLEN Paczka,2,1,2,1,6,businessinsider.com.pl|cashless.pl|inpost.pl|jakimkurierem.pl|orlen.pl|orlenpaczka.pl,1
+431,perplexity,perplexity/sonar,P09,porownawcze,1,2026-10-06,InPost|ORLEN Paczka,2,1,2,0,3,bankier.pl|inpost.pl|spidersweb.pl,1
+432,perplexity,perplexity/sonar,P09,porownawcze,2,2026-10-06,InPost|ORLEN Paczka,2,1,2,0,2,cashless.pl|orlen.pl,1
+433,perplexity,perplexity/sonar,P09,porownawcze,3,2026-10-06,InPost|ORLEN Paczka,2,1,2,0,4,cashless.pl|mycompanypolska.pl|orlen.pl|telepolis.pl,1
+434,perplexity,perplexity/sonar,P09,porownawcze,4,2026-10-06,InPost|ORLEN Paczka,2,1,2,0,1,spidersweb.pl,1
+435,perplexity,perplexity/sonar,P09,porownawcze,5,2026-10-06,InPost|ORLEN Paczka,2,1,2,0,1,jakimkurierem.pl,1
+436,openai,gpt-5.4-mini-2026-03-17,P10,porownawcze,1,2026-10-06,DPD|GLS,2,0,,0,1,pl.trustpilot.com,1
+437,openai,gpt-5.4-mini-2026-03-17,P10,porownawcze,2,2026-10-06,DPD|GLS,2,0,,0,2,spolecznosc.allegro.pl|trustedshops.pl,1
+438,openai,gpt-5.4-mini-2026-03-17,P10,porownawcze,3,2026-10-06,DPD|GLS,2,0,,0,2,dpd.com|gls-group.com,1
+439,openai,gpt-5.4-mini-2026-03-17,P10,porownawcze,4,2026-10-06,DPD|GLS,2,0,,0,0,,0
+440,openai,gpt-5.4-mini-2026-03-17,P10,porownawcze,5,2026-10-06,DPD|GLS,2,0,,0,2,designcart.pl|gowork.pl,1
+441,gemini,gemini-3.8-flash,P10,porownawcze,1,2026-10-06,DPD|GLS,2,0,,0,3,kurierhub.pl|reddit.com|znajdzkuriera.pl,1
+442,gemini,gemini-3.8-flash,P10,porownawcze,2,2026-10-06,DPD|GLS,2,0,,0,2,allekurier.pl|reddit.com,1
+443,gemini,gemini-3.8-flash,P10,porownawcze,3,2026-10-06,DPD|GLS|InPost,3,0,,0,5,allekurier.pl|gazetalogistyka.pl|kurierem.pl|profitshop.pl|reddit.com,1
+444,gemini,gemini-3.8-flash,P10,porownawcze,4,2026-10-06,DPD|GLS|InPost,3,0,,0,2,allekurier.pl|kurierem.pl,1
+445,gemini,gemini-3.8-flash,P10,porownawcze,5,2026-10-06,DPD|GLS|InPost,3,0,,0,2,allekurier.pl|reddit.com,1
+446,perplexity,perplexity/sonar,P10,porownawcze,1,2026-10-06,DPD|GLS,2,0,,0,3,dhlpoland.pl|dpd.com|gls-group.com,1
+447,perplexity,perplexity/sonar,P10,porownawcze,2,2026-10-06,DPD|GLS,2,0,,0,3,antyweb.pl|dhlpoland.pl|furgonetka.pl,1
+448,perplexity,perplexity/sonar,P10,porownawcze,3,2026-10-06,DPD|GLS,2,0,,0,2,dpd.com|gls-group.com,1
+449,perplexity,perplexity/sonar,P10,porownawcze,4,2026-10-06,DPD|GLS,2,0,,0,2,dhlpoland.pl|fakt.pl,1
+450,perplexity,perplexity/sonar,P10,porownawcze,5,2026-10-06,DPD|GLS,2,0,,0,1,eurosender.com,1
+451,openai,gpt-5.4-mini-2026-03-17,M01,markowe,1,2026-10-06,ORLEN Paczka|InPost|DPD,3,1,1,0,0,,0
+452,openai,gpt-5.4-mini-2026-03-17,M01,markowe,2,2026-10-06,ORLEN Paczka|InPost|DPD|DHL,4,1,1,0,0,,0
+453,openai,gpt-5.4-mini-2026-03-17,M01,markowe,3,2026-10-06,ORLEN Paczka|InPost|DPD,3,1,1,0,0,,0
+454,openai,gpt-5.4-mini-2026-03-17,M01,markowe,4,2026-10-06,ORLEN Paczka|InPost|DPD,3,1,1,1,2,orlenpaczka.pl|spolecznosc.allegro.pl,1
+455,openai,gpt-5.4-mini-2026-03-17,M01,markowe,5,2026-10-06,ORLEN Paczka|InPost|DPD,3,1,1,1,3,ceneo.pl|opineo.pl|orlenpaczka.pl,1
+456,gemini,gemini-3.8-flash,M01,markowe,1,2026-10-06,ORLEN Paczka|InPost|DPD,3,1,1,0,0,,0
+457,gemini,gemini-3.8-flash,M01,markowe,2,2026-10-06,ORLEN Paczka|InPost|DPD,3,1,1,0,0,,0
+458,gemini,gemini-3.8-flash,M01,markowe,3,2026-10-06,ORLEN Paczka|InPost,2,1,1,0,0,,0
+459,gemini,gemini-3.8-flash,M01,markowe,4,2026-10-06,ORLEN Paczka|InPost,2,1,1,0,0,,0
+460,gemini,gemini-3.8-flash,M01,markowe,5,2026-10-06,ORLEN Paczka|InPost,2,1,1,0,0,,0
+461,perplexity,perplexity/sonar,M01,markowe,1,2026-10-06,ORLEN Paczka,1,1,1,1,6,apps.apple.com|globkurier.pl|jakoscobslugi.pl|orlenpaczka.pl|pl.trustpilot.com|spark.mwm.ai,1
+462,perplexity,perplexity/sonar,M01,markowe,2,2026-10-06,ORLEN Paczka,1,1,1,1,6,apps.apple.com|globkurier.pl|jakoscobslugi.pl|orlenpaczka.pl|pl.trustpilot.com|spark.mwm.ai,1
+463,perplexity,perplexity/sonar,M01,markowe,3,2026-10-06,ORLEN Paczka,1,1,1,1,3,globkurier.pl|orlenpaczka.pl|pl.trustpilot.com,1
+464,perplexity,perplexity/sonar,M01,markowe,4,2026-10-06,ORLEN Paczka,1,1,1,1,6,ceneo.pl|globkurier.pl|jakoscobslugi.pl|orlenpaczka.pl|pl.trustpilot.com|tania-paczka.net,1
+465,perplexity,perplexity/sonar,M01,markowe,5,2026-10-06,ORLEN Paczka,1,1,1,0,5,chrome-stats.com|globkurier.pl|jakoscobslugi.pl|orlen.pl|pl.trustpilot.com,1
+466,openai,gpt-5.4-mini-2026-03-17,M02,markowe,1,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+467,openai,gpt-5.4-mini-2026-03-17,M02,markowe,2,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+468,openai,gpt-5.4-mini-2026-03-17,M02,markowe,3,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+469,openai,gpt-5.4-mini-2026-03-17,M02,markowe,4,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+470,openai,gpt-5.4-mini-2026-03-17,M02,markowe,5,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+471,gemini,gemini-3.8-flash,M02,markowe,1,2026-10-06,ORLEN Paczka,1,1,1,1,3,orlenpaczka.pl|sendit.pl|znajdzkuriera.pl,1
+472,gemini,gemini-3.8-flash,M02,markowe,2,2026-10-06,ORLEN Paczka,1,1,1,1,3,orlenpaczka.pl|shipcenter.pl|znajdzkuriera.pl,1
+473,gemini,gemini-3.8-flash,M02,markowe,3,2026-10-06,ORLEN Paczka,1,1,1,1,5,firmykurierskie.com|globkurier.pl|kodyrabatowy.pl|orlenpaczka.pl|sendit.pl,1
+474,gemini,gemini-3.8-flash,M02,markowe,4,2026-10-06,ORLEN Paczka,1,1,1,1,7,allekurier.pl|globkurier.pl|interia.pl|orlenpaczka.pl|sendit.pl|shipcenter.pl|znajdzkuriera.pl,1
+475,gemini,gemini-3.8-flash,M02,markowe,5,2026-10-06,ORLEN Paczka,1,1,1,1,2,orlenpaczka.pl|sendit.pl,1
+476,perplexity,perplexity/sonar,M02,markowe,1,2026-10-06,ORLEN Paczka,1,1,1,1,2,orlenpaczka.pl|znajdzkuriera.pl,1
+477,perplexity,perplexity/sonar,M02,markowe,2,2026-10-06,,0,0,,0,1,znajdzkuriera.pl,1
+478,perplexity,perplexity/sonar,M02,markowe,3,2026-10-06,,0,0,,1,2,orlenpaczka.pl|znajdzkuriera.pl,1
+479,perplexity,perplexity/sonar,M02,markowe,4,2026-10-06,,0,0,,1,2,orlenpaczka.pl|shoper.pl,1
+480,perplexity,perplexity/sonar,M02,markowe,5,2026-10-06,,0,0,,1,1,orlenpaczka.pl,1
+481,openai,gpt-5.4-mini-2026-03-17,M03,markowe,1,2026-10-06,ORLEN Paczka,1,1,1,0,0,,0
+482,openai,gpt-5.4-mini-2026-03-17,M03,markowe,2,2026-10-06,ORLEN Paczka,1,1,1,0,0,,0
+483,openai,gpt-5.4-mini-2026-03-17,M03,markowe,3,2026-10-06,ORLEN Paczka,1,1,1,0,0,,0
+484,openai,gpt-5.4-mini-2026-03-17,M03,markowe,4,2026-10-06,ORLEN Paczka,1,1,1,0,0,,0
+485,openai,gpt-5.4-mini-2026-03-17,M03,markowe,5,2026-10-06,ORLEN Paczka,1,1,1,0,0,,0
+486,gemini,gemini-3.8-flash,M03,markowe,1,2026-10-06,ORLEN Paczka,1,1,1,1,7,apaczka.pl|google.com|orlenpaczka.pl|patronservice.pl|polkurier.pl|sendit.pl|youtube.com,1
+487,gemini,gemini-3.8-flash,M03,markowe,2,2026-10-06,ORLEN Paczka,1,1,1,1,6,apaczka.pl|orlenpaczka.pl|patronservice.pl|polkurier.pl|sendit.pl|youtube.com,1
+488,gemini,gemini-3.8-flash,M03,markowe,3,2026-10-06,ORLEN Paczka,1,1,1,1,6,apaczka.pl|orlenpaczka.pl|patronservice.pl|polkurier.pl|sendit.pl|youtube.com,1
+489,gemini,gemini-3.8-flash,M03,markowe,4,2026-10-06,ORLEN Paczka,1,1,1,1,6,kartony24.eu|orlenpaczka.pl|patronservice.pl|polkurier.pl|shoper.pl|youtube.com,1
+490,gemini,gemini-3.8-flash,M03,markowe,5,2026-10-06,ORLEN Paczka,1,1,1,0,0,,0
+491,perplexity,perplexity/sonar,M03,markowe,1,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+492,perplexity,perplexity/sonar,M03,markowe,2,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+493,perplexity,perplexity/sonar,M03,markowe,3,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+494,perplexity,perplexity/sonar,M03,markowe,4,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+495,perplexity,perplexity/sonar,M03,markowe,5,2026-10-06,ORLEN Paczka,1,1,1,1,2,apaczka.pl|orlenpaczka.pl,1
+496,openai,gpt-5.4-mini-2026-03-17,M04,markowe,1,2026-10-06,ORLEN Paczka|InPost|DPD,3,1,1,0,2,ceneo.pl|pl.trustpilot.com,1
+497,openai,gpt-5.4-mini-2026-03-17,M04,markowe,2,2026-10-06,ORLEN Paczka,1,1,1,0,2,ceneo.pl|pl.trustpilot.com,1
+498,openai,gpt-5.4-mini-2026-03-17,M04,markowe,3,2026-10-06,ORLEN Paczka|InPost|DPD,3,1,1,0,1,pl.trustpilot.com,1
+499,openai,gpt-5.4-mini-2026-03-17,M04,markowe,4,2026-10-06,ORLEN Paczka|InPost|DPD|DHL,4,1,1,0,2,ceneo.pl|pl.trustpilot.com,1
+500,openai,gpt-5.4-mini-2026-03-17,M04,markowe,5,2026-10-06,ORLEN Paczka|InPost|DPD,3,1,1,1,3,ceneo.pl|orlenpaczka.pl|pl.trustpilot.com,1
+501,gemini,gemini-3.8-flash,M04,markowe,1,2026-10-06,ORLEN Paczka|InPost|DPD|DHL,4,1,1,0,8,allegro.pl|apaczka.pl|ceneo.pl|dobre-rady.eu|globkurier.pl|gowork.pl|reddit.com|trustpilot.com,1
+502,gemini,gemini-3.8-flash,M04,markowe,2,2026-10-06,ORLEN Paczka|InPost|DPD|Poczta Polska,4,1,1,0,5,allegro.pl|apaczka.pl|globkurier.pl|polkurier.pl|trustpilot.com,1
+503,gemini,gemini-3.8-flash,M04,markowe,3,2026-10-06,ORLEN Paczka|InPost,2,1,1,0,7,allegro.pl|dobre-rady.eu|fakt.pl|furgonetka.pl|globkurier.pl|polkurier.pl|trustpilot.com,1
+504,gemini,gemini-3.8-flash,M04,markowe,4,2026-10-06,ORLEN Paczka|InPost|DPD|Poczta Polska,4,1,1,0,0,,0
+505,gemini,gemini-3.8-flash,M04,markowe,5,2026-10-06,ORLEN Paczka|InPost|DPD|Poczta Polska|DHL,5,1,1,0,6,allegro.pl|dobre-rady.eu|facebook.com|globkurier.pl|opineo.pl|trustpilot.com,1
+506,perplexity,perplexity/sonar,M04,markowe,1,2026-10-06,ORLEN Paczka,1,1,1,1,3,orlenpaczka.pl|pl.trustpilot.com|trustpilot.com,1
+507,perplexity,perplexity/sonar,M04,markowe,2,2026-10-06,ORLEN Paczka,1,1,1,0,4,globkurier.pl|opineo.pl|pl.trustpilot.com|trustpilot.com,1
+508,perplexity,perplexity/sonar,M04,markowe,3,2026-10-06,ORLEN Paczka,1,1,1,1,3,globkurier.pl|orlenpaczka.pl|pl.trustpilot.com,1
+509,perplexity,perplexity/sonar,M04,markowe,4,2026-10-06,ORLEN Paczka,1,1,1,1,6,ceneo.pl|globkurier.pl|opineo.pl|orlenpaczka.pl|pl.trustpilot.com|spolecznosc.allegro.pl,1
+510,perplexity,perplexity/sonar,M04,markowe,5,2026-10-06,ORLEN Paczka,1,1,1,1,3,globkurier.pl|orlenpaczka.pl|pl.trustpilot.com,1
+511,openai,gpt-5.4-mini-2026-03-17,M05,markowe,1,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+512,openai,gpt-5.4-mini-2026-03-17,M05,markowe,2,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+513,openai,gpt-5.4-mini-2026-03-17,M05,markowe,3,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+514,openai,gpt-5.4-mini-2026-03-17,M05,markowe,4,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+515,openai,gpt-5.4-mini-2026-03-17,M05,markowe,5,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+516,gemini,gemini-3.8-flash,M05,markowe,1,2026-10-06,ORLEN Paczka,1,1,1,0,0,,0
+517,gemini,gemini-3.8-flash,M05,markowe,2,2026-10-06,ORLEN Paczka,1,1,1,0,0,,0
+518,gemini,gemini-3.8-flash,M05,markowe,3,2026-10-06,ORLEN Paczka,1,1,1,0,0,,0
+519,gemini,gemini-3.8-flash,M05,markowe,4,2026-10-06,ORLEN Paczka,1,1,1,0,0,,0
+520,gemini,gemini-3.8-flash,M05,markowe,5,2026-10-06,ORLEN Paczka,1,1,1,1,2,orlen.pl|orlenpaczka.pl,1
+521,perplexity,perplexity/sonar,M05,markowe,1,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+522,perplexity,perplexity/sonar,M05,markowe,2,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+523,perplexity,perplexity/sonar,M05,markowe,3,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+524,perplexity,perplexity/sonar,M05,markowe,4,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+525,perplexity,perplexity/sonar,M05,markowe,5,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+526,openai,gpt-5.4-mini-2026-03-17,M06,markowe,1,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+527,openai,gpt-5.4-mini-2026-03-17,M06,markowe,2,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+528,openai,gpt-5.4-mini-2026-03-17,M06,markowe,3,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+529,openai,gpt-5.4-mini-2026-03-17,M06,markowe,4,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+530,openai,gpt-5.4-mini-2026-03-17,M06,markowe,5,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+531,gemini,gemini-3.8-flash,M06,markowe,1,2026-10-06,ORLEN Paczka,1,1,1,1,3,clipinwlosy.pl|furgonetka.pl|orlenpaczka.pl,1
+532,gemini,gemini-3.8-flash,M06,markowe,2,2026-10-06,ORLEN Paczka,1,1,1,1,5,clipinwlosy.pl|epaka.pl|furgonetka.pl|orlenpaczka.pl|soluma.pl,1
+533,gemini,gemini-3.8-flash,M06,markowe,3,2026-10-06,ORLEN Paczka,1,1,1,1,3,clipinwlosy.pl|furgonetka.pl|orlenpaczka.pl,1
+534,gemini,gemini-3.8-flash,M06,markowe,4,2026-10-06,ORLEN Paczka,1,1,1,1,3,clipinwlosy.pl|furgonetka.pl|orlenpaczka.pl,1
+535,gemini,gemini-3.8-flash,M06,markowe,5,2026-10-06,ORLEN Paczka,1,1,1,1,2,clipinwlosy.pl|orlenpaczka.pl,1
+536,perplexity,perplexity/sonar,M06,markowe,1,2026-10-06,,0,0,,1,1,orlenpaczka.pl,1
+537,perplexity,perplexity/sonar,M06,markowe,2,2026-10-06,,0,0,,1,1,orlenpaczka.pl,1
+538,perplexity,perplexity/sonar,M06,markowe,3,2026-10-06,,0,0,,1,2,orlenpaczka.pl|patronservice.pl,1
+539,perplexity,perplexity/sonar,M06,markowe,4,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+540,perplexity,perplexity/sonar,M06,markowe,5,2026-10-06,,0,0,,1,1,orlenpaczka.pl,1
+541,openai,gpt-5.4-mini-2026-03-17,M07,markowe,1,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+542,openai,gpt-5.4-mini-2026-03-17,M07,markowe,2,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+543,openai,gpt-5.4-mini-2026-03-17,M07,markowe,3,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+544,openai,gpt-5.4-mini-2026-03-17,M07,markowe,4,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+545,openai,gpt-5.4-mini-2026-03-17,M07,markowe,5,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+546,gemini,gemini-3.8-flash,M07,markowe,1,2026-10-06,ORLEN Paczka,1,1,1,1,5,apaczka.pl|furgonetka.pl|kurjerzy.pl|orlenpaczka.pl|polkurier.pl,1
+547,gemini,gemini-3.8-flash,M07,markowe,2,2026-10-06,ORLEN Paczka,1,1,1,1,4,apaczka.pl|furgonetka.pl|orlenpaczka.pl|polkurier.pl,1
+548,gemini,gemini-3.8-flash,M07,markowe,3,2026-10-06,ORLEN Paczka,1,1,1,1,4,apaczka.pl|furgonetka.pl|orlenpaczka.pl|polkurier.pl,1
+549,gemini,gemini-3.8-flash,M07,markowe,4,2026-10-06,ORLEN Paczka,1,1,1,1,3,furgonetka.pl|orlenpaczka.pl|polkurier.pl,1
+550,gemini,gemini-3.8-flash,M07,markowe,5,2026-10-06,ORLEN Paczka,1,1,1,1,4,apaczka.pl|furgonetka.pl|orlenpaczka.pl|polkurier.pl,1
+551,perplexity,perplexity/sonar,M07,markowe,1,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+552,perplexity,perplexity/sonar,M07,markowe,2,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+553,perplexity,perplexity/sonar,M07,markowe,3,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+554,perplexity,perplexity/sonar,M07,markowe,4,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+555,perplexity,perplexity/sonar,M07,markowe,5,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+556,openai,gpt-5.4-mini-2026-03-17,M08,markowe,1,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+557,openai,gpt-5.4-mini-2026-03-17,M08,markowe,2,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+558,openai,gpt-5.4-mini-2026-03-17,M08,markowe,3,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+559,openai,gpt-5.4-mini-2026-03-17,M08,markowe,4,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+560,openai,gpt-5.4-mini-2026-03-17,M08,markowe,5,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+561,gemini,gemini-3.8-flash,M08,markowe,1,2026-10-06,ORLEN Paczka|DPD|DHL|GLS|Poczta Polska,5,1,1,1,3,allegro.pl|orlenpaczka.pl|youtube.com,1
+562,gemini,gemini-3.8-flash,M08,markowe,2,2026-10-06,ORLEN Paczka|DPD|DHL|GLS|Poczta Polska|InPost,6,1,1,1,2,orlenpaczka.pl|packeta.pl,1
+563,gemini,gemini-3.8-flash,M08,markowe,3,2026-10-06,ORLEN Paczka,1,1,1,1,3,orlenpaczka.pl|packeta.pl|youtube.com,1
+564,gemini,gemini-3.8-flash,M08,markowe,4,2026-10-06,ORLEN Paczka|DPD|DHL|GLS|UPS|Poczta Polska,6,1,1,1,3,allegro.pl|orlenpaczka.pl|youtube.com,1
+565,gemini,gemini-3.8-flash,M08,markowe,5,2026-10-06,ORLEN Paczka,1,1,1,1,4,allegro.pl|orlenpaczka.pl|packeta.pl|youtube.com,1
+566,perplexity,perplexity/sonar,M08,markowe,1,2026-10-06,ORLEN Paczka,1,1,1,1,2,orlenpaczka.pl|vinted.pl,1
+567,perplexity,perplexity/sonar,M08,markowe,2,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+568,perplexity,perplexity/sonar,M08,markowe,3,2026-10-06,ORLEN Paczka,1,1,1,1,2,orlenpaczka.pl|vinted.pl,1
+569,perplexity,perplexity/sonar,M08,markowe,4,2026-10-06,ORLEN Paczka,1,1,1,1,2,orlenpaczka.pl|vinted.pl,1
+570,perplexity,perplexity/sonar,M08,markowe,5,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+571,openai,gpt-5.4-mini-2026-03-17,M09,markowe,1,2026-10-06,ORLEN Paczka|InPost,2,1,1,1,2,inpost.pl|orlenpaczka.pl,1
+572,openai,gpt-5.4-mini-2026-03-17,M09,markowe,2,2026-10-06,ORLEN Paczka|InPost,2,1,1,1,1,orlenpaczka.pl,1
+573,openai,gpt-5.4-mini-2026-03-17,M09,markowe,3,2026-10-06,ORLEN Paczka|InPost,2,1,1,1,2,inpost.pl|orlenpaczka.pl,1
+574,openai,gpt-5.4-mini-2026-03-17,M09,markowe,4,2026-10-06,ORLEN Paczka|InPost,2,1,1,1,2,inpost.pl|orlenpaczka.pl,1
+575,openai,gpt-5.4-mini-2026-03-17,M09,markowe,5,2026-10-06,InPost|ORLEN Paczka,2,1,2,1,2,inpost.pl|orlenpaczka.pl,1
+576,gemini,gemini-3.8-flash,M09,markowe,1,2026-10-06,ORLEN Paczka|InPost,2,1,1,1,8,epakowacz.pl|firmykurierskie.com|globkurier.pl|inpost.pl|kb.pl|orlenpaczka.pl|shipcenter.pl|wadowice24.pl,1
+577,gemini,gemini-3.8-flash,M09,markowe,2,2026-10-06,ORLEN Paczka|InPost,2,1,1,0,3,globkurier.pl|inpost.pl|znajdzkuriera.pl,1
+578,gemini,gemini-3.8-flash,M09,markowe,3,2026-10-06,ORLEN Paczka|InPost,2,1,1,1,9,donati24.pl|epaka.pl|fashionbiznes.pl|globkurier.pl|inpost.pl|orlen.pl|orlenpaczka.pl|shipcenter.pl|znajdzkuriera.pl,1
+579,gemini,gemini-3.8-flash,M09,markowe,4,2026-10-06,ORLEN Paczka|InPost,2,1,1,1,6,globkurier.pl|inpost.pl|kb.pl|orlenpaczka.pl|patronservice.pl|znajdzkuriera.pl,1
+580,gemini,gemini-3.8-flash,M09,markowe,5,2026-10-06,ORLEN Paczka|InPost,2,1,1,1,4,globkurier.pl|inpost.pl|orlenpaczka.pl|shipcenter.pl,1
+581,perplexity,perplexity/sonar,M09,markowe,1,2026-10-06,ORLEN Paczka|InPost,2,1,1,0,2,natemat.pl|znajdzkuriera.pl,1
+582,perplexity,perplexity/sonar,M09,markowe,2,2026-10-06,ORLEN Paczka|InPost,2,1,1,0,5,antyweb.pl|furgonetka.pl|natemat.pl|sendit.pl|znajdzkuriera.pl,1
+583,perplexity,perplexity/sonar,M09,markowe,3,2026-10-06,ORLEN Paczka|InPost,2,1,1,0,1,znajdzkuriera.pl,1
+584,perplexity,perplexity/sonar,M09,markowe,4,2026-10-06,ORLEN Paczka|InPost,2,1,1,1,2,inpost.pl|orlenpaczka.pl,1
+585,perplexity,perplexity/sonar,M09,markowe,5,2026-10-06,ORLEN Paczka|InPost,2,1,1,0,3,cashless.pl|packeta.pl|znajdzkuriera.pl,1
+586,openai,gpt-5.4-mini-2026-03-17,M10,markowe,1,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+587,openai,gpt-5.4-mini-2026-03-17,M10,markowe,2,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+588,openai,gpt-5.4-mini-2026-03-17,M10,markowe,3,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+589,openai,gpt-5.4-mini-2026-03-17,M10,markowe,4,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+590,openai,gpt-5.4-mini-2026-03-17,M10,markowe,5,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+591,gemini,gemini-3.8-flash,M10,markowe,1,2026-10-06,ORLEN Paczka,1,1,1,1,4,clipinwlosy.pl|orlenpaczka.pl|soluma.pl|wykop.pl,1
+592,gemini,gemini-3.8-flash,M10,markowe,2,2026-10-06,ORLEN Paczka,1,1,1,1,3,clipinwlosy.pl|orlenpaczka.pl|soluma.pl,1
+593,gemini,gemini-3.8-flash,M10,markowe,3,2026-10-06,ORLEN Paczka,1,1,1,1,5,clipinwlosy.pl|epaka.pl|orlenpaczka.pl|soluma.pl|wykop.pl,1
+594,gemini,gemini-3.8-flash,M10,markowe,4,2026-10-06,ORLEN Paczka,1,1,1,1,5,clipinwlosy.pl|epaka.pl|orlenpaczka.pl|soluma.pl|wykop.pl,1
+595,gemini,gemini-3.8-flash,M10,markowe,5,2026-10-06,ORLEN Paczka,1,1,1,1,4,clipinwlosy.pl|epaka.pl|orlenpaczka.pl|soluma.pl,1
+596,perplexity,perplexity/sonar,M10,markowe,1,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+597,perplexity,perplexity/sonar,M10,markowe,2,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+598,perplexity,perplexity/sonar,M10,markowe,3,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+599,perplexity,perplexity/sonar,M10,markowe,4,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1
+600,perplexity,perplexity/sonar,M10,markowe,5,2026-10-06,ORLEN Paczka,1,1,1,1,1,orlenpaczka.pl,1

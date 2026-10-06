@@ -1,0 +1,31 @@
+id_zapytania,silnik,marki_api,marki_recznie,jaccard
+R01,openai,DHL|DPD|GLS|InPost|ORLEN Paczka|Poczta Polska|UPS,DHL|DPD|GLS|InPost|Poczta Polska,0.7143
+R01,gemini,DHL|DPD|GLS|InPost|ORLEN Paczka|Poczta Polska|UPS,DHL|DPD|GLS|InPost|Orlen Paczka|Poczta Polska,0.625
+R01,perplexity,DHL|DPD|GLS|InPost|ORLEN Paczka,DHL|DPD|FedEx|InPost|Orlen Paczka|UPS,0.375
+R02,openai,DHL|DPD|InPost|ORLEN Paczka,DPD|InPost,0.5
+R02,gemini,DHL|DPD|InPost|ORLEN Paczka|Poczta Polska,DHL|GLS|InPost|Orlen Paczka,0.2857
+R02,perplexity,DHL|DPD|ORLEN Paczka|Poczta Polska,DHL|DPD|GLS|InPosy|Orlen Paczka,0.2857
+R03,openai,DHL|DPD|GLS|InPost,DHL|DPD|InPost,0.75
+R03,gemini,DHL|DPD|GLS|InPost|ORLEN Paczka|Poczta Polska,AlleKurier|Apaczka|DHL|DPD|Furgonetka|InPost|Orlen Paczka|Sendit,0.2727
+R03,perplexity,DHL|DPD|InPost,DHL|DPD|InPost,1.0
+R04,openai,DHL|DPD|GLS|InPost|Poczta Polska|UPS,DPD|InPost,0.3333
+R04,gemini,DHL|DPD|GLS|InPost|Poczta Polska|UPS,DPD|InPost,0.3333
+R04,perplexity,DHL|DPD|InPost|UPS,DPD|InPost|UPS,0.75
+R05,openai,DHL|DPD|InPost|ORLEN Paczka,DPD|InPost|Orlen Paczka,0.4
+R05,gemini,DHL|DPD|GLS|InPost|ORLEN Paczka|Poczta Polska,Allegro|InPost,0.1429
+R05,perplexity,DPD|InPost|ORLEN Paczka,DHL|GLS|Orlen Paczka|Poczta Polska,0.0
+R06,openai,DHL|DPD|InPost|Poczta Polska|UPS,DHL|DPD|InPost|UPS,0.8
+R06,gemini,DHL|DPD|GLS|InPost|Poczta Polska|UPS,DHL|DPD|GLS|Poczta Polska|UPS,0.8333
+R06,perplexity,DHL|DPD|InPost|Poczta Polska|UPS,|DLH|DPD|FedEX|UPS,0.25
+R07,openai,DHL|DPD|GLS|InPost|UPS,DHL|DPD|FedEX|GLS|InPost|UPS,0.8333
+R07,gemini,DHL|DPD|GLS|InPost|Poczta Polska|UPS,DHL|DPD|GLS|InPost,0.6667
+R07,perplexity,DHL|DPD|InPost|UPS,DHL|DPD|InPost|UPS,1.0
+R08,openai,DHL|DPD|GLS|InPost|ORLEN Paczka|Poczta Polska,DHL|DPD|InPost|Orlen Paczka|Poczta Polska,0.5714
+R08,gemini,DPD|InPost|ORLEN Paczka|Poczta Polska,DPD|GLS|InPost|Orlen Paczka|Poczta Polska,0.5
+R08,perplexity,DHL|DPD|GLS|InPost|ORLEN Paczka|Poczta Polska,DHL|DPD|InPost|Orlen Paczka,0.4286
+R09,openai,DHL|DPD|GLS|InPost|UPS,DHL|DPD|FedEX|GLS,0.5
+R09,gemini,DHL|DPD|InPost|UPS,DHL|DPD|FedEx|InPost,0.6
+R09,perplexity,DHL|DPD|GLS|InPost|Poczta Polska|UPS,DHL|DPD|InPost|UPS,0.6667
+R10,openai,DHL|DPD|InPost|ORLEN Paczka,DPD|InPost|Orlen Paczka,0.4
+R10,gemini,DHL|DPD|InPost|ORLEN Paczka,Allegro One|DHL|DPD|InPost|Orlen Paczka,0.5
+R10,perplexity,DPD|InPost|ORLEN Paczka,DHL|GLS|InPost|Orlen Paczka|Poczta Polska,0.1429

@@ -1,0 +1,416 @@
+id_odpowiedzi,silnik,id_zapytania,marki_wykryte,marki_poprawne,tekst
+111,openai,I08,InPost|DPD|DHL|Poczta Polska,,"Żeby wysłać paczkę **za pobraniem (COD)**, zrób to tak:
+
+1. **Wybierz przewoźnika**  
+   Sprawdź, czy dana firma oferuje pobranie i na jakich warunkach.
+
+2. **Przygotuj przesyłkę**  
+   Spakuj paczkę, zabezpiecz zawartość i napisz adres odbiorcy oraz nadawcy.
+
+3. **Nadaj paczkę jako pobraniową**  
+   Podczas nadawania zaznacz usługę **„za pobraniem”** i wpisz:
+   - kwotę pobrania,
+   - numer konta do przelewu zwrotnego,
+   - dane kontaktowe.
+
+4. **Przekaż paczkę kurierowi / do punktu nadania**  
+   W zależności od firmy możesz:
+   - zamówić odbiór kurierem,
+   - zanieść do punktu,
+   - nadać w paczkomacie lub automacie, jeśli usługa to obsługuje.
+
+5. **Odbiorca płaci przy odbiorze**  
+   Kurier lub punkt pobiera należność od adresata, a przewoźnik później przekazuje Ci pieniądze na konto.
+
+### Ważne:
+- Upewnij się, **jaka jest maksymalna kwota pobrania**.
+- Sprawdź **termin wypłaty środków** — może to być kilka dni roboczych.
+- Nie każdy przewoźnik obsługuje pobranie w każdym rodzaju nadania.
+
+Jeśli chcesz, mogę też podać Ci **dokładną instrukcję dla InPost, DPD, DHL albo Poczty Polskiej**."
+420,perplexity,P08,UPS|DHL,,"**W skrócie: jeśli zależy Ci na szybkiej, kurierskiej dostawie, wybrałbym UPS; jeśli wysyłasz jako osoba prywatna i liczy się prostsze nadanie, sprawdź ofertę DHL.** Bez wagi, wymiarów i rodzaju zawartości nie da się rzetelnie wskazać tańszej opcji.
+
+- **UPS** — rutynowa odprawa celna jest ujęta w usłudze; warto wybrać go, gdy szybkość i sprawna obsługa są ważniejsze niż najniższa cena. [2]
+- **DHL** — dla klientów indywidualnych deklaruje przewidywany czas dostawy od 2 do 12 dni roboczych, zależnie od kraju i usługi. Wysyłka do UK wymaga odprawy celnej. [4]
+- **W obu przypadkach** przygotuj dokładny opis zawartości, jej wartość i kraj pochodzenia. Przy wysyłce DHL do UK wymagane są dokumenty celne, a przy warunkach DAP odbiorca może zapłacić importowy VAT, cło lub opłaty manipulacyjne. [1][3][8]
+
+**Moja rekomendacja:** UPS, jeśli ma dojść możliwie szybko; DHL, jeśli znajdziesz korzystniejszą cenę i akceptujesz, że odbiorca może ponieść opłaty przy odprawie. Ceny porównuj dla tych samych wymiarów, wagi i opcji ubezpieczenia."
+566,perplexity,M08,ORLEN Paczka,,"Zasadniczo **nie — standardowa usługa ORLEN Paczka obsługuje przesyłki krajowe**. Wyjątkiem mogą być wysyłki realizowane w ramach konkretnych platform, np. etykiety Vinted, które obejmują wybrane trasy między Polską a niektórymi krajami. [5][7]
+
+Jeśli nadajesz przez Vinted, sprawdź, czy dany kraj jest dostępny dla konkretnej transakcji. **Nie oznacza to, że można nadać zwykłą paczkę zagraniczną bezpośrednio przez ORLEN Paczkę.** [5]"
+78,openai,I06,InPost,,"W skrócie:
+
+- **Automat paczkowy**: sam nadajesz i odbierasz paczkę z automatu, zwykle 24/7. To wygodne, gdy chcesz uniknąć kontaktu z kurierem i odebrać/wysłać paczkę o dowolnej porze.
+- **Kurier**: paczkę odbiera od Ciebie spod wskazanego adresu i doręcza ją do adresata albo do punktu. Jest lepszy, gdy paczka jest większa, cięższa albo nie chcesz wychodzić z domu.
+
+Najważniejsze różnice:
+- **Wygoda**: automat jest samoobsługowy, kurier przyjeżdża pod adres.
+- **Godziny**: automat zwykle działa całą dobę, kurier ma godziny pracy.
+- **Gabaryt**: automaty mają limity rozmiaru paczek; kurier częściej przyjmie większe przesyłki.
+- **Cena**: automat bywa tańszy.
+- **Czas**: zależy od firmy, ale obie opcje mogą być podobnie szybkie.
+
+Jeśli chcesz, mogę też porównać **InPost automat vs kurier**, albo pomóc wybrać **co będzie tańsze dla Twojej paczki**."
+182,openai,R03,InPost|DHL|DPD|GLS,,"Przy **ok. 100 paczkach miesięcznie** zwykle **nie opłaca się od razu podpisywać “dużej” umowy na sztywno** z jednym przewoźnikiem. Najczęściej najlepszy start to:
+
+1. **InPost** – jeśli większość klientów wybiera Paczkomat.  
+   Ma sens, bo dla e-commerce to często najwygodniejsza opcja i InPost ma ofertę biznesową oraz abonamenty/pakiety dla firm. ([inpost.pl](https://inpost.pl/oferta-dla-firm-i-allegro?utm_source=openai))
+
+2. **DHL eCommerce** lub **DPD** – jeśli wysyłasz też dużo przesyłek kurierskich door-to-door, większe gabaryty albo potrzebujesz mocniejszej obsługi B2B. DHL ma osobną ofertę dla firm i cenniki biznesowe, a InPost ma też klasycznego kuriera biznesowego. ([dhl.com](https://www.dhl.com/pl-pl/ecommerce/dla-biznesu/przesylki-krajowe/oferta.html?utm_source=openai))
+
+### Moja praktyczna rekomendacja
+Dla sklepu 100 paczek/miesiąc najczęściej najlepiej zrobić tak:
+
+- **główny przewoźnik: InPost Paczkomat**
+- **drugi przewoźnik: kurier typu DHL eCommerce albo DPD** na przypadki, gdy klient nie chce paczkomatu albo paczka jest nietypowa
+
+To daje dobrą cenę, elastyczność i mniej problemów z porównywaniem ofert. InPost wprost kieruje ofertę biznesową i abonamenty do firm, a ceny biznesowe zmieniały się ostatnio od 1 marca 2026 r., więc warto prosić o aktualną wycenę handlową zamiast opierać się tylko na cenniku publicznym. ([inpost.pl](https://inpost.pl/aktualnosci-aktualizacja-cennikow-inpost-od-1-marca-2026-r?utm_source=openai))
+
+### Jeśli chcesz prostą decyzję:
+- **95% paczek to małe/średnie przesyłki krajowe i klienci lubią automaty paczkowe?** → **InPost**
+- **Większość to kurier pod drzwi, często pobrania, większe paczki, B2B?** → **DHL eCommerce / DPD**
+- **Chcesz jeden startowy wybór bez długich negocjacji?** → **InPost** ([inpost.pl](https://inpost.pl/oferta-dla-firm-i-allegro?utm_source=openai))
+
+Jeśli chcesz, mogę Ci od razu przygotować **krótkie porównanie InPost vs DPD vs DHL vs GLS dla sklepu 100 paczek/miesiąc** i podpowiedzieć, **do kogo opłaca się pisać po ofertę**."
+285,perplexity,R09,DHL|UPS|DPD|GLS,,"W Polsce **nie ma jednego kuriera, który zawsze będzie najszybszy** — standardowe przesyłki wielu przewoźników zwykle docierają następnego dnia roboczego, ale zależy to od trasy, godziny nadania i wybranej usługi. [1][5]
+
+Jeśli zależy Ci na **pewnym doręczeniu jutro**, wybierz usługę ekspresową z gwarantowaną godziną doręczenia. **DHL i UPS oferują warianty do 9:00**, a **DPD — do 9:30**; dostępność i cena zależą od kodu pocztowego i warunków nadania. [12] GLS ma też ekspresową dostawę krajową do 10:00 lub 12:00. [2]
+
+**Krótko:** najszybszą opcją może być DHL lub UPS do 9:00; przy zwykłej paczce sprawdź przewidywany termin dla konkretnej trasy i nadaj ją odpowiednio wcześnie. [12]"
+11,gemini,I01,InPost|ORLEN Paczka|DPD|DHL|Poczta Polska,,"Nadanie paczki bez drukarki jest dziś bardzo proste. Większość firm kurierskich w Polsce umożliwia wygenerowanie cyfrowego kodu nadania lub kodu QR w aplikacji.
+
+Oto najpopularniejsze i najwygodniejsze sposoby:
+
+---
+
+### 1. InPost (Paczkomat) – najszybsza metoda
+Do nadania wystarczy smartfon z aplikacją **InPost Mobile**:
+1. Zainstaluj i otwórz aplikację **InPost Mobile**, a następnie wybierz opcję **„Nadaj”** (ikonka ze strzałką).
+2. Wybierz gabaryt paczki (A, B lub C) oraz sposób doręczenia (do Paczkomatu lub pod adres).
+3. Uzupełnij dane odbiorcy i opłać przesyłkę (np. Blikiem).
+4. W aplikacji pojawi się **kod QR** oraz **9-cyfrowy kod nadania**.
+5. **Ważne:** Na zapakowanym kartonie napisz czytelnie markerem lub długopisem ten 9-cyfrowy kod (lub numer telefonu odbiorcy).
+6. Podejdź do dowolnego Paczkomatu, w aplikacji kliknij **„Otwórz skrytkę zdalnie”** lub w czytniku automatu zeskanuj kod QR / wpisz kod nadania.
+7. Włóż paczkę i zamknij skrytkę. Etykietę naklei kurier, który odbierze przesyłkę.
+
+---
+
+### 2. ORLEN Paczka
+Podobnie jak w InPost, przesyłkę można nadać bez etykiety:
+1. Pobierz aplikację **ORLEN Paczka** lub wejdź na stronę nadania.
+2. Wypełnij dane, opłać paczkę i pobierz kod nadania.
+3. Napisz kod nadania na kartonie.
+4. Paczkę możesz nadać w automacie paczkowym (skanując kod QR) lub w punkcie stacjonarnym (np. na stacji paliw Orlen, w kiosku RUCHu) – pracownik zeskanuje kod z Twojego telefonu.
+
+---
+
+### 3. DPD / DHL
+* **W automatach paczkowych (DPD Pickup Station / DHL Box):** Aplikacje DPD i DHL umożliwiają nadanie bezetykietowe – paczkę umieszcza się w skrytce po zeskanowaniu kodu z aplikacji.
+* **W punktach stacjonarnych (DPD Pickup / DHL POP):** Zanosisz paczkę do partnerskiego punktu (np. Żabka, salonik prasowy). Podajesz numer przesyłki, a pracownik punktu drukuje etykietę na miejscu.
+
+---
+
+### 4. Poczta Polska / Pocztex
+1. Możesz zanieść zapakowaną paczkę bezpośrednio do **okienka na Poczcie Polskiej**.
+2. Dane adresowe możesz napisać ręcznie na paczce lub wygenerować przesyłkę online – pracownik placówki wydrukuje etykietę adresową na miejscu.
+
+---
+
+### 💡 Sprzedajesz na Vinted lub OLX?
+Przy generowaniu wysyłki przez te serwisy:
+* Wybierz opcję nadania bez etykiety (np. **InPost bez etykiety** lub **DPD Pickup bez etykiety**).
+* Platforma wyświetli kod nadania/kod kreskowy na ekranie telefonu.
+* Zapisz ten kod odręcznie na przesyłce i zanieś ją do automatu lub wskazanego punktu.
+
+---
+
+**Podsumowując – złota zasada:**
+Jeśli nie drukujesz etykiety, **zawsze napisz na kartonie markerem kod nadania lub numer telefonu odbiorcy**. Dzięki temu paczka nie pomyli się kurierowi podczas oklejania."
+470,openai,M02,ORLEN Paczka,,"Dla klientów indywidualnych ORLEN Paczka podaje obecnie cennik obowiązujący od **17.08.2026**. Na stronie głównej usługi widnieją ceny od **13,49 zł** za przesyłkę w standardowej ofercie, a w starszym cenniku dla klientów indywidualnych były stawki **11,99 / 12,99 / 13,99 zł** zależnie od gabarytu. ([orlenpaczka.pl](https://www.orlenpaczka.pl/cenniki-i-regulaminy/?utm_source=openai))
+
+Jeśli chcesz, mogę sprawdzić i podać:
+- **dokładną cenę dla gabarytu S/M/L**,
+- cenę **przez aplikację**,
+- albo **koszt dla firmy / biznesu**."
+79,openai,I06,,,"Najkrócej: **automat paczkowy** to samodzielny punkt nadania/odbioru, a **kurier** odbiera i dostarcza paczkę pod wskazany adres.
+
+### Główne różnice
+
+**1. Odbiór i nadanie**
+- **Automat paczkowy:** sam zanosisz paczkę do automatu i sam ją odbierasz z automatu.
+- **Kurier:** przyjeżdża pod adres nadania, a doręcza pod adres odbiorcy.
+
+**2. Wygoda**
+- **Automat:** wygodny, jeśli masz automat blisko i chcesz nadać/odebrać o dowolnej porze.
+- **Kurier:** wygodniejszy, gdy nie chcesz wychodzić z domu lub firmy.
+
+**3. Godziny**
+- **Automat:** zwykle dostępny 24/7 albo bardzo długo.
+- **Kurier:** odbiór i doręczenie zależą od godzin pracy przewoźnika oraz dostępności doręczyciela.
+
+**4. Cena**
+- **Automat:** zazwyczaj tańszy.
+- **Kurier:** zwykle droższy, bo usługa „door-to-door” jest bardziej obsługowa.
+
+**5. Rozmiar paczki**
+- **Automat:** ograniczenie wymiarów i wagi.
+- **Kurier:** zwykle większa elastyczność, choć też są limity.
+
+**6. Szybkość**
+- **Automat:** bywa szybki, szczególnie na popularnych trasach.
+- **Kurier:** często podobnie szybki, ale zależy od trasy i organizacji odbioru.
+
+### Kiedy wybrać co?
+- **Automat paczkowy**: gdy chcesz **taniej, szybko i bez kontaktu z kurierem**.
+- **Kurier**: gdy chcesz **wygodnie nadać/odebrać spod drzwi** albo paczka jest większa.
+
+Jeśli chcesz, mogę też porównać **automat paczkowy vs kurier** pod kątem **ceny, czasu dostawy i bezpieczeństwa** w tabeli."
+350,openai,P04,InPost|Poczta Polska,,"To zależy od **rozmiaru i sposobu nadania**, ale jeśli porównujemy **zwykłą paczkę krajową**, to **InPost zwykle wychodzi taniej** niż Poczta Polska. Na cenniku InPost Paczkomat 24/7 ceny zaczynają się od **11,49 zł** (gabaryt XS), a dalej są **16,49 zł / 18,49 zł / 20,49 zł** zależnie od rozmiaru. ([inpost.pl](https://inpost.pl/cenniki?utm_source=openai))
+
+Dla Poczty Polskiej trzeba patrzeć na konkretną usługę — na stronie Poczty są różne cenniki, m.in. dla **Pocztexu** i **Paczki Pocztowej**, ale sama strona z cennikami pokazuje, że obowiązuje osobny, aktualny cennik od **1 kwietnia 2026 r.** ([poczta-polska.pl](https://www.poczta-polska.pl/cenniki/?utm_source=openai))
+
+**W praktyce:**
+- **najtaniej zazwyczaj:** InPost Paczkomat, jeśli paczka mieści się w gabarycie XS/A/B/C, ([inpost.pl](https://inpost.pl/cenniki?utm_source=openai))
+- **Poczta Polska** bywa korzystna przy specyficznych usługach, np. jeśli potrzebujesz nadania w placówce, przesyłki niestandardowej albo korzystasz z innego rodzaju usługi niż standardowa paczka. ([poczta-polska.pl](https://www.poczta-polska.pl/cenniki/?utm_source=openai))
+
+Jeśli chcesz, mogę zrobić **dokładne porównanie 1:1** dla Twojej paczki — podaj:
+1. wymiary,  
+2. wagę,  
+3. czy chcesz nadać z domu / w automacie / w placówce."
+56,gemini,I04,InPost|DPD|DHL|GLS|Poczta Polska,,"To, jak należy postąpić w przypadku zagubienia paczki przez kuriera, zależy przede wszystkim od tego, **w jakiej roli występujesz**: czy jesteś kupującym w sklepie internetowym, czy też sam nadałeś przesyłkę.
+
+---
+
+### Sytuacja 1: Kupiłeś towar w sklepie internetowym (jesteś odbiorcą)
+
+Jeśli paczka to zakupy online, **nie musisz (a często nawet nie możesz) składać reklamacji u kuriera**.
+
+* **Dlaczego?** Zgodnie z polskim prawem (art. 548 § 3 Kodeksu cywilnego) odpowiedzialność za towar spoczywa na sprzedawcy aż do momentu, gdy paczka fizycznie trafi w Twoje ręce. 
+* **Co zrobić?**
+  1. Skontaktuj się bezpośrednio ze **sklepem internetowym**.
+  2. Poinformuj, że według trackingu paczka utknęła/zaginęła i nie została doręczona.
+  3. Zażądaj **ponownego wysłania towaru** lub **zwrotu pieniędzy**.
+  4. To sklep ma umowę z firmą kurierską i to on dochodzi odszkodowania od przewoźnika – Ciebie ten proces nie interesuje.
+
+---
+
+### Sytuacja 2: Sam nadałeś paczkę lub wysyłała ją osoba prywatna
+
+Prawo do reklamacji przysługuje co do zasady **nadawcy** (osobie, która zawarła umowę z kurierem), chyba że zrzeknie się tego prawa na rzecz odbiorcy (tzw. cesja praw). Jeśli korzystałeś z brokera kurierskiego (np. Furgonetka, Apaczka), reklamację składasz zazwyczaj za jego pośrednictwem.
+
+#### 1. Upewnij się, że paczka rzeczywiście zaginęła
+* Sprawdź historię śledzenia przesyłki.
+* Skontaktuj się najpierw z infolinią/BOK przewoźnika, aby zlecić tzw. **interwencję / poszukiwanie paczki** w sortowniach (często paczka odnajduje się w ciągu 2–5 dni roboczych).
+* Jeśli poszukiwania nie przyniosą skutku, złóż oficjalną reklamację.
+
+#### 2. Jak złożyć reklamację krok po kroku?
+
+1. **Wybierz właściwą drogę:**
+   * Większość firm kurierskich (InPost, DPD, DHL, GLS, FedEx, Poczta Polska itp.) posiada dedykowany **formularz reklamacyjny online** na swojej stronie internetowej. Jest to najszybszy sposób.
+2. **Przygotuj niezbędne dane i dokumenty:**
+   * **Numer listu przewozowego** (numer paczki).
+   * **Dane nadawcy i odbiorcy**.
+   * **Dowód nadania / opłacenia usługi**.
+   * **Uzasadnienie** (np. całkowite zaginięcie przesyłki – brak aktualizacji statusu od X dni).
+   * **Dokument potwierdzający wartość zawartości** (faktura zakupu, paragon, wyciąg z konta, potwierdzenie transakcji z Vinted/OLX). *Bez tego kurier wypłaci odszkodowanie tylko w minimalnej, zryczałtowanej kwocie lub nie uzna pełnej wartości.*
+   * **Określenie roszczenia:** kwota, jakiej żądasz (wartość rzeczy + koszt nadania paczki).
+   * **Numer konta bankowego** do wypłaty odszkodowania.
+
+---
+
+### Ile czasu ma kurier na odpowiedź?
+
+* Przewoźnik ma **30 dni** kalendarzowych na rozpatrzenie reklamacji (liczone od dnia złożenia kompletnego wniosku).
+* **Brak odpowiedzi w terminie 30 dni** zgodnie z prawem oznacza, że reklamacja została **uznana w całości**.
+
+---
+
+### Co zrobić, jeśli reklamacja zostanie odrzucona?
+
+1. **Złóż odwołanie:** Masz prawo odwołać się od decyzji w terminie 14 dni od jej otrzymania, przedstawiając dodatkowe argumenty lub dokumenty.
+2. **Pomoc rzecznika:** Jeśli jesteś konsumentem, możesz zwrócić się o bezpłatną pomoc do **Miejskiego lub Powiatowego Rzecznika Konsumentów**.
+3. **UKE / Sąd:** Sprawę można skierować na drogę pozasądowego rozwiązywania sporów (np. do Urzędu Komunikacji Elektronicznej w przypadku usług pocztowych) lub do sądu cywilnego."
+119,perplexity,I08,InPost|DPD|Poczta Polska,,"Aby wysłać paczkę za pobraniem:
+
+1. **Spakuj i zabezpiecz paczkę** oraz przygotuj dane nadawcy i odbiorcy.
+2. **Wybierz przewoźnika** obsługującego pobranie, np. InPost, DPD lub Pocztę Polską.
+3. **Wypełnij formularz nadania** online lub w placówce. Zaznacz opcję „pobranie” i wpisz kwotę, którą odbiorca ma zapłacić. [8][10]
+4. **Podaj sposób zwrotu pieniędzy** — najczęściej numer konta bankowego; niektórzy przewoźnicy oferują też przekaz na adres. [6]
+5. **Opłać nadanie**, wydrukuj i naklej etykietę, jeśli przewoźnik tego wymaga, a następnie nadaj paczkę w punkcie, automacie lub przez kuriera. [10]
+6. **Zachowaj potwierdzenie nadania** i śledź przesyłkę. Po doręczeniu przewoźnik przekazuje pobraną kwotę zgodnie z wybraną opcją. [8][11]
+
+Odbiorca otrzyma paczkę po zapłaceniu pobrania. Sprawdź wcześniej u wybranego przewoźnika limity kwoty oraz opłaty za tę usługę."
+110,openai,I08,InPost|DPD|DHL|GLS|Poczta Polska,,"Aby wysłać paczkę **za pobraniem (COD)**, zwykle robisz to tak:
+
+1. **Wybierz przewoźnika**  
+   Sprawdź, czy dana firma kurierska lub punkt nadawczy oferuje opcję **pobrania**.
+
+2. **Nadaj przesyłkę**
+   - przez stronę internetową przewoźnika,
+   - w aplikacji,
+   - w punkcie nadania,
+   - albo przez platformę typu broker kurierski.
+
+3. **Wypełnij dane odbiorcy**
+   Podajesz:
+   - imię i nazwisko / nazwę firmy,
+   - adres,
+   - numer telefonu,
+   - e-mail, jeśli wymagany.
+
+4. **Ustaw kwotę pobrania**
+   Wpisujesz, **ile kurier ma odebrać od odbiorcy przy doręczeniu**.  
+   To ważne: kwota pobrania trafia do Ciebie później, zwykle przelewem od przewoźnika.
+
+5. **Wybierz sposób wypłaty pobrania**
+   Często trzeba podać:
+   - numer konta bankowego,
+   - dane do rozliczenia.
+
+6. **Opłać przesyłkę**
+   Samo pobranie nie oznacza, że wysyłka jest darmowa — zazwyczaj płacisz za usługę nadania osobno.
+
+7. **Przyklej etykietę i przekaż paczkę**
+   W zależności od przewoźnika:
+   - drukujesz etykietę,
+   - lub pokazujesz kod w punkcie/kurierowi.
+
+### Ważne
+- Odbiorca płaci **przy odbiorze** — gotówką lub kartą, zależnie od przewoźnika.
+- Sprawdź **maksymalną kwotę pobrania** i ewentualną **prowizję**.
+- Nie każdy przewoźnik realizuje pobranie dla każdej usługi.
+
+Jeśli chcesz, mogę Ci też podać **krok po kroku dla InPost, DPD, DHL, GLS albo Poczty Polskiej**."
+589,openai,M10,ORLEN Paczka,,"W ORLEN Paczka paczkę trzeba odebrać w **3 dni robocze** od otrzymania pierwszego SMS-a lub maila z kodem odbioru. Po tym czasie przesyłka wraca do nadawcy albo do punktu nadania. ([orlenpaczka.pl](https://www.orlenpaczka.pl/faq/?utm_source=openai))
+
+Jeśli chcesz, mogę też policzyć, **do kiedy dokładnie masz czas** na odbiór, jeśli podasz datę i godzinę otrzymania SMS/maila."
+370,gemini,P05,DPD|GLS|InPost,,"Wybór między **DPD** a **GLS** to jedno z najczęstszych dylematów w polskim e-commerce. Obaj przewoźnicy to europejscy giganci, jednak mają nieco inną specyfikę, zasięg infrastruktury i mocne strony.
+
+---
+
+### 1. Rozpoznawalność i sieć punktów (OOH – Out of Home)
+* **DPD:** Zdecydowany zwycięzca w Polsce. Sieć **DPD Pickup** (sklepy partnerskie, Żabki, stacje paliw oraz własne automaty paczkowe) liczy dziesiątki tysięcy punktów. Klienci w Polsce bardzo dobrze znają markę, co buduje zaufanie na etapie koszyka.
+* **GLS:** Sieć punktów (GLS ParcelShop) oraz własnych automatów paczkowych intensywnie rośnie, ale pod względem zagęszczenia w Polsce wciąż ustępuje DPD.
+
+### 2. Doświadczenie klienta końcowego (B2C)
+* **DPD:** Posiada usługę **DPD Predict** – rano klient otrzymuje informację o doręczeniu wraz z precyzyjnym (zazwyczaj 1–2 godzinnym) oknem czasowym i danymi kuriera. Jest to ogromna zaleta w doręczeniach do domu.
+* **GLS:** Oferuje usługę **FlexDeliveryService** (w cenie standardowej lub jako bazowa opcja), która pozwala odbiorcy łatwo przekierować paczkę na inny dzień, pod inny adres lub do punktu, zanim kurier podejmie próbę. 
+
+### 3. Jakość doręczeń i bezpieczeństwo towaru
+* **GLS:** W branży e-commerce GLS cieszy się często opinią przewoźnika o **niższym wskaźniku uszkodzeń paczek** i mniejszej rotacji kurierów w porównaniu do największych graczy masowych. Jeśli wysyłasz towar podatny na uszkodzenia (np. ceramikę, elektronikę, kosmetyki w szkle), GLS bywa bezpieczniejszym wyborem.
+* **DPD:** Z racji gigantycznych wolumenów sortownie DPD pracują pod bardzo dużą presją (szczególnie w szczytach paczkowych / Q4). Wymaga to bardzo solidnego, standardowego pakowania towaru.
+
+### 4. Wysyłka zagraniczna (Cross-border)
+* **GLS:** Tradycyjnie uchodzi za jednego z najlepszych i najbardziej stabilnych operatorów drogowych do Europy Zachodniej (zwłaszcza Niemcy, kraje Beneluksu, Austria, Czechy). Oferuje bardzo płynne tranzyty i rzetelne doręczenia.
+* **DPD:** Należy do Grupy Geopost – dysponuje jedną z największych sieci w Europie. Oferuje atrakcyjne stawki zagraniczne i proste procedury, choć jakość doręczenia zależy od lokalnego podwykonawcy w danym kraju.
+
+### 5. Ceny i negocjacje umów
+* **DPD:** Często ma sztywniejsze progi i wymaga stałych wolumenów, aby uzyskać dobre stawki. Zdarzają się dodatkowe dopłaty sezonowe (peak season) czy opłaty za elementy niestandardowe.
+* **GLS:** Aby konkurować z DPD i InPostem w segmencie małych i średnich sklepów, GLS bywa **bardziej elastyczny negocjacyjnie** – chętniej zaoferuje atrakcyjne stawki na start przy mniejszej liczbie paczek.
+
+---
+
+### Podsumowanie – co wybrać?
+
+#### Wybierz **DPD**, jeśli:
+1. Twoja sprzedaż koncentruje się głównie na **klientach indywidualnych w Polsce (B2C)**.
+2. Zależy Ci na rozbudowanej sieci odbioru w punktach (**DPD Pickup**) obok doręczeń pod drzwi.
+3. Klienci oczekują dokładnego okienka godzinowego doręczenia (usługa Predict).
+
+#### Wybierz **GLS**, jeśli:
+1. Planujesz **ekspansję zagraniczną** (szczególnie rynek niemiecki i Europa Środkowo-Zachodnia) drogą lądową.
+2. Sprzedajesz delikatniejszy lub droższy asortyment i kluczowy jest niski wskaźnik uszkodzeń.
+3. Startujesz ze sklepem i szukasz przewoźnika, z którym łatwiej wynegocjować dobrą stawkę na mniejszych wolumenach.
+
+---
+
+### Dobra praktyka w polskim e-commerce:
+* **Nie opieraj się na jednym kurierze:** Standardem rynkowym jest integracja (np. przez Baselinker, Apaczkę czy Furgonetkę) dająca klientowi wybór.
+* **Z perspektywy polskiego klienta:** Zestaw **InPost Paczkomat + kurier (DPD lub GLS)** pokrywa niemal 100% preferencji zakupowych odbiorców w Polsce. Jeśli musisz wybrać tylko jednego kuriera pod drzwi do pary z Paczkomatami, **DPD** ma nieco większą siłę przyciągania w Polsce, ale **GLS** wygrywa jakością obsługi trudniejszych przesyłek i eksportem."
+235,gemini,R06,DPD|GLS|InPost|DHL|UPS|Poczta Polska,,"Wybór najlepszego kuriera zależy przede wszystkim od **kraju docelowego**, **wymaganego czasu doręczenia** oraz **budżetu**. 
+
+Oto zestawienie najlepszych opcji w zależności od Twoich potrzeb:
+
+---
+
+### 1. Na terenie Unii Europejskiej (najlepszy stosunek ceny do jakości)
+Jeśli wysyłasz paczkę drogową do krajów takich jak Niemcy, Holandia, Czechy, Francja czy Włochy (czas doręczenia: zazwyczaj 2–4 dni robocze):
+* **DPD** – zdecydowany faworyt w wysyłkach do UE. Mają gęstą sieć drogową, bardzo dobry tracking i przewidywalne czasy doręczeń.
+* **GLS** – również świetny na trasach europejskich, często bardzo konkurencyjny cenowo, zwłaszcza w kierunku Niemiec i Europy Środkowo-Wschodniej.
+* **InPost (przesyłki międzynarodowe)** – obecnie InPost pozwala wysyłać paczki z polskich Paczkomatów do automatów lub na adres m.in. we Francji, Włoszech, Hiszpanii, Portugalii czy krajach Beneluksu. Jest to jedna z najwygodniejszych i najtańszych opcji.
+
+### 2. Poza Unię Europejską (Wielka Brytania, USA, Azja itp.) oraz przesyłki ekspresowe
+Jeśli zależy Ci na czasie (lotniczy transport 24–48h) lub wysyłasz paczkę poza UE, gdzie potrzebna jest sprawna odprawa celna:
+* **DHL Express** – absolutny lider w przesyłkach lotniczych i obsłudze celnej na całym świecie. Drogi, ale niemal bezbłędny pod względem terminowości.
+* **UPS** – bardzo mocny gracz, zwłaszcza na trasie Polska–USA oraz do Wielkiej Brytanii. Oferuje zarówno opcje ekonomiczne (UPS Standard), jak i ekspresowe (UPS Saver).
+* **FedEx** – świetna alternatywa dla DHL i UPS, szczególnie przy paczkach do Ameryki Północnej.
+
+### 3. Tanie, małe przesyłki (niewielki budżet, brak pośpiechu)
+* **Poczta Polska (Pocztex / Global Expres)** – dobre rozwiązanie dla małych, lekkich przesyłek (np. do 2 kg), gdy czas doręczenia (często 1–2 tygodnie) nie ma kluczowego znaczenia.
+
+---
+
+### 💡 Najważniejsza rada: skorzystaj z brokerów kurierskich
+Jeśli wysyłasz paczkę jako **osoba prywatna** lub **nie masz podpisanej umowy biznesowej**, **nie zamawiaj kuriera bezpośrednio na stronie DHL, UPS czy DPD** – zapłacisz stawkę cennikową, która bywa absurdalnie wysoka.
+
+Zamiast tego skorzystaj z porównywarek / brokerów kurierskich, takich jak:
+* **Furgonetka.pl**
+* **Apaczka.pl**
+* **Epaka.pl**
+* **Sendit.pl**
+
+Wpisujesz tam wymiary, wagę i kraj docelowy, a serwis pokazuje ceny u kilku przewoźników naraz. Dzięki ich zniżkom wolumenowym zapłacisz często **od 40% do nawet 70% taniej** za tę samą usługę DPD, GLS czy UPS.
+
+---
+
+### O czym pamiętać przed wysyłką?
+1. **Odprawa celna (kraje poza UE, np. Wielka Brytania, Norwegia, USA):** Do paczki musisz dołączyć deklarację celną (opis zawartości, wartość) oraz fakturę lub fakturę pro forma.
+2. **Waga gabarytowa:** Firmy kurierskie przeliczają objętość paczki na wagę gabarytową. Jeśli paczka jest duża, ale lekka, zapłacisz jak za ciężką – pakuj w jak najmniejszy karton.
+3. **Przedmioty zabronione:** Upewnij się, że nie wysyłasz alkoholu, wyrobów tytoniowych, aerozoli, baterii litowych (np. w laptopach/telefonach – wymagają specjalnych deklaracji) ani żywności szybko psującej się."
+31,perplexity,I02,ORLEN Paczka|InPost|DPD|Poczta Polska,,"Paczka do 5 kg wysyłana w Polsce kosztuje zwykle **około 12–25 zł**, zależnie od przewoźnika, wymiarów i sposobu nadania. Przykładowo: Orlen Paczka od **11,99 zł**, InPost do Paczkomatu od **16,49 zł**, a DPD Pickup około **22,49 zł**. [8][11]
+
+Jeśli wybierzesz Pocztę Polską, paczka pocztowa o wadze powyżej 2 kg do 5 kg kosztuje od **18 zł**, zależnie od wariantu usługi. [5] Ceny mogą się różnić przy dostawie pod drzwi, większych gabarytach lub usługach dodatkowych."
+213,openai,R05,InPost|DHL|ORLEN Paczka|DPD,,"Najczęściej **InPost** ma największą szansę być najbliżej w małym mieście w Polsce, bo ma największą sieć automatów paczkowych. InPost podaje, że jego Paczkomaty są zwykle „tuż za rogiem”, a sieć liczy ponad 27 500 automatów paczkowych. ([inpost.pl](https://inpost.pl/odbieram?utm_source=openai))
+
+Ale **nie da się uczciwie wskazać najbliższej sieci bez Twojej miejscowości** — to zależy od konkretnego miasta i okolicy. W małych miejscowościach często dobrze wypada też **DHL POP / DHL BOX 24/7** oraz **ORLEN Paczka**, bo działają w sklepach i na stacjach, ale ich gęstość bywa mniejsza niż InPost. ([dpd.com](https://www.dpd.com/pl/pl/dpd-pickup/?utm_source=openai))
+
+Jeśli podasz **nazwę miejscowości albo kod pocztowy**, sprawdzę i porównam:
+- InPost,
+- DPD Pickup,
+- DHL BOX 24/7,
+- ORLEN Paczka,
+
+i powiem, **która sieć ma punkt najbliżej Ciebie**."
+185,openai,R03,InPost|DHL|DPD|GLS,,"Przy **~100 paczkach miesięcznie** najczęściej **nie opłaca się podpisywać od razu “twardej” umowy z jedną firmą tylko na ślepo**. Zwykle najlepsza opcja to:
+
+**1) InPost** – jeśli sprzedajesz głównie w Polsce i Twoi klienci lubią Paczkomaty.  
+Ma ofertę dla firm e-commerce, w tym abonament startowy **Micro Firma 150** za **150 zł netto/mies.** z umową na **24 miesiące**; po przekroczeniu abonamentu paczki nadal idą w promocyjnej cenie. InPost pokazuje też ceny od **25,30 zł** dla kuriera standardowego i oferuje mocne opcje doręczeń/zwrotów dla e-commerce. ([inpost.pl](https://inpost.pl/abonamenty-dla-firm/abonament?utm_source=openai))
+
+**2) DHL eCommerce** – jeśli zależy Ci na klasycznej obsłudze biznesowej, odbiorach i przejrzystych dokumentach/cennikach dla firm. DHL ma aktualne cenniki biznesowe i ofertę krajową dla e-commerce, z cennikiem biznesowym obowiązującym od **05/2026** oraz dokumentami dla klientów biznesowych. ([dhl.com](https://www.dhl.com/pl-pl/ecommerce/dla-biznesu/przesylki-krajowe/oferta.html?utm_source=openai))
+
+### Co bym rekomendował przy Twojej skali
+Dla **100 paczek/miesiąc** najczęściej:
+- **InPost** będzie najlepszy, jeśli chcesz prostoty i wysokiej akceptacji wśród klientów B2C,
+- **DHL eCommerce** warto rozważyć, jeśli masz bardziej regularny pickup, chcesz negocjować warunki biznesowe albo wysyłasz też większe/niestandardowe paczki. ([inpost.pl](https://inpost.pl/abonamenty-dla-firm/abonament?utm_source=openai))
+
+### Najpraktyczniejsza rada
+Poproś o oferty od **2 firm naraz**:
+- **InPost**
+- **DHL eCommerce**
+  
+i porównaj nie tylko cenę za paczkę, ale też:
+- koszt odbioru,
+- dopłaty paliwowe i gabarytowe,
+- czas doręczenia,
+- wygodę zwrotów,
+- minimalny okres umowy. ([dhl.com](https://www.dhl.com/pl-pl/ecommerce/dla-biznesu/obsluga/oplata-paliwowa.html?utm_source=openai))
+
+Jeśli chcesz, mogę Ci od razu zrobić **krótkie porównanie InPost vs DHL vs DPD vs GLS pod sklep 100 paczek/mies.** i podpowiedzieć, **która opcja wyjdzie najtaniej przy Twoim typie produktów**."
+87,perplexity,I06,InPost,,"Najkrócej: **automat wymaga, żebyś samodzielnie zaniósł paczkę do skrytki**, a przy opcji kurierskiej **kurier odbiera ją pod wskazanym adresem**. Automat to zwykle większa elastyczność co do pory nadania; kurier — większa wygoda, gdy paczka jest ciężka lub nieporęczna. [1][2]
+
+- **Nadanie w automacie:** opłacasz przesyłkę, wybierasz automat i wkładasz paczkę do skrytki, korzystając z etykiety, kodu lub aplikacji. [1][14]
+- **Odbiór przez kuriera:** zamawiasz odbiór, przygotowujesz paczkę i czekasz pod wskazanym adresem w ustalonym terminie. [2]
+- **Rozmiar paczki:** automaty mają limity skrytek; w InPost największy standardowy gabaryt do nadania w Paczkomacie ma maksymalnie 41 × 38 × 64 cm i waży do 25 kg. Większe paczki można nadać kurierem, zależnie od warunków przewoźnika. [3][7]
+- **Koszt:** zależy od przewoźnika i wybranej usługi; odbiór spod drzwi może kosztować więcej niż samodzielne nadanie, więc najlepiej porównać ceny dla konkretnej paczki. [4]
+
+**Wybierz automat**, jeśli paczka mieści się w skrytce i możesz wygodnie do niej podejść. **Wybierz kuriera**, jeśli paczka jest duża, ciężka albo zależy Ci na odbiorze z domu."
