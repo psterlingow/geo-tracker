@@ -1,7 +1,15 @@
 # GEO tracker: pomiar widoczności marek w odpowiedziach AI
 
 Skrypt zadaje ten sam zestaw zapytań modelom AI z włączonym wyszukiwaniem w sieci (OpenAI, Gemini, Perplexity), wielokrotnie, i mierzy, jak często i na którym miejscu pojawiają się w odpowiedziach wybrane marki oraz jakie źródła są cytowane.
+## Najważniejsze wyniki
 
+- Na pytania o wybór przewoźnika AI poleca ORLEN Paczkę w 34–50% odpowiedzi, InPost w 70–100%.
+- ORLEN Paczka pojawia się zawsze przy pytaniach o wysyłkę z OLX i Vinted, a nigdy przy pytaniach o niezawodność i obsługę klienta.
+- Silniki różnią się: Gemini odsyła do pośredników kurierskich w 41% odpowiedzi, OpenAI w 3%, Perplexity wcale.
+
+Pełny raport: [raport/raport_geo_kurierzy_2026-10.pdf](raport/raport_geo_kurierzy_2026-10.pdf)
+
+Pomiar: 6 października 2026 r., 40 pytań, 3 silniki, 5 powtórzeń, 600 odpowiedzi. Analiza niezależna, niezlecona przez żadną z badanych firm.
 ## Co mierzy
 
 - **Wskaźnik wzmianek** marki z 95-procentowym przedziałem ufności Wilsona
